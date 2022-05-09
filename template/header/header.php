@@ -1,8 +1,10 @@
+<script src="https://cdn.jsdelivr.net/npm/sweetalert@2.1.2/dist/sweetalert.min.js"></script>
+
 <div class="parte-1 menu-fixed">
     <header>        <!-- Inicio barra de navegación -->
         <nav class="navbar navbar-expand-md navbar-dark">
             <div class="container">
-                <a class="logo navbar-brand" href="/"><img src="/view/assets/img/new/logo-blanco.svg"
+                <a class="logo navbar-brand" href="/"><img src="../../assets/img/new/logo-blanco.svg"
                                                            alt="Logo de Scart"></a>
 
 
@@ -129,7 +131,7 @@
                 <div class="col-auto ">
                     <div class="h-100 iconos">
                         <a href="#iniciar-sesion" data-bs-toggle="modal" aria-label="Iniciar sesión"
-                           title="Iniciar sesión"><img height="20" src="/view/assets/img/new/icon-perfil.svg"
+                           title="Iniciar sesión"><img height="20" src="../../assets/img/new/icon-perfil.svg"
                                                        alt="Ícono de usuario" aria-hidden="true"/></a>
                     </div>
                 </div>
