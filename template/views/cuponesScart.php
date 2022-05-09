@@ -1,7 +1,10 @@
+<header class="landing">
+
+</header>
 <div class="carousel">
     <div class="carousel__contenedor">
         <button aria-label="Anterior" class="carousel__anterior"></button>
-        <div class="carousel1__lista glider draggable">
+        <div class="carousel__lista glider draggable">
             <div class="glider-track" style="width: 2942px;">
 
                 <!--INICIO ELEMENTO 1-->
