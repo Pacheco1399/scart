@@ -53,16 +53,17 @@
 
 </head>
 <?php include("../views/header/header.php"); ?>
+<img src="../../assets/img/new/happy-couple-lying-on-sofa-and-using-laptop-2021-08-28-17-19-31-utc%201.png" alt="pic"
+     class="img-grande">
+<img src="../../assets/img/new/logo-blanco.png" class="img-scart" alt="pic2">
 <body class="bg-light user-view">
 
 <main class="mt-5">
     <div class="row">
         <div class="col-md-6 offset-3">
 
-            <?php include("../views/cuponesScart.php") ?>
-            <?php include("../views/cuponesScart2.php") ?>
+            <?php include("../views/banners/banner1.php") ?>
             <?php include("../views/cuponesDeTecnologia.php") ?>
-
         </div>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
