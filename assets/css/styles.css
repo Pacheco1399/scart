@@ -165,10 +165,13 @@ nav .logo {
     /* Sombra 2 */
     filter: drop-shadow(0px 2px 15px rgba(0, 0, 0, 0.12));
     border-radius: 20px;
+
+    overflow: hidden;
+
 }
 
 /* Rectangle 73 */
-.rectangle73{
+.base-coupon-card{
     position: absolute;
     left: 0%;
     right: 0%;
@@ -178,12 +181,13 @@ nav .logo {
 }
 
 /* Rectangle 74 */
-.rectangle74 {
+.imagen-coupon-card {
     position: absolute;
     left: 0%;
     right: 51.97%;
     top: 0%;
     bottom: 0%;
+    z-index: -1;
 }
 
 /* Suspendisse orci tortor, auctor non luctus */
@@ -310,13 +314,13 @@ nav .logo {
 
 /* Group 174 */
 .label-sale{
-    position: absolute;
-    left: 2.63%;
-    right: 75.33%;
-    top: 77.04%;
-    bottom: 5.93%;
-}
+    height: 46px;
+    width: 134px;
+    left: 16px;
+    top: 208px;
+    border-radius: 8px;
 
+}
 
 /* Rectangle 78 */
 .label-sale-content {
@@ -333,11 +337,10 @@ nav .logo {
 
 /* 15% dcto. */
 .label-sale-text {
+    width: 100%;
     position: absolute;
-    left: 4.93%;
-    right: 77.47%;
-    top: 79.63%;
-    bottom: 8.52%;
+    top: 15%;
+    left: 13%;
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
@@ -363,28 +366,25 @@ nav .logo {
 
 /* Rectangle 78 */
 .share-coupon-content {
+    height: 40px;
+    width: 40px;
+    border-radius: 8px;
     position: absolute;
     left: 2.63%;
     right: 90.79%;
     top: 5.93%;
     bottom: 79.26%;
-
     background: rgba(0, 0, 0, 0.5);
     backdrop-filter: blur(4px);
     /* Note: backdrop-filter has minimal browser support */
-    border-radius: 8px;
 }
 
 /* icon-share */
 .share-coupon-icon {
     position: absolute;
-    left: 3.95%;
-    right: 92.11%;
-    top: 8.89%;
-    bottom: 82.22%;
+    left: 35%;
+    top: 35%;
 }
-
-
 
 /* Vector */
 .share-coupon-icon-vector {
@@ -394,7 +394,7 @@ nav .logo {
     top: 8.33%;
     bottom: 8.33%;
 
-    background: #FFFFFF;
+    color: #FFFFFF;
 
 }
 /* Rectangle 79 */
@@ -407,11 +407,8 @@ nav .logo {
     bottom: 86.3%;
 }
 
-
 /* Rectangle 75 */
 .nuevos-cupones{
-
-
     position: absolute;
     width: 1286px;
     height: 252px;
