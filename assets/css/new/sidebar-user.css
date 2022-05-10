@@ -1,0 +1,91 @@
+.wrapper {
+    padding-top:110px;
+    display: flex;
+}
+
+/* ---------------------------------------------------
+    SIDEBAR STYLE
+----------------------------------------------------- */
+.list-group-item{
+    color: white;
+    background-color: transparent;
+}
+.menu-lateral {
+    background-image: var(--degradado-naranja);
+    height: auto;
+    display: block;
+    height: 90vh;
+    position: fixed;
+    top: 11.0%;
+    left: 0;
+}
+
+#sidebar {
+    min-width: 300px;
+    max-width: 300px;
+    color: #fff;
+}
+
+#sidebar ul.components {
+    padding: 10px 0;
+
+}
+
+#sidebar ul li a {
+    padding: 10px 0px 10px 15px;
+    font-size: 1.1em;
+    display: block;
+    text-decoration: none !important;
+    color: white;
+    font-weight: 500;
+
+}
+
+#sidebar ul li:hover {
+    background-color: var(--color-naranja);
+    mix-blend-mode: screen;
+}
+
+.menu-lateral h4 {
+    margin: 10px 0px 30px 15px;
+}
+
+.menu-lateral input {
+    margin: 10px 0px 30px 15px;
+    width: 268px;
+    background-color: rgba(0, 0, 0, 0);
+    border: solid 2px #fff;
+    color: #fff;
+    border-radius: 100px;
+}
+
+.menu-lateral input::placeholder {
+    color: #fff;
+}
+
+.menu-lateral select {
+    margin: 10px 0px 30px 15px;
+    width: 268px;
+    background-color: rgba(0, 0, 0, 0);
+    border: solid 2px #fff;
+    color: #fff;
+    border-radius: 100px;
+}
+
+.menu-lateral select option {
+    background-color: var(--color-naranja);
+}
+
+.menu-lateral button {
+    margin: 0px 0px 30px 15px;
+    padding: 12px 0px;
+    width: 200px;
+    color: var(--color-naranja);
+    background-color: #fff;
+    border: none;
+    letter-spacing: 2px;
+    font-weight: 600;
+    border-radius: 100px;
+}
+
+
