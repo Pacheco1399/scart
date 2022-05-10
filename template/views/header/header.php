@@ -14,17 +14,17 @@
                     <a href="/notificaciones" aria-label="Ver mis notificaciones"><img height="20"
                                                                                        src="/view/assets/img/new/icon-campana.svg"
                                                                                        alt="Ícono de campana"
-                                                                                       aria-hidden="true"></a>
+                                                                                       aria-hidden="true"/></a>
                     <a href="/mis-carpetas" aria-label="Ver mis carpetas"><img height="20"
                                                                                src="/view/assets/img/new/icon-corazon.svg"
                                                                                alt="Ícono de corazón"
-                                                                               aria-hidden="true"></a>
+                                                                               aria-hidden="true"/></a>
                     <div class="dropdown">
                         <a href="/perfil" aria-label="Mostrar menú de usuario" id="header-user-menu-toggler"
                            data-bs-toggle="dropdown" aria-expanded="false"><img height="20"
                                                                                 src="/view/assets/img/new/icon-perfil.svg"
                                                                                 alt="Ícono de usuario"
-                                                                                aria-hidden="true"></a>
+                                                                                aria-hidden="true"/></a>
                         <ul class="dropdown-menu" aria-labelledby="header-user-menu-toggler">
                             <li><a class="dropdown-item" href="/perfil">Ver perfil</a></li>
                             <li><a class="dropdown-item" href="/cerrarsesion">Cerrar sesión</a></li>
@@ -40,9 +40,6 @@
 
                 <div class="collapse navbar-collapse" id="scart-navbar-menu">
                     <ul class="navbar-nav my-2 my-lg-0 ms-lg-3 ms-xl-5 w-100 justify-content-lg-between">
-                        <li class="nav-item boton-nav d-md-none">
-                            <a class="nav-link mis-carpetas" href="/mis-carpetas">MIS CARPETAS</a>
-                        </li>
                         <li class="nav-item boton-nav">
                             <a class="nav-link" href="/categoria/2-telefonia">TELEFONÍA</a>
                         </li>
@@ -81,7 +78,7 @@
                 <div class="col-4 col-sm-3 col-xl-2 d-none d-md-flex">
                     <a class="nav-link mis-carpetas d-flex align-items-center justify-content-center flex-fill"
                        href="/mis-carpetas">
-                        <i class="far fa-folder me-1" aria-hidden="true"></i>
+                        <i class="far fa-folder me-1"></i>
                         MIS CARPETAS
                     </a>
                 </div>
@@ -109,26 +106,32 @@
                         <a href="/notificaciones" aria-label="Ver mis notificaciones"><img height="20"
                                                                                            src="/view/assets/img/new/icon-campana.svg"
                                                                                            alt="Ícono de campana"
-                                                                                           aria-hidden="true"></a>
+                                                                                           aria-hidden="true"/></a>
                         <div class="dropdown">
                             <a href="/perfil" aria-label="Mostrar menú de usuario" id="header-user-menu-toggler"
                                data-bs-toggle="dropdown" aria-expanded="false"><img height="20"
                                                                                     src="/view/assets/img/new/icon-perfil.svg"
                                                                                     alt="Ícono de usuario"
-                                                                                    aria-hidden="true"></a>
+                                                                                    aria-hidden="true"/></a>
                             <ul class="dropdown-menu" aria-labelledby="header-user-menu-toggler">
                                 <li><a class="dropdown-item" href="/perfil">Ver perfil</a></li>
                                 <li><a class="dropdown-item" href="/cerrarsesion">Cerrar sesión</a></li>
                             </ul>
                         </div>
-                        <a href="/mis-carpetas" aria-label="Ver mis carpetas"><img height="20"
-                                                                                   src="/view/assets/img/new/icon-corazon.svg"
-                                                                                   alt="Ícono de corazón"
-                                                                                   aria-hidden="true"></a>
+                        <a href="#" aria-label="Ver mis carpetas"><img height="20"
+                                                                       src="/assets/img/new/icon-corazon.png"
+                                                                       alt="Ícono de corazón"
+                                                                       aria-hidden="true"/></a>
                     </div>
                 </div>
             </div>
         </div>
         <!-- Termino barra de busqueda -->
+
+        <div class="container d-md-none mt-2 pt-1 pb-0 navbar">
+            <div class="boton-registrate-1 mx-auto w-100">
+                <a class="nav-link registrate mx-auto" href="/mis-carpetas">MIS CARPETAS</a>
+            </div>
+        </div>
     </header>
 </div>
