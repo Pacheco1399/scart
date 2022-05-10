@@ -1,4 +1,3 @@
-<script src="https://cdn.jsdelivr.net/npm/sweetalert@2.1.2/dist/sweetalert.min.js"></script>
 
 <div class="parte-1 menu-fixed">
     <header>        <!-- Inicio barra de navegación -->
