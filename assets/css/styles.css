@@ -117,44 +117,241 @@ nav .logo {
     color: #fff;
 }
 
-/* CARD COUPON*/
+/* CARD COUPON  1 */
+/* Component 1 */
 
-.discount-bubble-coupon {
-}
-
-.card-coupon {
+.coupon-card1 {
+    position: absolute;
+    width: 382px;
+    height: 472px;
+    left: 317px;
+    top: 718px;
+    /* Gray 5 */
+    border: 1px solid #E0E0E0;
+    /* Sombra 1 */
+    filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.1));
+    border-radius: 20px;
     overflow: hidden;
-    min-height: 250px !important;
-    min-width: 420px !important;
+}
+
+/* Group 175 */
+.share-coupon-card1{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 16px;
+    top: 16px;
+}
+
+
+/* Rectangle 78 */
+.share-coupon-content-card1 {
+    height: 40px;
+    width: 40px;
+    border-radius: 8px;
+    position: absolute;
+    left: 2.63%;
+    right: 90.79%;
+    bottom: 60%;
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(4px);
+}
+
+/* icon-share */
+.share-coupon-icon-card1 {
+    position: absolute;
+    left: 50%;
+}
+
+
+.text-time-group-card1 {
+    height: 20px;
+    width: 136px;
+    left: 40px;
+    top: 278px;
+    border-radius: nullpx;
+    position: absolute;
+    left: 10.47%;
+    right: 53.93%;
+    top: 58.9%;
+    bottom: 36.86%;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    /* or 129% */
+
+    display: flex;
+    align-items: center;
+
+    /* Gray 3 */
+
+    color: #828282;
+
+}
+
+.time-coupon-card1 {
+    position: absolute;
+    left: 4.19%;
+    right: 90.58%;
+    top: 58.9%;
+    bottom: 36.86%;
+}
+
+/* Vector */
+.time-coupon-icon-card1 {
+    position: absolute;
+    left: 8.33%;
+    right: 8.34%;
+    top: 8.33%;
+    bottom: 8.33%;
+
+    color: #FF504D;
+}
+
+/* Suspendisse orci tortor, auctor non luctus */
+.title-card1-coupon{
+    position: absolute;
+    left: 4.19%;
+    right: 4.19%;
+    top: 65.25%;
+    bottom: 22.88%;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 28px;
+    /* or 140% */
+    color: #1F1F39;
+}
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit a, rutrum turpis facilisis scelerisque nunc, a cursus. */
+.description-card1-coupon {
+    position: absolute;
+    left: 4.19%;
+    right: 4.19%;
+    top: 78.39%;
+    bottom: 13.98%;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    /* or 129% */
+    /* Gray 3 */
+    color: #828282;
+}
+.label-sale-card1{
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    left: 4.19%;
+    right: 60.73%;
+    top: 42.37%;
+    bottom: 47.88%;
 
 
 }
 
-.card-body-coupon {
+/* Rectangle 78 */
+.label-sale-content-card1 {
     position: absolute;
-    right: 0%;
-    top: 1%;
-    z-index: 1;
-}
-
-.img-coupon {
-    position: absolute;
-    right: 50%;
+    left: 2.63%;
+    right: 65%;
     top: 0%;
-    z-index: 1;
+    bottom: 0%;
+
+    /* Secondary */
+    background: #FA4F73;
+    border-radius: 8px;
 }
 
-.img-card-coupon-logo {
+/* 15% dcto. */
+.label-sale-text-card1{
+    position: fixed;
+    right: 64.14%;
+    top: 43.86%;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 32px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.055em;
+
+    color: #FFFFFF;
+}
+
+
+/* Button-Small */
+.button-coupon-card1{
+    position: absolute;
+    left: 4.19%;
+    right: 45.03%;
+    top: 89.41%;
+    bottom: 3.39%;
+}
+
+/* Rectangle 71 */
+.button-show-coupon-card1 {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    background: #FA4F73;
+    border-radius: 17px;
+}
+
+/* VER CUPÓN */
+.text-button-coupon-card1 {
+    position: absolute;
+    left: 50px;
+    right: 26px;
+    top: 0%;
+    bottom: 0%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.055em;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.time-coupon-card1 {
+
+    position: absolute;
+    left: 4.19%;
+    right: 90.58%;
+    top: 58.9%;
+    bottom: 36.86%;
+    height: 20px;
+    width: 20px;
+    left: 16px;
+    top: 278px;
+    border-radius: 0px;
 
 }
 
-.botones-coupon {
-    z-index: 3;
-}
 
+/* CARD COUPON  2 */
 
-/* Component 2 */
-.component2 {
+/* CARD COUPON  2 */
+.coupon-card2 {
     position: absolute;
     width: 608px;
     height: 270px;
@@ -165,14 +362,12 @@ nav .logo {
     /* Sombra 2 */
     filter: drop-shadow(0px 2px 15px rgba(0, 0, 0, 0.12));
     border-radius: 20px;
-
     overflow: hidden;
 
 }
 
 /* Rectangle 73 */
-
-.base-coupon-card {
+.base-coupon-card2{
     position: absolute;
     left: 0%;
     right: 0%;
@@ -182,7 +377,7 @@ nav .logo {
 }
 
 /* Rectangle 74 */
-.imagen-coupon-card {
+.imagen-coupon-card2 {
     position: absolute;
     left: 0%;
     right: 51.97%;
@@ -191,8 +386,56 @@ nav .logo {
     z-index: -1;
 }
 
+/* Group 175 */
+.share-coupon-card2{
+    position: absolute;
+    left: 2.63%;
+    right: 90.79%;
+    top: 5.93%;
+    bottom: 79.26%;
+}
+
+
+/* Rectangle 78 */
+.share-coupon-content-card2 {
+    height: 40px;
+    width: 40px;
+    border-radius: 8px;
+    position: absolute;
+    left: 2.63%;
+    right: 90.79%;
+    top: 5.93%;
+    bottom: 79.26%;
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(4px);
+    /* Note: backdrop-filter has minimal browser support */
+}
+
+/* icon-share */
+.share-coupon-icon-card2 {
+    position: absolute;
+    left: 35%;
+    top: 35%;
+}
+
+/* Vector */
+.share-coupon-icon-vector-card2 {
+    position: absolute;
+    left: 12.5%;
+    right: 12.5%;
+    top: 8.33%;
+    bottom: 8.33%;
+
+    color: #FFFFFF;
+
+}
+
+
+
+
+
 /* Suspendisse orci tortor, auctor non luctus */
-.title-card-coupon {
+.title-card2-coupon{
     position: absolute;
     left: 50.66%;
     right: 2.63%;
@@ -209,7 +452,7 @@ nav .logo {
 
 
 /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit a, rutrum turpis facilisis scelerisque nunc, a cursus. */
-.description-card-coupon {
+.description-card2-coupon {
     position: absolute;
     left: 50.66%;
     right: 2.63%;
@@ -229,22 +472,21 @@ nav .logo {
 
 
 /* Group 173 */
-.time-coupon-container {
+.time-coupon-container-card2 {
     position: absolute;
     left: 50.66%;
     right: 24.67%;
     top: 17.41%;
     bottom: 75.19%;
 }
-
 /* schedule_FILL0_wght400_GRAD0_opsz20 (1) 1 */
-.time-coupon {
+.time-coupon-card2 {
     position: absolute;
     top: 17.41%;
 }
 
 /* Vector */
-.time-coupon-icon {
+.time-coupon-icon-card2 {
     position: absolute;
     left: 8.33%;
     right: 8.34%;
@@ -255,7 +497,7 @@ nav .logo {
 }
 
 /* Quedan 2 hrs */
-.text-time-group {
+.text-time-group-card2 {
     position: absolute;
     right: 24.67%;
     top: 5.41%;
@@ -275,7 +517,7 @@ nav .logo {
 
 
 /* Button-Small */
-.button-coupon {
+.button-coupon-card2{
     position: absolute;
     left: 50.66%;
     right: 17.43%;
@@ -284,7 +526,7 @@ nav .logo {
 }
 
 /* Rectangle 71 */
-.button-show-coupon {
+.button-show-coupon-card2 {
     position: absolute;
     left: 0%;
     right: 0%;
@@ -295,7 +537,7 @@ nav .logo {
 }
 
 /* VER CUPÓN */
-.text-button-coupon {
+.text-button-coupon-card2 {
     position: absolute;
     left: 50px;
     right: 26px;
@@ -315,7 +557,7 @@ nav .logo {
 }
 
 /* Group 174 */
-.label-sale {
+.label-sale-card2{
     height: 46px;
     width: 134px;
     left: 16px;
@@ -325,7 +567,7 @@ nav .logo {
 }
 
 /* Rectangle 78 */
-.label-sale-content {
+.label-sale-content-card2 {
     position: absolute;
     left: 2.63%;
     right: 75.33%;
@@ -338,7 +580,7 @@ nav .logo {
 }
 
 /* 15% dcto. */
-.label-sale-text {
+.label-sale-text-card2{
     width: 100%;
     position: absolute;
     top: 15%;
@@ -356,53 +598,10 @@ nav .logo {
     color: #FFFFFF;
 }
 
-/* Group 175 */
-.share-coupon {
-    position: absolute;
-    left: 2.63%;
-    right: 90.79%;
-    top: 5.93%;
-    bottom: 79.26%;
-}
-
-
-/* Rectangle 78 */
-.share-coupon-content {
-    height: 40px;
-    width: 40px;
-    border-radius: 8px;
-    position: absolute;
-    left: 2.63%;
-    right: 90.79%;
-    top: 5.93%;
-    bottom: 79.26%;
-    background: rgba(0, 0, 0, 0.5);
-    backdrop-filter: blur(4px);
-    /* Note: backdrop-filter has minimal browser support */
-}
-
-/* icon-share */
-.share-coupon-icon {
-    position: absolute;
-    left: 35%;
-    top: 35%;
-}
-
-/* Vector */
-.share-coupon-icon-vector {
-    position: absolute;
-    left: 12.5%;
-    right: 12.5%;
-    top: 8.33%;
-    bottom: 8.33%;
-
-    color: #FFFFFF;
-
-}
 
 /* Rectangle 79 */
 
-.logo-content-coupon {
+.logo-content-coupon-card2{
     position: absolute;
     left: 50.66%;
     right: 29.28%;
