@@ -160,7 +160,9 @@ nav .logo {
     height: 270px;
     left: 317px;
     top: 2880px;
+    /* Gray 5 */
     border: 1px solid #E0E0E0;
+    /* Sombra 2 */
     filter: drop-shadow(0px 2px 15px rgba(0, 0, 0, 0.12));
     border-radius: 20px;
 }
@@ -202,7 +204,7 @@ nav .logo {
 
 
 /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit a, rutrum turpis facilisis scelerisque nunc, a cursus. */
-.content-card-coupon {
+.description-card-coupon {
     position: absolute;
     left: 50.66%;
     right: 2.63%;
@@ -229,14 +231,10 @@ nav .logo {
     top: 17.41%;
     bottom: 75.19%;
 }
-
 /* schedule_FILL0_wght400_GRAD0_opsz20 (1) 1 */
 .time-coupon {
     position: absolute;
-    left: 50.66%;
-    right: 46.05%;
     top: 17.41%;
-    bottom: 75.19%;
 }
 
 /* Vector */
@@ -247,16 +245,14 @@ nav .logo {
     top: 8.33%;
     bottom: 8.34%;
 
-    background: #FF504D;
+    color: #FF504D;
 }
 
 /* Quedan 2 hrs */
 .text-time-group {
     position: absolute;
-    left: 54.61%;
     right: 24.67%;
-    top: 17.41%;
-    bottom: 75.19%;
+    top: 5.41%;
 
     font-family: 'Poppins';
     font-style: normal;
@@ -281,8 +277,6 @@ nav .logo {
     bottom: 5.93%;
 }
 
-
-
 /* Rectangle 71 */
 .button-show-coupon {
     position: absolute;
@@ -297,7 +291,7 @@ nav .logo {
 /* VER CUPÓN */
 .text-button-coupon {
     position: absolute;
-    left: 26px;
+    left: 50px;
     right: 26px;
     top: 0%;
     bottom: 0%;
@@ -311,6 +305,7 @@ nav .logo {
     text-align: center;
     letter-spacing: 0.055em;
     color: #FFFFFF;
+    text-decoration: none;
 }
 
 /* Group 174 */
@@ -356,7 +351,7 @@ nav .logo {
     color: #FFFFFF;
 }
 
-/* Group 175 */
+    /* Group 175 */
 .share-coupon{
     position: absolute;
     left: 2.63%;
@@ -378,8 +373,8 @@ nav .logo {
     backdrop-filter: blur(4px);
     /* Note: backdrop-filter has minimal browser support */
     border-radius: 8px;
-
 }
+
 /* icon-share */
 .share-coupon-icon {
     position: absolute;
@@ -405,11 +400,11 @@ nav .logo {
 /* Rectangle 79 */
 
 .logo-content-coupon{
-position: absolute;
-left: 50.66%;
-right: 29.28%;
-top: 5.93%;
-bottom: 86.3%;
+    position: absolute;
+    left: 50.66%;
+    right: 29.28%;
+    top: 5.93%;
+    bottom: 86.3%;
 }
 
 
