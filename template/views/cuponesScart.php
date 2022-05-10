@@ -3,7 +3,7 @@
         <div class="container-fluid">
             <div class="row row-cols-auto row-cols-1 row-cols-md-auto mb-3">
                 <div class="col">
-                    <h2 class="text-primary-scart gradient-text lh-sm mb-0 landing-title">Mayores descuentos</h2>
+                    <h2 class="text-primary-scart gradient-text lh-sm mb-0 landing-title">CUPONES SCART</h2>
                 </div>
                 <div class="col-auto dias d-flex align-items-center ps-0 pe-0 mx-auto me-sm-5">
                 </div>
@@ -72,21 +72,20 @@
                                     </div>
                                 </div>
 
-                                <a href="https://scart.cl/producto/7641-cartera-mujer-tote"><img
-                                            class="producto product-img"
-                                            src="https://sc5.scart.cl:8080/images/76b9f05b-1b3f-4600-b677-6b0d85d997bf-thumbnail.png"
-                                            alt="Imagen de Cartera Mujer Tote"
-                                            onerror="this.src='/view/assets/img/no-image-folder.png'"></a>
+
+                                <img class="producto product-img" src="../../assets/img/avion.jpg"
+                                     alt="Logo de Kliper">
                                 <hr>
                                 <div class="card-body d-flex flex-column align-items-center">
-                                    <a class="card-title text-break" href="https://scart.cl/buscar/Kliper">Kliper</a>
+
+                                    <!--<a class="card-title text-break" href="https://scart.cl/buscar/Kliper">Kliper</a>
                                     <a class="card-text text-break"
-                                       href="https://scart.cl/producto/7641-cartera-mujer-tote">Cartera Mujer Tote</a>
+                                       href="https://scart.cl/producto/7641-cartera-mujer-tote">Cartera Mujer Tote</a>-->
+
                                     <div class="d-flex justify-content-center align-items-center mt-auto">
                                         <div class="pe-2 border-end d-flex align-items-center">
                                             <a href="https://scart.cl/buscar/Kliper">
-                                                <img class="logo my-0" src="/view/assets/img/logo-kipler.png"
-                                                     alt="Logo de Kliper">
+
                                             </a>
                                         </div>
                                         <div class="ps-2 d-flex align-items-center">

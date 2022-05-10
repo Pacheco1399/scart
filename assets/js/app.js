@@ -935,15 +935,15 @@ function openLoginModal(title, message, onClose) {
         var slidesPerBreakpoint = {
             xs: carousel.dataset.slidesPerPage || 2,
             sm: carousel.dataset.slidesPerPageSm || carousel.dataset.slidesPerPage || 3,
-            md: carousel.dataset.slidesPerPageMd || carousel.dataset.slidesPerPageSm || carousel.dataset.slidesPerPage || 4,
-            lg: carousel.dataset.slidesPerPageLg || carousel.dataset.slidesPerPageMd || carousel.dataset.slidesPerPageSm || carousel.dataset.slidesPerPage || 5,
-            xl: carousel.dataset.slidesPerPageXl || carousel.dataset.slidesPerPageLg || carousel.dataset.slidesPerPageMd || carousel.dataset.slidesPerPageSm || carousel.dataset.slidesPerPage || 6,
-            xxl: carousel.dataset.slidesPerPageXxl || carousel.dataset.slidesPerPageXl || carousel.dataset.slidesPerPageLg || carousel.dataset.slidesPerPageMd || carousel.dataset.slidesPerPageSm || carousel.dataset.slidesPerPage || 6,
+            md: carousel.dataset.slidesPerPageMd || carousel.dataset.slidesPerPageSm || carousel.dataset.slidesPerPage || 3,
+            lg: carousel.dataset.slidesPerPageLg || carousel.dataset.slidesPerPageMd || carousel.dataset.slidesPerPageSm || carousel.dataset.slidesPerPage || 3,
+            xl: carousel.dataset.slidesPerPageXl || carousel.dataset.slidesPerPageLg || carousel.dataset.slidesPerPageMd || carousel.dataset.slidesPerPageSm || carousel.dataset.slidesPerPage || 3,
+            xxl: carousel.dataset.slidesPerPageXxl || carousel.dataset.slidesPerPageXl || carousel.dataset.slidesPerPageLg || carousel.dataset.slidesPerPageMd || carousel.dataset.slidesPerPageSm || carousel.dataset.slidesPerPage || 3,
         };
 
         var glider = new Glider(carousel, {
-            slidesToShow: 4,
-            slidesToScroll: 4,
+            slidesToShow: 3,
+            slidesToScroll: 1,
             //dots: dots,
             arrows: arrows,
             responsive: [
@@ -1125,14 +1125,14 @@ function openLoginModal(title, message, onClose) {
                 carousel.dataset.slidesPerPageMd ||
                 carousel.dataset.slidesPerPageSm ||
                 carousel.dataset.slidesPerPage ||
-                4,
+                3,
             xl:
                 carousel.dataset.slidesPerPageXl ||
                 carousel.dataset.slidesPerPageLg ||
                 carousel.dataset.slidesPerPageMd ||
                 carousel.dataset.slidesPerPageSm ||
                 carousel.dataset.slidesPerPage ||
-                5,
+                3,
             xxl:
                 carousel.dataset.slidesPerPageXxl ||
                 carousel.dataset.slidesPerPageXl ||
@@ -1140,11 +1140,11 @@ function openLoginModal(title, message, onClose) {
                 carousel.dataset.slidesPerPageMd ||
                 carousel.dataset.slidesPerPageSm ||
                 carousel.dataset.slidesPerPage ||
-                6,
+                3,
         };
 
         var glider = new Glider(carousel, {
-            slidesToShow: 5,
+            slidesToShow: 3,
             slidesToScroll: 1,
             //dots: dots,
             arrows: arrows,
