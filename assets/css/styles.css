@@ -119,7 +119,7 @@ nav .logo {
     background: none;
     color: #fff;
 }
-/* CARD COUPON*/
+/* CARD COUPON
 
 .discount-bubble-coupon{
 }
@@ -148,6 +148,278 @@ nav .logo {
 .botones-coupon{
     z-index: 3;
 }
+*/
+
+
+
+
+/* Component 2 */
+.component2 {
+    position: absolute;
+    width: 608px;
+    height: 270px;
+    left: 317px;
+    top: 2880px;
+    border: 1px solid #E0E0E0;
+    filter: drop-shadow(0px 2px 15px rgba(0, 0, 0, 0.12));
+    border-radius: 20px;
+}
+
+/* Rectangle 73 */
+.rectangle73{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    background: #FFFFFF;
+}
+
+/* Rectangle 74 */
+.rectangle74 {
+    position: absolute;
+    left: 0%;
+    right: 51.97%;
+    top: 0%;
+    bottom: 0%;
+}
+
+/* Suspendisse orci tortor, auctor non luctus */
+.title-card-coupon{
+    position: absolute;
+    left: 50.66%;
+    right: 2.63%;
+    top: 28.52%;
+    bottom: 50.74%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 28px;
+    /* or 140% */
+    color: #1F1F39;
+}
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit a, rutrum turpis facilisis scelerisque nunc, a cursus. */
+.content-card-coupon {
+    position: absolute;
+    left: 50.66%;
+    right: 2.63%;
+    top: 51.48%;
+    bottom: 28.52%;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    /* or 129% */
+
+    /* Gray 3 */
+    color: #828282;
+}
+
+
+/* Group 173 */
+.time-coupon-container {
+    position: absolute;
+    left: 50.66%;
+    right: 24.67%;
+    top: 17.41%;
+    bottom: 75.19%;
+}
+
+/* schedule_FILL0_wght400_GRAD0_opsz20 (1) 1 */
+.time-coupon {
+    position: absolute;
+    left: 50.66%;
+    right: 46.05%;
+    top: 17.41%;
+    bottom: 75.19%;
+}
+
+/* Vector */
+.time-coupon-icon {
+    position: absolute;
+    left: 8.33%;
+    right: 8.34%;
+    top: 8.33%;
+    bottom: 8.34%;
+
+    background: #FF504D;
+}
+
+/* Quedan 2 hrs */
+.text-time-group {
+    position: absolute;
+    left: 54.61%;
+    right: 24.67%;
+    top: 17.41%;
+    bottom: 75.19%;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    /* or 129% */
+    display: flex;
+    align-items: center;
+
+    /* Gray 3 */
+    color: #828282;
+}
+
+
+/* Button-Small */
+.button-coupon{
+    position: absolute;
+    left: 50.66%;
+    right: 17.43%;
+    top: 81.48%;
+    bottom: 5.93%;
+}
+
+
+
+/* Rectangle 71 */
+.button-show-coupon {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    background: #FA4F73;
+    border-radius: 17px;
+}
+
+/* VER CUPÓN */
+.text-button-coupon {
+    position: absolute;
+    left: 26px;
+    right: 26px;
+    top: 0%;
+    bottom: 0%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.055em;
+    color: #FFFFFF;
+}
+
+/* Group 174 */
+.label-sale{
+    position: absolute;
+    left: 2.63%;
+    right: 75.33%;
+    top: 77.04%;
+    bottom: 5.93%;
+}
+
+
+/* Rectangle 78 */
+.label-sale-content {
+    position: absolute;
+    left: 2.63%;
+    right: 75.33%;
+    top: 77.04%;
+    bottom: 5.93%;
+
+    /* Secondary */
+    background: #FA4F73;
+    border-radius: 8px;
+}
+
+/* 15% dcto. */
+.label-sale-text {
+    position: absolute;
+    left: 4.93%;
+    right: 77.47%;
+    top: 79.63%;
+    bottom: 8.52%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 32px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.055em;
+    color: #FFFFFF;
+}
+
+/* Group 175 */
+.share-coupon{
+    position: absolute;
+    left: 2.63%;
+    right: 90.79%;
+    top: 5.93%;
+    bottom: 79.26%;
+}
+
+
+/* Rectangle 78 */
+.share-coupon-content {
+    position: absolute;
+    left: 2.63%;
+    right: 90.79%;
+    top: 5.93%;
+    bottom: 79.26%;
+
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(4px);
+    /* Note: backdrop-filter has minimal browser support */
+    border-radius: 8px;
+
+}
+/* icon-share */
+.share-coupon-icon {
+    position: absolute;
+    left: 3.95%;
+    right: 92.11%;
+    top: 8.89%;
+    bottom: 82.22%;
+}
+
+
+
+/* Vector */
+.share-coupon-icon-vector {
+    position: absolute;
+    left: 12.5%;
+    right: 12.5%;
+    top: 8.33%;
+    bottom: 8.33%;
+
+    background: #FFFFFF;
+
+}
+/* Rectangle 79 */
+
+.logo-content-coupon{
+position: absolute;
+left: 50.66%;
+right: 29.28%;
+top: 5.93%;
+bottom: 86.3%;
+}
+
+
+
+
+
+
+
+
+
 @media (min-width: 992px) {
     .navbar .boton-registrate-1 li a,
     .navbar .boton-registrate-1 a {

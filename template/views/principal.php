@@ -61,7 +61,6 @@
 
             <?php include("../views/cuponesScart.php") ?>
             <?php include("../views/cuponesDeTecnologia.php") ?>
-            <?php include("../views/prueba.php") ?>
 
         </div>
     </div>
