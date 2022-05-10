@@ -83,8 +83,8 @@
 
                                 <div class="col-6 card-body-coupon ">
 
-                                    <a class="img-card-coupon-logo " href="https://scart.cl/producto/52207-polera-hombre-icono"><img
-                                                class="card-img-top producto product-img"
+                                    <a class="" href="https://scart.cl/producto/52207-polera-hombre-icono"><img
+                                                class="img-card-coupon-logo "
                                                 src="../../assets/img/smg.png"
                                                 loading="eager" alt="smg"
                                                 onerror="this.src='/view/assets/img/no-image-folder.png'"></a>
