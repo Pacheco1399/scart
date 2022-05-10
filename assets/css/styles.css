@@ -874,6 +874,16 @@ header .como-funciona .btn {
 
 
 /* Inicio Contactanos */
+.contenido .contacto2 {
+    height: 400px;
+    padding: 95px 50px;
+    padding-left: 135px;
+    border-radius: 20px;
+    border: none;
+    background-image: var(--degradado-azul);
+    z-index: 0;
+}
+
 .contenido .contacto {
     margin-top: 50px;
     margin-bottom: 50px;
