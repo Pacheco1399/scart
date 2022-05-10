@@ -1,4 +1,4 @@
-<div class="contenido">
+
 
     <div class="component2">
 
@@ -59,4 +59,3 @@
 
 
     </div>
-</div>
