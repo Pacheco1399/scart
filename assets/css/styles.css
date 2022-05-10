@@ -119,7 +119,35 @@ nav .logo {
     background: none;
     color: #fff;
 }
+/* CARD COUPON*/
 
+.discount-bubble-coupon{
+}
+.card-coupon{
+    overflow: hidden;
+    min-height: 250px!important;
+    min-width: 420px!important;
+
+
+}
+.card-body-coupon {
+    position: absolute;
+    right: 0%;
+    top: 1%;
+    z-index: 1;
+}
+.img-coupon{
+    position: absolute;
+    right: 50%;
+    top: 0%;
+    z-index: 1;
+}
+.img-card-coupon-logo{
+
+}
+.botones-coupon{
+    z-index: 3;
+}
 @media (min-width: 992px) {
     .navbar .boton-registrate-1 li a,
     .navbar .boton-registrate-1 a {

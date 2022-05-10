@@ -16,11 +16,10 @@
             <div class="carousel1__contenedor">
                 <div class="carousel position-flex carousel1__indicadores landing-carousel">
                     <div class="glider-wrap px-4">
-                        <div class="carousel1__lista pt-2 pb-1" data-slides-per-page="2"
-                             data-slides-per-page-sm="3" data-slides-per-page-xl="6">
-                            <div class="carousel1__elemento card-coupon border-1  position-relative ">
-                                <div class="row">
-                                <div class="botones-card">
+                        <div class="carousel1__lista pt-2 pb-1" >
+                            <div class="carousel1__elemento card border-0 shadow-sm d-flex flex-column justify-content-end position-relative  card-coupon ">
+                                <div class="row col-12">
+                                <div class="botones-card botones-coupon">
                                     <div class="dropdown">
                                         <button class="btn btn-outline-secondary compartir" type="button"
                                                 id="share-product52207-dropdown" data-bs-toggle="dropdown"
@@ -76,45 +75,40 @@
                                     </div>
                                 </div>
 
-                                <a class="col-6" href="https://scart.cl/producto/52207-polera-hombre-icono"><img
+                                <a class="col-6 img-coupon" href="https://scart.cl/producto/52207-polera-hombre-icono"><img
                                             class="card-img-top producto product-img"
-                                            src="https://sc5.scart.cl:8080/images/576c1b30-fd0b-4fe4-88bb-2c6637502527-thumbnail.png"
+                                            src="../../assets/img/img-testing.jpg"
                                             loading="eager" alt="Polera Hombre Icono"
                                             onerror="this.src='/view/assets/img/no-image-folder.png'"></a>
 
-                                <div class="col-6  card-body-coupon ">
-                                    <a class="card-title text-break" href="https://scart.cl/buscar/La%20Polar">La
-                                            Polar</a>
-                                    <a class="card-title text-break" href="https://scart.cl/buscar/La%20Polar">La
-                                        Polar</a>
-                                    <a class="card-title text-break" href="https://scart.cl/buscar/La%20Polar">La
-                                        Polar</a>
-                                    <a class="card-title text-break" href="https://scart.cl/buscar/La%20Polar">La
-                                        Polar</a>
-                                    <a class="card-title text-break" href="https://scart.cl/buscar/La%20Polar">La
-                                        Polar</a>
-                                    <a class="card-title text-break" href="https://scart.cl/buscar/La%20Polar">La
-                                        Polar</a>
-                                    <a class="card-title text-break" href="https://scart.cl/buscar/La%20Polar">La
-                                        Polar</a>
-                                    <a class="card-title text-break" href="https://scart.cl/buscar/La%20Polar">La
-                                        Polar</a>
-                                    <a class="card-title text-break" href="https://scart.cl/buscar/La%20Polar">La
-                                        Polar</a>
-                                    <a class="card-title text-break" href="https://scart.cl/buscar/La%20Polar">La
-                                        Polar</a>
-                                    <a class="card-title text-break" href="https://scart.cl/buscar/La%20Polar">La
-                                        Polar</a>
+                                <div class="col-6 card-body-coupon ">
 
+                                    <a class="img-card-coupon-logo " href="https://scart.cl/producto/52207-polera-hombre-icono"><img
+                                                class="card-img-top producto product-img"
+                                                src="../../assets/img/smg.png"
+                                                loading="eager" alt="smg"
+                                                onerror="this.src='/view/assets/img/no-image-folder.png'"></a>
+                                    </br>
+
+
+                                        <span class="precio-bajo"> <i class="fas fa-clock danger"></i> </span>
+                                        <span class="">
+                                                                            Quedan 2 horas</span>
+                                        </br>
+
+                                    <strong><a class="card-title text-break" href="">suspendisse orci tortor, ouctor non luctus</a></strong>
+                                    </br>
+                                    <a class="card-title text-break" href="https://scart.cl/buscar/La%20Polar">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore ducimus explicabo in laboriosam magnam maxime molestiae officiis sapiente veritatis .</a>
+                                    </br>
+                                    <a class="card-title text-break" href="https://scart.cl/buscar/La%20Polar">La
+                                        Polar</a>
                                 </div>
-
-
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
+
     </div>
 
 
