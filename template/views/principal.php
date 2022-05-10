@@ -60,8 +60,8 @@
         <div class="col-md-6 offset-3">
 
             <?php include("../views/cuponesScart.php") ?>
+            <?php include("../views/cuponesScart2.php") ?>
             <?php include("../views/cuponesDeTecnologia.php") ?>
-            <?php include("../views/banners/banner1.php") ?>
 
         </div>
     </div>
