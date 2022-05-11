@@ -1239,17 +1239,15 @@ nav .logo {
 }
 
 .btn-todos {
-    position: absolute;
+    position: relative;
     width: 184px;
     height: 34px;
-    left: 317px;
-    top: 486px;
-
+    margin-top: 32px;
     /* Degradado 1 */
-
     background: linear-gradient(90deg, #FF8755 13.14%, #FF4A99 87.37%);
     border-radius: 17px;
     border: 1px solid #FFFFFF;
+
 
 }
 
@@ -1260,8 +1258,8 @@ nav .logo {
     font-weight: 600;
     font-size: 14px;
     line-height: 21px;
+    width: 161px;
     /* identical to box height */
-
     display: flex;
     align-items: center;
     text-align: center;
@@ -1274,12 +1272,10 @@ nav .logo {
 .btn-barra {
     box-sizing: border-box;
 
-    position: absolute;
-    width: 149px;
+    position: relative;
     height: 34px;
-    left: 525px;
-    top: 486px;
-
+    margin-top: 34px;
+    margin-left: 24px;
     background: #F8F9FA;
     /* Gray 4 */
 
@@ -1290,26 +1286,21 @@ nav .logo {
 .btn-barra .label {
     /* TECNOLOGÍA */
     position: absolute;
-    width: 97px;
     height: 21px;
     left: 40px;
     top: 6px;
-
-
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
     font-size: 14px;
     line-height: 21px;
     /* identical to box height */
-
     display: flex;
     align-items: center;
     text-align: center;
     letter-spacing: 0.055em;
     text-decoration: none;
     /* Gray 4 */
-
     color: #BDBDBD;
 
 }
