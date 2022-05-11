@@ -227,7 +227,8 @@ nav .logo {
     /* or 140% */
     color: #1F1F39;
 }
-.title-cupon-tecnologia{
+
+.title-cupon-tecnologia {
     /* Cupones de tecnología */
 
 
@@ -372,7 +373,8 @@ nav .logo {
     border-radius: 0px;
 
 }
-.coupon-carousel-card1{
+
+.coupon-carousel-card1 {
     position: inherit;
     top: 0%;
 }
@@ -396,6 +398,7 @@ nav .logo {
     background: #FFFFFF;
 
 }
+
 .coupon-card2b {
     position: absolute;
     width: 608px;
@@ -410,7 +413,9 @@ nav .logo {
     overflow: hidden;
     background: #FFFFFF;
 
-}.coupon-card2c {
+}
+
+.coupon-card2c {
     position: absolute;
     width: 608px;
     height: 270px;
@@ -422,9 +427,11 @@ nav .logo {
     filter: drop-shadow(0px 2px 15px rgba(0, 0, 0, 0.12));
     border-radius: 20px;
     overflow: hidden;
-     background: #FFFFFF;
+    background: #FFFFFF;
 
-}.coupon-card2d {
+}
+
+.coupon-card2d {
     position: absolute;
     width: 608px;
     height: 270px;
@@ -694,17 +701,16 @@ nav .logo {
     left: 34%;
     top: 230px;
 }
-.banner-header{
+
+.banner-header {
     width: 100%;
 }
+
 /* Rectangle 75 */
 .nuevos-cupones {
-    position: absolute;
-    width: 1286px;
-    height: 252px;
-    left: 317px;
-    top: 1864px;
 
+    width: 100%;
+    height: 252px;
     /* Degradado 1 */
 
     background: linear-gradient(90deg, #FF4A99 13.14%, #FF8755 87.37%);
@@ -714,11 +720,9 @@ nav .logo {
 
 .nuevos-cupones .title {
     /*Title*/
-    position: absolute;
-    left: 3.11%;
-    right: 41.76%;
-    top: 9.52%;
-    bottom: 64.29%;
+
+    margin-left: 40px;
+    margin-top: 24px;
 
     font-family: 'Poppins';
     font-style: normal;
@@ -734,11 +738,7 @@ nav .logo {
 
 .nuevos-cupones .subTitle {
     /*SUB TITLE*/
-    position: absolute;
-    left: 3.11%;
-    right: 28.54%;
-    top: 35.71%;
-    bottom: 52.38%;
+    margin-left: 40px;
 
     font-family: 'Poppins';
     font-style: normal;
@@ -752,22 +752,24 @@ nav .logo {
 }
 
 .nuevos-cupones .btn-empresa {
-    position: absolute;
+
+
     width: 590px;
     height: 60px;
-    top: 154px;
-    left: 40px;
+    margin-left: 40px;
+    margin-top: 34px;
+
     background: #FFFFFF;
     border-radius: 30px;
+    text-decoration: none;
 
 }
 
 .nuevos-cupones .btn-empresa .text {
-    position: absolute;
-    left: 187px;
-    right: 185px;
-    top: 20%;
-    bottom: 20%;
+
+
+    margin-left: 187px;
+    padding-top: 10px;
 
     font-family: 'Poppins';
     font-style: normal;
@@ -780,30 +782,27 @@ nav .logo {
     align-items: center;
     text-align: center;
     letter-spacing: 0.055em;
-
+    cursor: pointer;
     /* Secondary */
 
     color: #FA4F73;
 }
 
 .nuevos-cupones .btn-persona {
-    position: absolute;
-    left: 51.01%;
-    right: 3.11%;
-    top: 61.11%;
-    bottom: 15.08%;
 
+    width: 590px;
+    height: 60px;
+    margin-left: 26px;
+    margin-top: 34px;
     background: #FFFFFF;
     border-radius: 30px;
-
+    text-decoration: none;
 }
 
 .nuevos-cupones .btn-persona .text {
-    position: absolute;
-    left: 186px;
-    right: 183px;
-    top: 20%;
-    bottom: 20%;
+
+    margin-left: 187px;
+    padding-top: 10px;
 
     font-family: 'Poppins';
     font-style: normal;
@@ -816,7 +815,7 @@ nav .logo {
     align-items: center;
     text-align: center;
     letter-spacing: 0.055em;
-
+    cursor: pointer;
     /* Secondary */
 
     color: #FA4F73;
@@ -898,10 +897,10 @@ nav .logo {
     color: #FA4F73;
 
 }
-.modal-input1::placeholder{
+
+.modal-input1::placeholder {
     color: #FA4F73;
 }
-
 
 
 .modal-input2 {
@@ -931,7 +930,8 @@ nav .logo {
 
     color: #FA4F73;
 }
-.modal-input2::placeholder{
+
+.modal-input2::placeholder {
     color: #FA4F73;
 }
 
@@ -963,7 +963,8 @@ nav .logo {
 
     color: #FA4F73;
 }
-.modal-input3::placeholder{
+
+.modal-input3::placeholder {
     color: #FA4F73;
 }
 
@@ -992,7 +993,8 @@ nav .logo {
 
     color: #FA4F73;
 }
-.modal-input4::placeholder{
+
+.modal-input4::placeholder {
     color: #FA4F73;
 }
 
@@ -1027,7 +1029,8 @@ nav .logo {
 
     color: #FA4F73;
 }
-.modal-input5::placeholder{
+
+.modal-input5::placeholder {
     color: #FA4F73;
 }
 
@@ -1056,7 +1059,8 @@ nav .logo {
 
     color: #FA4F73;
 }
-.modal-input6::placeholder{
+
+.modal-input6::placeholder {
     color: #FA4F73;
 }
 
@@ -1081,7 +1085,8 @@ nav .logo {
     color: #FA4F73;
 
 }
-.modal-area::placeholder{
+
+.modal-area::placeholder {
     color: #FA4F73;
 }
 
@@ -1118,6 +1123,7 @@ nav .logo {
 
     color: #FFFFFF;
 }
+
 .modal-area-p {
     box-sizing: border-box;
 
@@ -1139,7 +1145,8 @@ nav .logo {
     color: #FA4F73;
 
 }
-.modal-area-p::placeholder{
+
+.modal-area-p::placeholder {
     color: #FA4F73;
 }
 
@@ -1194,6 +1201,7 @@ nav .logo {
 
     color: #FFFFFF;
 }
+
 .modal-sub-title2 {
     position: absolute;
     height: 36px;
@@ -1262,7 +1270,7 @@ nav .logo {
 }
 
 
-.btn-tecnologia {
+.btn-barra {
     box-sizing: border-box;
 
     position: relative;
@@ -1276,7 +1284,7 @@ nav .logo {
     border-radius: 17px;
 }
 
-.btn-tecnologia .label {
+.btn-barra .label {
     /* TECNOLOGÍA */
     position: absolute;
     height: 21px;
@@ -1302,7 +1310,7 @@ nav .logo {
 
 }
 
-.btn-tecnologia .img {
+.btn-barra .img {
     /* Vector */
 
     position: absolute;
@@ -1527,10 +1535,8 @@ nav .logo {
 }
 
 
-
-
 /*INICIO VISTA-CUPÓN*/
-.vc-ver{
+.vc-ver {
     position: absolute;
     width: 197px;
     height: 24px;
@@ -1553,7 +1559,8 @@ nav .logo {
 
     color: #828282;
 }
-.vc-ver-icon{
+
+.vc-ver-icon {
     /* Vector */
 
 
@@ -1568,7 +1575,7 @@ nav .logo {
     background: #828282;
 }
 
-.carousel-item-coupon{
+.carousel-item-coupon {
     margin-right: 250px;
 }
 
