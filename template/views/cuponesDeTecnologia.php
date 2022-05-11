@@ -1,3 +1,6 @@
+<hr style="border: 1px solid #BDBDBD; position: absolute; top: 2758px; left: 317px; width: 1286px;">
+
+<label class="title-cupon-tecnologia">CUPONES DE TECNOLOGÍA</label>
 <div class="row">
     <div class="col-md-6">
         <div class="coupon-card2">

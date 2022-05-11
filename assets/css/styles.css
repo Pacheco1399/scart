@@ -227,6 +227,30 @@ nav .logo {
     /* or 140% */
     color: #1F1F39;
 }
+.title-cupon-tecnologia{
+    /* Cupones de tecnología */
+
+
+    position: absolute;
+    width: 674.05px;
+    height: 66px;
+    left: 317px;
+    top: 2782px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 66px;
+    /* identical to box height */
+
+    text-transform: uppercase;
+
+    /* Primary */
+
+    color: #1EA6E3;
+
+}
 
 
 /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit a, rutrum turpis facilisis scelerisque nunc, a cursus. */

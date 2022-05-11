@@ -94,8 +94,7 @@
                         </form>
                     </div>
                 </div>
-                <div class="col-2 col-lg-2 col-xl-1 d-none d-md-block" style="margin-left: 10px">
-
+                <div class="col-1" >
                     <div class="btn-cupones" >
 
                         <a class="ms-0 me-2" href="/notificaciones">
@@ -104,14 +103,14 @@
                     </div>
                 </div>
 
-                <div class="col-2 col-lg-2 col-xl-1 d-none d-md-block" style="margin-left: 34px">
+                <div class="col-2" style="margin-left: 34px;">
                     <div class="h-100 ofertas">
                         <a class="ms-0 me-2" href="/notificaciones">OFERTAS</a>
                         <div class="numero">0</div>
                     </div>
                 </div>
                 <!--<div class="<? /*=isLoggedIn() ? 'col-6' : 'col-12 col-sm-3'*/ ?> col-lg-2 d-none d-md-block">-->
-                <div class="col-6 col-lg-2 col-xl-1 d-none d-md-block" style="margin-left: 34px">
+                <div class="col-1" style="margin-left: 20px;">
                     <div class="h-100 iconos">
                         <a href="/notificaciones" aria-label="Ver mis notificaciones"><img height="18"
                                                                                            src="../../assets/img/new/icon-campana.svg"
