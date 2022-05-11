@@ -66,6 +66,7 @@
             <?php include("../views/banners/banner1.php") ?>
             <?php include("../views/cuponesDeTecnologia.php") ?>
             <?php include("../views/cuponesScart2.php") ?>
+            <?php include("../views/carousel2.php") ?>
         </div>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
@@ -81,3 +82,4 @@
 <?php include("../views/footer/footer.php"); ?>
 </body>
 </html>
+
