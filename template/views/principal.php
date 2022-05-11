@@ -54,9 +54,8 @@
 </head>
 <?php include("../views/header/header.php"); ?>
 <div class="banner-header">
-    <img src="../../assets/img/new/happy-couple-lying-on-sofa-and-using-laptop-2021-08-28-17-19-31-utc%201.png" alt="pic"
+    <img src="../../assets/img/new/banner.png" alt="pic"
          class="img-grande">
-    <img src="../../assets/img/new/logo-blanco.png" class="img-scart" alt="pic2">
 </div>
 <body class="bg-light user-view">
 
