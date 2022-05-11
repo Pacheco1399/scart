@@ -142,7 +142,11 @@
                 <a class="nav-link registrate mx-auto" href="/mis-carpetas">MIS CARPETAS</a>
             </div>
         </div>
+
+
     </header>
+</div>
+<div class="banner-header">
     <img src="../../assets/img/new/happy-couple-lying-on-sofa-and-using-laptop-2021-08-28-17-19-31-utc%201.png" alt="pic"
          class="img-grande">
     <img src="../../assets/img/new/logo-blanco.png" class="img-scart" alt="pic2">

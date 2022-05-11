@@ -59,6 +59,7 @@
 <main class="mt-5">
     <div class="container">
         <div class="main-container">
+            <?php include("../views/carousel2.php"); ?>
         </div>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
