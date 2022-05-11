@@ -1583,6 +1583,24 @@ nav .logo {
     margin-right: 250px;
 }
 
+.line-bottom{
+    border: 1px solid #BDBDBD;
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.boton-carousel-prev{
+    position: absolute;
+    top: 31%;
+    left: 10%;
+}
+
+.boton-carousel-next{
+    position: absolute;
+    top: 31%;
+    right: 0%;
+}
+
 /*FIN VISTA-CUPÓN*/
 
 @media (min-width: 992px) {
