@@ -1,15 +1,13 @@
 <div class="row">
     <div class="container">
         <div class="carousel-cupones">
-            <div class="carousel1__contenedor">
                 <div class="container-fluid">
                     <div class="row row-cols-auto row-cols-1 row-cols-md-auto mb-3">
                         <div class="col">
-                            <h2 class="text-primary-scart gradient-text lh-sm mb-0 landing-title sm">Cupones Scart</h2>
+                            <h2 class="text-primary-scart gradient-text lh-sm mb-0 landing-title sm">Cupones Scard</h2>
                         </div>
                     </div>
                 </div>
-            </div>
             <div class="carousel1__contenedor" >
                 <button aria-label="Anterior"
                         class="carousel1__anterior boton-carousel-prev   translate-middle-y"
@@ -247,6 +245,6 @@
 
     </div>
     </div>
-    <span class="line-bottom"></span>
+    <hr class="line-bottom"> </hr>
 </div>
 
