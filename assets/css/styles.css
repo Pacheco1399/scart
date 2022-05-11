@@ -1537,7 +1537,7 @@ nav .logo {
 /*INICIO VISTA-CUPÓN*/
 .vc-ver{
     position: absolute;
-    width: 163px;
+    width: 197px;
     height: 24px;
     left: 351px;
     top: 478px;
@@ -1557,6 +1557,20 @@ nav .logo {
     /* Gray 3 */
 
     color: #828282;
+}
+.vc-ver-icon{
+    /* Vector */
+
+
+    position: absolute;
+    left: 29.17%;
+    right: 29.17%;
+    top: 16.67%;
+    bottom: 16.67%;
+
+    /* Gray 3 */
+
+    background: #828282;
 }
 
 .carousel-item-coupon{

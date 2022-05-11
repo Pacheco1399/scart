@@ -61,7 +61,12 @@
 <main class="mt-5">
 
     <div class="col-md-6 offset-3">
-        <label class="vc-ver">VER MÁS CUPONES</label>
+
+        <div class="vc-ver">
+            <i class="fas fa-angle-left"></i>
+            VER MÁS CUPONES
+        </div>
+        <label class="vc-ver"></label>
         <hr style="border: 1px solid #BDBDBD; position: absolute; top: 526px; left: 317px; width: 1286px;">
 
     </div>
