@@ -8,7 +8,7 @@
                         </div>
                     </div>
                 </div>
-            <div class="carousel1__contenedor" >
+            <div class="carousel1__contenedor position-relative" >
                 <button aria-label="Anterior"
                         class="carousel1__anterior boton-carousel-prev   translate-middle-y"
                         style="z-index: 2">

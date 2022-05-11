@@ -1572,17 +1572,29 @@ nav .logo {
     margin-top: 30px;
     margin-bottom: 20px;
 }
-.boton-carousel-prev{
+.boton-carousel-prev,
+.boton-carousel-next
+{
     position: absolute;
-    top: 31%;
-    left: 10%;
+    display: block;
+    width: 30px;
+    height: 30px;
+    border: none;
+    top: calc(60% - 35px);
+    cursor: pointer;
+    line-height: 30px;
+    text-align: center;
+    background: #FA4F73;;
+    color: #FFFFFF;
+    border-radius: 8px;
 }
-
+.boton-carousel-prev{
+    left: -2%;
+}
 .boton-carousel-next{
-    position: absolute;
-    top: 31%;
     right: 0%;
 }
+
 
 /*FIN VISTA-CUPÓN*/
 
