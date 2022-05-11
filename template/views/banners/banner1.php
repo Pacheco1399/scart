@@ -16,7 +16,7 @@
                     </a>
                 </div>
                 <div class="col-md-6">
-                    <a class="btn-persona" type="button">
+                    <a class="btn-persona" type="button" data-bs-toggle="modal" data-bs-target="#modalPersona">
                         <h1 class="text">CUPÓN PERSONA</h1>
                     </a>
                 </div>
@@ -26,7 +26,7 @@
     </div>
 </div>
 
-<!-- Modal -->
+<!-- Modal Empresa -->
 <div class="modal fade" id="modalEmpresa" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
      aria-labelledby="modalEmpresaLabel" aria-hidden="true">
     <div class="modal-dialog">
@@ -41,7 +41,9 @@
                 </div>
                 <div class="row">
                     <div class="col-md-6">
-                        <input type="text" class="modal-input1" name="txt1" placeholder="Nombre facilitador">
+
+                        <input type="text" class="modal-input1" name="txt1" placeholder="Nombre facilitador" >
+
                     </div>
 
                     <div class="col-md-6">
@@ -88,7 +90,9 @@
                         </a>
                     </div>
                 </div>
-                <button type="button" class="moda-close" data-bs-dismiss="modal">X</button>
+                <button type="button" class="moda-close" data-bs-dismiss="modal">
+                    <img src="../../assets/img/new/x.png" alt="x">
+                </button>
 
 
             </div>
@@ -96,4 +100,73 @@
         </div>
     </div>
 </div>
+
+<!-- Modal Persona -->
+<div class="modal fade" id="modalPersona" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
+     aria-labelledby="modalPersonaLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content" style="position: absolute; height: 684px;">
+            <div class="modal-body">
+                <div class="row">
+                    <h2 class="modal-title">¿Quires crear tus cupones de persona?</h2>
+                </div>
+                <div class="row">
+                    <h1 class="modal-sub-title">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dolor
+                        mauris mauris sit.</h1>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+
+                        <input type="text" class="modal-input1" name="txt1" placeholder="Nombre Completo" >
+
+                    </div>
+
+                    <div class="col-md-6">
+                        <input type="text" class="modal-input2" placeholder="Correo">
+                    </div>
+
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <input type="text" class="modal-input3" placeholder="Cupón">
+                    </div>
+
+                    <div class="col-md-6">
+                        <input type="text" class="modal-input4" placeholder="E-commerce del cupón">
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <textarea placeholder="Detalle o descripción del cupón" class="modal-area-p"></textarea>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <label class="modal-sub-title2-p">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer etiam ac ultrices tellus
+                            aliquam eu nulla et. Vestibulum quis et condimentum sed nunc at nibh augue phasellus.
+                        </label>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <a class="modal-btn-p" type="button" data-bs-toggle="modal" data-bs-target="#modalEmpresa">
+                            <h1 class="text">ENVIAR</h1>
+                        </a>
+                    </div>
+                </div>
+                <button type="button" class="moda-close" data-bs-dismiss="modal">
+                    <img src="../../assets/img/new/x.png" alt="x">
+                </button>
+
+
+            </div>
+
+        </div>
+    </div>
+</div>
+
 

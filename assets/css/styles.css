@@ -821,12 +821,17 @@ nav .logo {
     font-size: 20px;
     line-height: 40px;
     /* identical to box height, or 200% */
-
+    text-indent: 32px;
 
     /* Secondary */
 
     color: #FA4F73;
+
 }
+.modal-input1::placeholder{
+    color: #FA4F73;
+}
+
 
 
 .modal-input2 {
@@ -850,10 +855,13 @@ nav .logo {
     font-size: 20px;
     line-height: 40px;
     /* identical to box height, or 200% */
-
+    text-indent: 32px;
 
     /* Secondary */
 
+    color: #FA4F73;
+}
+.modal-input2::placeholder{
     color: #FA4F73;
 }
 
@@ -879,10 +887,13 @@ nav .logo {
     font-size: 20px;
     line-height: 40px;
     /* identical to box height, or 200% */
-
+    text-indent: 32px;
 
     /* Secondary */
 
+    color: #FA4F73;
+}
+.modal-input3::placeholder{
     color: #FA4F73;
 }
 
@@ -897,7 +908,6 @@ nav .logo {
     left: 655px;
 
     background: rgba(255, 255, 255, 0.7);
-    /* Secondary */
 
     border: 2px solid #FA4F73;
     border-radius: 29.5px;
@@ -907,11 +917,12 @@ nav .logo {
     font-weight: 400;
     font-size: 20px;
     line-height: 40px;
-    /* identical to box height, or 200% */
+    text-indent: 32px;
 
 
-    /* Secondary */
-
+    color: #FA4F73;
+}
+.modal-input4::placeholder{
     color: #FA4F73;
 }
 
@@ -937,11 +948,16 @@ nav .logo {
     font-weight: 400;
     font-size: 20px;
     line-height: 40px;
+    text-indent: 32px;
+
     /* identical to box height, or 200% */
 
 
     /* Secondary */
 
+    color: #FA4F73;
+}
+.modal-input5::placeholder{
     color: #FA4F73;
 }
 
@@ -966,45 +982,37 @@ nav .logo {
     font-weight: 400;
     font-size: 20px;
     line-height: 40px;
-    /* identical to box height, or 200% */
+    text-indent: 32px;
 
-
-    /* Secondary */
-
+    color: #FA4F73;
+}
+.modal-input6::placeholder{
     color: #FA4F73;
 }
 
 .modal-area {
     box-sizing: border-box;
+
     position: absolute;
     height: 187px;
     width: 1206px;
     left: 40px;
-    top: 406px;
-
+    top: 416px;
+    padding-top: 10px;
     background: rgba(255, 255, 255, 0.7);
+    border: 2px solid;
     /* Secondary */
-
-    border: 2px solid #FA4F73;
-    border-radius: 29px;
-}
-
-.modal-sub-title2 {
-    position: absolute;
-    height: 36px;
-    width: 1006px;
-    left: 40px;
-    top: 617px;
-
-    font-family: 'Poppins';
-    font-style: normal;
+    font-family: 'Roboto';
     font-weight: 400;
-    font-size: 14px;
-    line-height: 18px;
-    /* or 129% */
+    font-size: 20px;
 
+    border-radius: 29px;
+    text-indent: 32px;
+    color: #FA4F73;
 
-    color: rgba(31, 31, 57, 0.5);
+}
+.modal-area::placeholder{
+    color: #FA4F73;
 }
 
 .modal-btn {
@@ -1026,7 +1034,7 @@ nav .logo {
     height: 34px;
     width: 142px;
     left: 66px;
-    top: 0px;
+    top: 8px;
     border-radius: nullpx;
 
     font-style: normal;
@@ -1040,6 +1048,100 @@ nav .logo {
 
     color: #FFFFFF;
 }
+.modal-area-p {
+    box-sizing: border-box;
+
+    position: absolute;
+    height: 187px;
+    width: 1206px;
+    left: 40px;
+    top: 322px;
+    padding-top: 10px;
+    background: rgba(255, 255, 255, 0.7);
+    border: 2px solid;
+    /* Secondary */
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 20px;
+
+    border-radius: 29px;
+    text-indent: 32px;
+    color: #FA4F73;
+
+}
+.modal-area-p::placeholder{
+    color: #FA4F73;
+}
+
+.modal-sub-title2-p {
+    position: absolute;
+    height: 36px;
+    width: 1006px;
+    left: 40px;
+    top: 533px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    /* or 129% */
+
+
+    color: rgba(31, 31, 57, 0.5);
+}
+
+.modal-btn-p {
+    position: absolute;
+    height: 50px;
+    width: 194px;
+    left: 40px;
+    top: 593px;
+
+    background: #FA4F73;
+    border-radius: 25px;
+
+
+}
+
+.modal-btn-p .text {
+    position: absolute;
+
+    height: 34px;
+    width: 142px;
+    left: 66px;
+    top: 8px;
+    border-radius: nullpx;
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.055em;
+
+    color: #FFFFFF;
+}
+.modal-sub-title2 {
+    position: absolute;
+    height: 36px;
+    width: 1006px;
+    left: 40px;
+    top: 617px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    /* or 129% */
+
+
+    color: rgba(31, 31, 57, 0.5);
+}
+
 
 .moda-close {
     position: absolute;
@@ -1050,6 +1152,7 @@ nav .logo {
 
 
     background: #FA4F73;
+    border: #FA4F73;
     backdrop-filter: blur(3px);
     /* Note: backdrop-filter has minimal browser support */
 
@@ -1067,6 +1170,8 @@ nav .logo {
 
     background: linear-gradient(90deg, #FF8755 13.14%, #FF4A99 87.37%);
     border-radius: 17px;
+    border: 1px solid #FFFFFF;
+
 }
 
 .btn-todos .label {
@@ -1082,7 +1187,7 @@ nav .logo {
     align-items: center;
     text-align: center;
     letter-spacing: 0.055em;
-
+    text-decoration: none;
     color: #FFFFFF;
 }
 
@@ -1409,6 +1514,7 @@ nav .redes-sociales {
 .espacio-busqueda {
     border: none;
     width: 100%
+
 }
 
 .espacio-busqueda:active {
@@ -3448,9 +3554,11 @@ footer img.social-img {
     height: 767px;
     top: 156px;
     left: -317px;
-    border-width: 0;
+
     border-radius: 25px;
+    border-color: #FA4F73;
 }
+
 
 .modal-header {
     border-top-left-radius: 16px;

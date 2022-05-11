@@ -1,5 +1,3 @@
-
-
     <div class="coupon-card2">
 
         <div class="logo-content-coupon-card2">

@@ -61,7 +61,8 @@
 <main class="mt-5">
     <div class="row">
         <div class="col-md-6 offset-3">
-            <?php include ("../views/banners/botones.php")?>
+            <?php include("../views/banners/botones.php") ?>
+            <hr style="border: 1px solid #BDBDBD; position: absolute; top: 560px; left: 317px; width: 1286px;">
             <?php include("../views/banners/banner1.php") ?>
             <?php include("../views/cuponesDeTecnologia.php") ?>
             <?php include("../views/cuponesScart2.php") ?>
