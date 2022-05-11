@@ -65,7 +65,6 @@
             <?php include("../views/banners/botones.php") ?>
             <hr class="line-bottom">
 
-
             <?php include("../views/carousel2.php") ?>
             <?php include("../views/cuponestec.php"); ?>
         </div>

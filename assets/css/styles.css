@@ -384,11 +384,8 @@ nav .logo {
 
 /* CARD COUPON  2 */
 .coupon-card2 {
-    position: absolute;
     width: 608px;
     height: 270px;
-    left: 317px;
-    top: 2880px;
     /* Gray 5 */
     border: 1px solid #E0E0E0;
     /* Sombra 2 */
@@ -2434,7 +2431,7 @@ footer {
     position: absolute;
     color: #fff;
     background-image: var(--degradado-azul);
-    margin-top: 100px;
+    padding: 40px 0px;
     width: 100%;
 }
 
