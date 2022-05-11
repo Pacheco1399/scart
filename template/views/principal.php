@@ -53,12 +53,22 @@
 
 </head>
 <?php include("../views/header/header.php"); ?>
-
+<div class="banner-header">
+    <img src="../../assets/img/new/happy-couple-lying-on-sofa-and-using-laptop-2021-08-28-17-19-31-utc%201.png" alt="pic"
+         class="img-grande">
+    <img src="../../assets/img/new/logo-blanco.png" class="img-scart" alt="pic2">
+</div>
 <body class="bg-light user-view">
 
-<main class="mt-5">
-    <div class="container">
-        <div class="main-container">
+<main >
+    <div class="row">
+        <div class="container" style="width: 1286px">
+            <?php include("../views/banners/botones.php") ?>
+            <hr style="border: 1px solid #BDBDBD;width: 1286px;">
+            <?php include("../views/banners/banner1.php") ?>
+            <?php include("../views/cuponesDeTecnologia.php") ?>
+
+            <?php include("../views/carousel2.php") ?>
             <?php include("../views/carousel2.php"); ?>
         </div>
     </div>
