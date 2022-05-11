@@ -685,7 +685,6 @@ nav .logo {
 
     width: 100%;
 
-
 }
 
 .img-scart {
@@ -694,7 +693,6 @@ nav .logo {
     height: 107px;
     left: 34%;
     top: 230px;
-
 }
 .banner-header{
     width: 100%;
@@ -1232,11 +1230,10 @@ nav .logo {
 }
 
 .btn-todos {
-    position: absolute;
+    position: relative;
     width: 184px;
     height: 34px;
-    left: 317px;
-    top: 486px;
+    margin-top: 32px;
 
     /* Degradado 1 */
 
@@ -1253,6 +1250,7 @@ nav .logo {
     font-weight: 600;
     font-size: 14px;
     line-height: 21px;
+    width: 161px;
     /* identical to box height */
 
     display: flex;
@@ -1267,12 +1265,10 @@ nav .logo {
 .btn-tecnologia {
     box-sizing: border-box;
 
-    position: absolute;
-    width: 149px;
+    position: relative;
     height: 34px;
-    left: 525px;
-    top: 486px;
-
+    margin-top: 34px;
+    margin-left: 24px;
     background: #F8F9FA;
     /* Gray 4 */
 
@@ -1283,7 +1279,6 @@ nav .logo {
 .btn-tecnologia .label {
     /* TECNOLOGÍA */
     position: absolute;
-    width: 97px;
     height: 21px;
     left: 40px;
     top: 6px;
