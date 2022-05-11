@@ -1,27 +1,24 @@
-<div class="container-fluid">
+<div class="row">
+
+
     <div class="nuevos-cupones">
-        <div class="container">
-            <div class="row">
-                <h2 class="title">¿QUIERES CREAR TUS CUPONES?</h2>
-            </div>
-            <div class="row">
-                <h1 class="subTitle">Ingresa aquí, selecciondo una de las dos opciones. para mas información, haz clic
-                    aquí.</h1>
-            </div>
 
-            <div class="row">
-                <div class="col-md-6">
-                    <a class="btn-empresa" type="button" data-bs-toggle="modal" data-bs-target="#modalEmpresa">
-                        <h1 class="text">CUPÓN EMPRESA</h1>
-                    </a>
-                </div>
-                <div class="col-md-6">
-                    <a class="btn-persona" type="button" data-bs-toggle="modal" data-bs-target="#modalPersona">
-                        <h1 class="text">CUPÓN PERSONA</h1>
-                    </a>
-                </div>
 
-            </div>
+        <label class="title">¿QUIERES CREAR TUS CUPONES?</label>
+
+        <label class="subTitle">Ingresa aquí, selecciondo una de las dos opciones. para mas información, haz clic
+            aquí.</label>
+        <div class="row">
+
+                <a class="btn-empresa" type="button" data-bs-toggle="modal" data-bs-target="#modalEmpresa">
+
+                    <label class="text">CUPÓN EMPRESA</label>
+                </a>
+
+                <a class="btn-persona" type="button" data-bs-toggle="modal" data-bs-target="#modalPersona">
+                    <label class="text">CUPÓN PERSONA</label>
+                </a>
+
         </div>
     </div>
 </div>
@@ -42,7 +39,7 @@
                 <div class="row">
                     <div class="col-md-6">
 
-                        <input type="text" class="modal-input1" name="txt1" placeholder="Nombre facilitador" >
+                        <input type="text" class="modal-input1" name="txt1" placeholder="Nombre facilitador">
 
                     </div>
 
@@ -77,7 +74,8 @@
                 <div class="row">
                     <div class="col-md-12">
                         <label class="modal-sub-title2">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer etiam ac ultrices tellus
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer etiam ac ultrices
+                            tellus
                             aliquam eu nulla et. Vestibulum quis et condimentum sed nunc at nibh augue phasellus.
                         </label>
                     </div>
@@ -117,7 +115,7 @@
                 <div class="row">
                     <div class="col-md-6">
 
-                        <input type="text" class="modal-input1" name="txt1" placeholder="Nombre Completo" >
+                        <input type="text" class="modal-input1" name="txt1" placeholder="Nombre Completo">
 
                     </div>
 
@@ -145,7 +143,8 @@
                 <div class="row">
                     <div class="col-md-12">
                         <label class="modal-sub-title2-p">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer etiam ac ultrices tellus
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer etiam ac ultrices
+                            tellus
                             aliquam eu nulla et. Vestibulum quis et condimentum sed nunc at nibh augue phasellus.
                         </label>
                     </div>
