@@ -456,10 +456,8 @@ nav .logo {
 /* Rectangle 74 */
 .imagen-coupon-card2 {
     position: absolute;
-    left: 0%;
     right: 51.97%;
     top: 0%;
-    bottom: 0%;
     z-index: -1;
 }
 
@@ -709,7 +707,7 @@ nav .logo {
 
 .nuevos-cupones .title {
     /*Title*/
-
+    margin-right: 40px;
     margin-left: 40px;
     margin-top: 24px;
 
