@@ -1547,8 +1547,6 @@ nav .logo {
 .vc-label-cupon {
     /* CUPÓN DE APPLE */
 
-
-    width: 674.05px;
     height: 66px;
     margin-top: 24px;
 
@@ -1567,9 +1565,7 @@ nav .logo {
 }
 
 .vista-cupon-card {
-
     width: 100%;
-    height: 472px;
     margin-top: 32px;
     margin-bottom: 32px;
     background: #FFFFFF;
@@ -1603,10 +1599,9 @@ nav .logo {
 
 .card-img {
 
-    position: absolute;
-    width: 511px;
     height: 472px;
-
+    margin-right: 10px;
+    margin-left: 10px;
     border-radius: 20px 0px 0px 20px;
 }
 
@@ -1660,7 +1655,8 @@ nav .logo {
     font-weight: 700;
     font-size: 26px;
     line-height: 39px;
-
+    margin-right: 10px;
+    margin-left: 10px;
     /* Gray 1 */
 
     color: #333333;
@@ -1668,6 +1664,8 @@ nav .logo {
 
 .vc-card-subtitle {
     margin-top: 24px;
+    margin-left: 10px;
+    margin-right: 10px;
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
@@ -1681,7 +1679,7 @@ nav .logo {
 
 .vc-card-code-box {
     margin-top: 61px;
-    width: 727px;
+    width: 95%;
     height: 50px;
 
     background: #FFFFFF;
@@ -1710,7 +1708,6 @@ nav .logo {
 .vc-card-code-copy{
     height: 50px;
     width: 194px;
-    margin-left: 37px;
     border-radius: 25px;
     background: #FA4F73;
     border: #FFFFFF;
@@ -1734,7 +1731,7 @@ nav .logo {
 }
 .vc-card-usar{
     height: 50px;
-    width: 395px;
+    width: 100%;
     margin-top: 24px;
     border-radius: 25px;
     /* Secondary */
@@ -1747,16 +1744,18 @@ nav .logo {
 
 .vc-card-problemas{
     height: 50px;
-    width: 308px;
-    margin-left: 24px;
+    width: 100%;
     margin-top: 24px;
-
     border-radius: 25px;
     background: #BDBDBD;
     color: #FFFFFF;
     border: #FFFFFF;
 }
-
+.copiar-boton-cupon{
+    width: 194px;
+    position: absolute;
+    right: 2%;
+}
 
 .carousel-item-coupon {
     margin-right: 250px;
