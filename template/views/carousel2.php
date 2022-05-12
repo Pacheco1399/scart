@@ -15,8 +15,8 @@
                 </button>
 
                 <div class="glider-wrap px-4">
-                    <div class="carousel1__lista  pt-2 pb-1" data-slides-per-page="3"
-                         data-slides-per-page-sm="1" data-slides-per-page-xl="3">
+                    <div class="carousel1__lista  pt-2 pb-1" data-slides-per-page="1"
+                         data-slides-per-page-sm="2" data-slides-per-page-xl="3">
                         <div class="carousel__elemento1 carousel-item-coupon">
                             <div class="coupon-card1 coupon-carousel-card1">
                                 <div class="share-coupon-card2">
