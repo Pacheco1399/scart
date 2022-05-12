@@ -756,11 +756,12 @@ nav .logo {
 
 
     padding-top: 10px;
-
+width: 100%;
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
     font-size: 24px;
+
     line-height: 36px;
     /* identical to box height */
 
@@ -806,6 +807,14 @@ nav .logo {
 
     color: #FA4F73;
 }
+.btn-cupones{
+
+    width: 142px;
+    height: 34px;
+
+    background: linear-gradient(90deg, #FF9569 13.14%, #FF4A99 87.37%);
+    border-radius: 17px;
+}
 
 .modal-title {
 
@@ -813,9 +822,6 @@ nav .logo {
     height: 66px;
     margin-left: 24px;
     margin-top: 8px;
-
-
-    border-radius: nullpx;
 
 
     font-family: 'Poppins';

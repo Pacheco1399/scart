@@ -61,7 +61,7 @@
 <main>
     <div class="row">
         <!-- <div class="container" style="width: 1310px"> -->
-        <div class="container" style="width: 1286px">
+        <div class="container">
             <?php include("../views/vista-cupon-card.php") ?>
             <?php include("../views/carousel2.php") ?>
 
