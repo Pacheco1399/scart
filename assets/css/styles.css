@@ -834,9 +834,6 @@ width: 100%;
     color: #FFFFFF;
 }
 
-.h-ofertas{
-    margin-left: px;
-}
 
 .modal-title {
 
@@ -1592,6 +1589,7 @@ width: 100%;
 
 .vista-cupon-card {
     width: 100%;
+
     margin-top: 32px;
     margin-bottom: 32px;
     background: #FFFFFF;
@@ -1620,10 +1618,9 @@ width: 100%;
 }
 
 .card-img {
-
-    height: 472px;
+    width: 98%;
+    height: 100%;
     margin-right: 10px;
-    margin-left: 10px;
     border-radius: 20px 0px 0px 20px;
 }
 
@@ -1762,7 +1759,7 @@ width: 100%;
 
 .vc-card-problemas{
     height: 50px;
-    width: 100%;
+    width: 89.4%;
     margin-top: 24px;
     border-radius: 25px;
     background: #BDBDBD;

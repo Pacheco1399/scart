@@ -50,14 +50,14 @@
         <!-- Inicio barra de busqueda -->
         <div class="container">
             <div class="row gx-3 gx-md-4 gy-3">
-                <div class="col-4 col-sm-3 col-xl-2 d-none d-md-flex">
+                <div class="col-12 col-sm-3 col-lg-2 col-xl-2 d-none d-md-flex">
                     <a class="nav-link mis-carpetas d-flex align-items-center justify-content-center flex-fill"
                        href="/mis-carpetas">
-                        <i class="far fa-folder me-1"></i>
+                        <i class="far fa-folder"></i>
                         MIS CARPETAS
                     </a>
                 </div>
-                <div class="col-5 col-sm-5 col-lg-5 col-xl-6" style="max-width: 601px">
+                <div class="col-6 col-sm-7 col-lg-4 col-xl-6">
                     <div class="h-100 busqueda buscar d-flex align-items-center overflow-hidden m-0">
                         <form class="w-100 h-100 mb-0" action="/buscar" method="get" id="scart-search-form">
                             <div class="d-flex align-items-center h-100">
@@ -69,7 +69,7 @@
                         </form>
                     </div>
                 </div>
-                <div class="col-2 col-sm-1">
+                <div class="col-6 col-sm-2 col-lg-2 col-xl-1">
                     <div class="btn-cupones">
                         <a href="#" class="text">
                             <img alt=""src="../../assets/img/new/icon-ticket.png">
@@ -81,14 +81,14 @@
                     </div>
                 </div>
 
-                <div class="col-2 col-sm-1" style="margin-left: 62px;">
+                <div class="col-6 col-sm-6 col-lg-2 col-xl-2">
                     <div class="h-100 ofertas">
                         <a class="ms-0 me-2" href="/notificaciones">OFERTAS</a>
                         <div class="numero">0</div>
                     </div>
                 </div>
                 <!--<div class="<? /*=isLoggedIn() ? 'col-6' : 'col-12 col-sm-3'*/ ?> col-lg-2 d-none d-md-block">-->
-                <div class="col-1 col-sm-1" style="margin-left: 62px;">
+                <div class="col-6 col-sm-6 col-xl-1 col-lg-2" >
                     <div class="h-100 iconos">
                         <a href="/notificaciones" aria-label="Ver mis notificaciones"><img height="18"
                                                                                            src="../../assets/img/new/icon-campana.svg"

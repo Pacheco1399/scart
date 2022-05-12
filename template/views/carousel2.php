@@ -2,7 +2,7 @@
     <div class="container-fluid">
         <div class="row row-cols-auto row-cols-1 row-cols-md-auto mb-3">
             <div class="col">
-                <h2 class="title-carousel lh-sm mb-0 landing-title sm">Cupones Scard</h2>
+                <h2 class="title-carousel lh-sm mb-0 landing-title sm">CUPONES SCART</h2>
                 <h2 class="subtitle-carousel">Ahorra con nuestros cupones de descuento y cómpratelos con tus
                     amigos.</h2>
             </div>
