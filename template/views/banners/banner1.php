@@ -102,7 +102,7 @@
 <div class="modal fade" id="modalPersona" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
      aria-labelledby="modalPersonaLabel" aria-hidden="true">
     <div class="modal-dialog modal-xl">
-        <div class="modal-content" style="position: absolute; height: 684px;">
+        <div class="modal-content">
             <div class="modal-body">
 
                     <label class="modal-title">¿Quires crear tus cupones de persona?</label>
@@ -110,7 +110,7 @@
                     <label class="modal-sub-title">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dolor
                         mauris mauris sit.</label>
 
-                <div class="row ml-2 mb-4">
+                <div class="row">
                     <div class="col-md-6">
 
                         <input type="text" class="modal-input1" name="txt1" placeholder="Nombre Completo">
