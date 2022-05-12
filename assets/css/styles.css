@@ -815,6 +815,28 @@ width: 100%;
     background: linear-gradient(90deg, #FF9569 13.14%, #FF4A99 87.37%);
     border-radius: 17px;
 }
+.btn-cupones .text{
+    position: absolute;
+    width: 98px;
+    height: 34px;
+    margin-left: 13.67px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.055em;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.h-ofertas{
+    margin-left: px;
+}
 
 .modal-title {
 

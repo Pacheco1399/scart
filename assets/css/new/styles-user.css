@@ -422,7 +422,7 @@ p {
 
 .parte-1 .ofertas {
     justify-content: start;
-
+    margin-left: 20px;
 }
 
 .parte-1 .ofertas .numero {
