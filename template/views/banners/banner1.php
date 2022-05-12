@@ -110,7 +110,7 @@
                     <label class="modal-sub-title">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dolor
                         mauris mauris sit.</label>
 
-                <div class="row">
+                <div class="row ml-2 mb-4">
                     <div class="col-md-6">
 
                         <input type="text" class="modal-input1" name="txt1" placeholder="Nombre Completo">

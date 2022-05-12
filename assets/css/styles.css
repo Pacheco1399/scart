@@ -854,7 +854,7 @@ nav .logo {
 
 .modal-input1 {
     box-sizing: border-box;
-    width: 591px;
+    width: 500px;
     height: 60px;
 
     margin-left: 24px;
@@ -889,7 +889,7 @@ nav .logo {
     box-sizing: border-box;
 
 
-    width: 591px;
+    width: 500px;
     height: 60px;
 
 
@@ -921,7 +921,7 @@ nav .logo {
     box-sizing: border-box;
 
 
-    width: 591px;
+    width: 500px;
     height: 60px;
     margin-top: 24px;
     margin-left: 24px;
@@ -953,7 +953,7 @@ nav .logo {
 .modal-input4 {
     box-sizing: border-box;
 
-    width: 591px;
+    width: 500px;
     height: 60px;
     margin-top: 24px;
 
@@ -982,7 +982,7 @@ nav .logo {
 .modal-input5 {
     box-sizing: border-box;
 
-    width: 591px;
+    width: 500px;
     height: 60px;
     margin-top: 24px;
     margin-left: 24px;
@@ -1019,7 +1019,7 @@ nav .logo {
     box-sizing: border-box;
 
 
-    width: 591px;
+    width: 500px;
     height: 60px;
     margin-top: 24px;
 
@@ -1090,9 +1090,8 @@ nav .logo {
 
     height: 34px;
     width: 142px;
-    left: 66px;
-    top: 8px;
-    border-radius: nullpx;
+    margin-left: 55px;
+    margin-top: 8px;
 
     font-style: normal;
     font-weight: 600;
@@ -3881,7 +3880,7 @@ footer img.social-img {
 }
 
 .modal-content {
-    width: 1286px;
+    width: 100%;
     border-radius: 25px;
     border-color: #FA4F73;
 }
