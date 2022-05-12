@@ -67,10 +67,11 @@
 
             <?php include("../views/carousel2.php") ?>
 
-            <?php include("../views/carousel2.php") ?>
+            <?php include("../views/carouselVencer.php") ?>
             <?php include("../views/banners/banner1.php"); ?>
-            <?php include("../views/carousel2.php") ?>
+            <?php include("../views/carouselOtros.php") ?>
 
+            <hr class="line-bottom">
             <?php include("../views/cuponestec.php"); ?>
         </div>
     </div>

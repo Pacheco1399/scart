@@ -1,10 +1,8 @@
-<div class="carousel-cupones">
+<div class="carousel-cupones mb-5">
     <div class="container-fluid">
         <div class="row row-cols-auto row-cols-1 row-cols-md-auto mb-3">
             <div class="col">
-                <h2 class="title-carousel lh-sm mb-0 landing-title sm">Cupones Scard</h2>
-                <h2 class="subtitle-carousel">Ahorra con nuestros cupones de descuento y cómpratelos con tus
-                    amigos.</h2>
+                <h2 class="title-carousel lh-sm mb-0 landing-title sm">CUPONES POR VENCER</h2>
             </div>
         </div>
     </div>
@@ -40,7 +38,7 @@
                         </div>
                         <span class="imagen-coupon-card1">
                                 <a href="#">
-                                    <img src="../../assets/img/Rectangle70s.jpg" alt="">
+                                    <img src="../../assets/img/new/Rectangle70.png" alt="">
                                 </a>
                             </span>
                         <p class="text-time-group-card1">Quedan 2 hrs</p>
@@ -75,7 +73,7 @@
                         </div>
                         <span class="imagen-coupon-card1">
                                 <a href="#">
-                                    <img src="../../assets/img/new/Rectangle70-2.png" alt="">
+                                    <img src="../../assets/img/new/Rectangle70-3.png" alt="">
                                 </a>
                             </span>
                         <p class="text-time-group-card1">Quedan 2 hrs</p>
@@ -110,7 +108,7 @@
                         </div>
                         <span class="imagen-coupon-card1">
                                 <a href="#">
-                                    <img src="../../assets/img/new/Rectangle70-5.png" alt="">
+                                    <img src="../../assets/img/new/Rectangle70-6.png" alt="">
                                 </a>
                             </span>
                         <p class="text-time-group-card1">Quedan 2 hrs</p>
@@ -244,6 +242,4 @@
     </div>
 
 </div>
-
-<hr class="line-bottom"></hr>
 

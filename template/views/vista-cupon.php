@@ -63,7 +63,7 @@
         <!-- <div class="container" style="width: 1310px"> -->
         <div class="container">
             <?php include("../views/vista-cupon-card.php") ?>
-            <?php include("../views/carousel2.php") ?>
+            <?php include("../views/carouselOtros.php") ?>
 
         </div>
     </div>

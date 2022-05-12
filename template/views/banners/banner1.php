@@ -1,7 +1,7 @@
 <div class="row">
 
 
-    <div class="nuevos-cupones">
+    <div class="nuevos-cupones mb-5">
 
 
         <label class="title">¿QUIERES CREAR TUS CUPONES?</label>
@@ -30,7 +30,17 @@
         <div class="modal-content">
             <div class="modal-body">
 
-                <label class="modal-title">¿Quires crear tus cupones de empresa?</label>
+                <div class="row">
+                    <div class="col-md-10">
+                        <label class="modal-title">¿Quires crear tus cupones de empresa?</label>
+
+                    </div>
+                    <div class="col-md-2">
+                        <button type="button" class="moda-close" data-bs-dismiss="modal">
+                            <img src="../../assets/img/new/x.png" alt="x">
+                        </button>
+                    </div>
+                </div>
 
                 <label class="modal-sub-title">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dolor
                     mauris mauris sit.</label>
@@ -86,9 +96,7 @@
                         </a>
                     </div>
                 </div>
-                <button type="button" class="moda-close" data-bs-dismiss="modal">
-                    <img src="../../assets/img/new/x.png" alt="x">
-                </button>
+
 
 
             </div>
@@ -103,8 +111,19 @@
     <div class="modal-dialog modal-xl">
         <div class="modal-content">
             <div class="modal-body">
+                <div class="row">
+                    <div class="col-md-10 col-sm-8">
+                        <label class="modal-title">¿Quires crear tus cupones de persona?</label>
 
-                <label class="modal-title">¿Quires crear tus cupones de persona?</label>
+                    </div>
+                    <div class="col-md-2 col-sm-4">
+                        <button type="button" class="moda-close" data-bs-dismiss="modal">
+                            <img src="../../assets/img/new/x.png" alt="x">
+                        </button>
+
+                    </div>
+
+                </div>
 
                 <label class="modal-sub-title">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dolor
                     mauris mauris sit.</label>
@@ -154,9 +173,6 @@
                         </a>
                     </div>
                 </div>
-                <button type="button" class="moda-close" data-bs-dismiss="modal">
-                    <img src="../../assets/img/new/x.png" alt="x">
-                </button>
 
 
             </div>

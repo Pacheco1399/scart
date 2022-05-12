@@ -1239,10 +1239,8 @@ width: 100%;
     position: absolute;
     height: 42px;
     width: 42px;
-    left: 1204px;
-    top: 38px;
-
-
+    margin-left: 68px;
+    margin-top: 20px;
     background: #FA4F73;
     border: #FA4F73;
     backdrop-filter: blur(3px);
@@ -1604,25 +1602,21 @@ width: 100%;
 }
 
 .card-share {
-    position: absolute;
-    width: 40px;
     height: 40px;
-    margin-top: 32px;
-    margin-left: 24px;
-
+    width: 40px;
+    border-radius: 8px;
+    position: absolute;
+    left: 2.63%;
+    right: 90.79%;
+    bottom: 87%;
     background: rgba(0, 0, 0, 0.5);
     backdrop-filter: blur(4px);
-    /* Note: backdrop-filter has minimal browser support */
-
-    border-radius: 8px;
 }
 
 .card-share .icon {
-
     position: absolute;
-    margin-top: 10px;
-    margin-left: 11px;
-
+    left: 25%;
+    top: 25%;
 }
 
 .card-img {
@@ -1814,6 +1808,41 @@ width: 100%;
 
 .boton-carousel-next {
     right: 0%;
+}
+
+.title-carousel{
+    width: 100%;
+    height: 66px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 66px;
+    /* identical to box height */
+
+    text-transform: uppercase;
+
+    /* Primary */
+
+    color: #1EA6E3;
+
+}
+.subtitle-carousel{
+    width: 100%;
+    height: 36px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height */
+
+
+    /* Gray 3 */
+
+    color: #828282;
 }
 
 

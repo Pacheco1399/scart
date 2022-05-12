@@ -1,5 +1,5 @@
 <div class="row">
-    <div class="container">
+    <div class="container mb-5">
         <div class="cupones-tecnologia">
             <div class="container-fluid">
                 <div class="row row-cols-auto row-cols-1 row-cols-md-auto mb-3">
@@ -36,7 +36,7 @@
 
                         <div class="button-coupon-card2">
                             <span class="button-show-coupon-card2"></span>
-                            <a class="text-button-coupon-card2" href="">Ver Cupón</a>
+                            <a class="text-button-coupon-card2" href="vista-cupon.php">Ver Cupón</a>
                         </div>
 
                         <div class="time-coupon-container-card2">
@@ -89,7 +89,7 @@
 
                         <div class="button-coupon-card2">
                             <span class="button-show-coupon-card2"></span>
-                            <a class="text-button-coupon-card2" href="">Ver Cupón</a>
+                            <a class="text-button-coupon-card2" href="vista-cupon.php">Ver Cupón</a>
                         </div>
 
                         <div class="time-coupon-container-card2">
@@ -108,7 +108,7 @@
 
                         <span class="imagen-coupon-card2">
                         <a href="#">
-                            <img src="../../assets/img/rectangle74.png" alt="">
+                            <img src="../../assets/img/new/Rectangle69.png" alt="">
                         </a>
                     </span>
 
@@ -150,7 +150,7 @@
 
                             <div class="button-coupon-card2">
                                 <span class="button-show-coupon-card2"></span>
-                                <a class="text-button-coupon-card2" href="">Ver Cupón</a>
+                                <a class="text-button-coupon-card2" href="vista-cupon.php">Ver Cupón</a>
                             </div>
 
                             <div class="time-coupon-container-card2">
@@ -169,7 +169,7 @@
 
                             <span class="imagen-coupon-card2">
                         <a href="#">
-                            <img src="../../assets/img/rectangle74.png" alt="">
+                            <img src="../../assets/img/new/vista-samsung.png" alt="">
                         </a>
                     </span>
 
@@ -204,7 +204,7 @@
 
                             <div class="button-coupon-card2">
                                 <span class="button-show-coupon-card2"></span>
-                                <a class="text-button-coupon-card2" href="">Ver Cupón</a>
+                                <a class="text-button-coupon-card2" href="vista-cupon.php">Ver Cupón</a>
                             </div>
 
                             <div class="time-coupon-container-card2">
@@ -223,7 +223,7 @@
 
                             <span class="imagen-coupon-card2">
                         <a href="#">
-                            <img src="../../assets/img/rectangle74.png" alt="">
+                            <img src="../../assets/img/new/vista-lg.png" alt="">
                         </a>
                     </span>
 
@@ -235,7 +235,5 @@
 
             </div>
         </div>
-
     </div>
-    <hr class="line-bottom"></hr>
 </div>
