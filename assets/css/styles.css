@@ -743,7 +743,7 @@ nav .logo {
 .nuevos-cupones .btn-empresa {
 
 
-    width: 590px;
+    width: 45%;
     height: 60px;
     margin-left: 40px;
     margin-top: 34px;
@@ -757,7 +757,6 @@ nav .logo {
 .nuevos-cupones .btn-empresa .text {
 
 
-    margin-left: 187px;
     padding-top: 10px;
 
     font-family: 'Poppins';
@@ -767,7 +766,7 @@ nav .logo {
     line-height: 36px;
     /* identical to box height */
 
-    display: flex;
+    display: block;
     align-items: center;
     text-align: center;
     letter-spacing: 0.055em;
@@ -779,7 +778,7 @@ nav .logo {
 
 .nuevos-cupones .btn-persona {
 
-    width: 590px;
+    width: 45%;
     height: 60px;
     margin-left: 26px;
     margin-top: 34px;
@@ -791,7 +790,6 @@ nav .logo {
 
 .nuevos-cupones .btn-persona .text {
 
-    margin-left: 187px;
     padding-top: 10px;
 
     font-family: 'Poppins';
@@ -801,7 +799,7 @@ nav .logo {
     line-height: 36px;
     /* identical to box height */
 
-    display: flex;
+    display: block;
     align-items: center;
     text-align: center;
     letter-spacing: 0.055em;
