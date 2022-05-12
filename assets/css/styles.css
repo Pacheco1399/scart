@@ -512,9 +512,8 @@ nav .logo {
 
     font-family: 'Poppins';
     font-style: normal;
-    font-weight: 700;
     font-size: 20px;
-
+    font-weight: 700;
     line-height: 28px;
     /* or 140% */
     color: #1F1F39;
@@ -575,31 +574,25 @@ nav .logo {
 
 /* Button-Small */
 .button-coupon-card2 {
-    position: absolute;
-    left: 50.66%;
-    right: 17.43%;
-    top: 81.48%;
-    bottom: 5.93%;
-}
-
-/* Rectangle 71 */
-.button-show-coupon-card2 {
-    position: absolute;
-    left: 0%;
-    right: 0%;
-    top: 0%;
-    bottom: 0%;
+    height: 34px;
+    width: 100%;
+    max-width: 194px;
+    margin-top: 24px;
     background: #FA4F73;
     border-radius: 17px;
 }
 
+/* Rectangle 71 */
+.button-show-coupon-card2 {
+
+
+}
+
 /* VER CUPÓN */
 .text-button-coupon-card2 {
-    position: absolute;
-    left: 50px;
-    right: 26px;
-    top: 0%;
-    bottom: 0%;
+
+    margin-left: 29%;
+    padding-top: 7px;
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
@@ -625,6 +618,7 @@ nav .logo {
     right: 75.33%;
     top: 77.04%;
     bottom: 5.93%;
+
 
     /* Secondary */
     background: #FA4F73;
@@ -730,7 +724,7 @@ nav .logo {
 
 
     padding-top: 10px;
-width: 100%;
+    width: 100%;
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
@@ -781,7 +775,8 @@ width: 100%;
 
     color: #FA4F73;
 }
-.btn-cupones{
+
+.btn-cupones {
 
     width: 142px;
     height: 34px;
@@ -789,7 +784,8 @@ width: 100%;
     background: linear-gradient(90deg, #FF9569 13.14%, #FF4A99 87.37%);
     border-radius: 17px;
 }
-.btn-cupones .text{
+
+.btn-cupones .text {
     position: absolute;
     width: 98px;
     height: 34px;
@@ -1666,6 +1662,7 @@ width: 100%;
     /* Gray 3 */
     color: #828282;
 }
+
 .vc-card-code-box {
     margin-top: 61px;
     width: 95%;
@@ -1677,7 +1674,8 @@ width: 100%;
     box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.12);
     border-radius: 20px;
 }
-.vc-card-code{
+
+.vc-card-code {
     margin-top: 15px;
     margin-left: 15px;
     font-family: 'Poppins';
@@ -1693,7 +1691,8 @@ width: 100%;
 
     color: #FA4F73;
 }
-.vc-card-code-copy{
+
+.vc-card-code-copy {
     height: 50px;
     width: 194px;
     border-radius: 25px;
@@ -1703,7 +1702,7 @@ width: 100%;
 
 }
 
-.vc-card-subtitle2{
+.vc-card-subtitle2 {
     margin-top: 10px;
     font-family: 'Poppins';
     font-style: normal;
@@ -1717,7 +1716,8 @@ width: 100%;
 
     color: #333333;
 }
-.vc-card-usar{
+
+.vc-card-usar {
     height: 50px;
     width: 100%;
     margin-top: 24px;
@@ -1730,7 +1730,7 @@ width: 100%;
 
 }
 
-.vc-card-problemas{
+.vc-card-problemas {
     height: 50px;
     width: 89.4%;
     margin-top: 24px;
@@ -1739,7 +1739,8 @@ width: 100%;
     color: #FFFFFF;
     border: #FFFFFF;
 }
-.copiar-boton-cupon{
+
+.copiar-boton-cupon {
     width: 194px;
     position: absolute;
     right: 2%;
@@ -1780,7 +1781,7 @@ width: 100%;
     right: 0%;
 }
 
-.title-carousel{
+.title-carousel {
     width: 100%;
     height: 66px;
 
@@ -1798,7 +1799,8 @@ width: 100%;
     color: #1EA6E3;
 
 }
-.subtitle-carousel{
+
+.subtitle-carousel {
     width: 100%;
     height: 36px;
 
@@ -4088,6 +4090,16 @@ footer img.social-img {
 }
 
 @media (max-width: 399.98px) {
+    .text-time-group-card2 {
+        font-size: 8px;
+    }
+
+    .time-coupon-icon-card2 {
+        font-size: 8px;
+    }
+
+
+
     .scart-paginator .page-link {
         padding: .375rem .69rem;
         font-size: .9rem;
@@ -4243,6 +4255,34 @@ footer img.social-img {
 }
 
 @media (max-width: 991.98px) {
+    .coupon-card2{
+        height: 100%;
+    }
+    .label-sale-content-card2{
+        right: 81%;
+        top: 81%;
+        bottom: 9%;
+    }
+    .label-sale-text-card2{
+        font-size: 8px;
+        top: 0%;
+    }
+    .button-coupon-card2{
+        height: 28px;
+        margin-top: 0px;
+        max-width: 125px;
+    }
+    .text-button-coupon-card2{
+        margin-left: 19%;
+        font-size: 10px;
+    }
+    .title-card2-coupon {
+        font-size: 14px;
+    }
+
+    .description-card2-coupon {
+        font-size: 10px;
+    }
     .vista-producto .discount-bubble.end {
         --horizontal-position: -18px;
     }
@@ -4274,6 +4314,7 @@ header .carousel .carousel__elemento,
 }
 
 @media (min-width: 768px) {
+
     .smart-shopping-scart h2 {
         margin-left: 1.155rem;
     }
