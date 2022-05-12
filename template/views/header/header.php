@@ -82,7 +82,7 @@
                         MIS CARPETAS
                     </a>
                 </div>
-                <div class="col-8 col-sm-9 col-lg-5 col-xl-6" style="max-width: 601px">
+                <div class="col-5 col-sm-5 col-lg-5 col-xl-6" style="max-width: 601px">
                     <div class="h-100 busqueda buscar d-flex align-items-center overflow-hidden m-0">
                         <form class="w-100 h-100 mb-0" action="/buscar" method="get" id="scart-search-form">
                             <div class="d-flex align-items-center h-100">
@@ -94,23 +94,24 @@
                         </form>
                     </div>
                 </div>
-                <div class="col-1" >
+                <div class="col-2 col-sm-1" >
                     <div class="btn-cupones" >
-
-                        <a class="ms-0 me-2" href="/notificaciones">
-                            <img src="../../assets/img/new/icon-cupon.png" alt="Logo cupon">
+                        <a>
+                            <img alt="" src="../../assets/img/new/icon-ticket.png">
+                           <label>CUPONES</label>
                         </a>
+
                     </div>
                 </div>
 
-                <div class="col-2" style="margin-left: 34px;">
+                <div class="col-2 col-sm-1" style="margin-left: 34px;">
                     <div class="h-100 ofertas">
                         <a class="ms-0 me-2" href="/notificaciones">OFERTAS</a>
                         <div class="numero">0</div>
                     </div>
                 </div>
                 <!--<div class="<? /*=isLoggedIn() ? 'col-6' : 'col-12 col-sm-3'*/ ?> col-lg-2 d-none d-md-block">-->
-                <div class="col-1" style="margin-left: 20px;">
+                <div class="col-1 col-sm-1" style="margin-left: 20px;">
                     <div class="h-100 iconos">
                         <a href="/notificaciones" aria-label="Ver mis notificaciones"><img height="18"
                                                                                            src="../../assets/img/new/icon-campana.svg"

@@ -10,14 +10,14 @@
             aquí.</label>
         <div class="row">
 
-                <a class="btn-empresa" type="button" data-bs-toggle="modal" data-bs-target="#modalEmpresa">
+            <a class="btn-empresa" type="button" data-bs-toggle="modal" data-bs-target="#modalEmpresa">
 
-                    <label class="text">CUPÓN EMPRESA</label>
-                </a>
+                <label class="text">CUPÓN EMPRESA</label>
+            </a>
 
-                <a class="btn-persona" type="button" data-bs-toggle="modal" data-bs-target="#modalPersona">
-                    <label class="text">CUPÓN PERSONA</label>
-                </a>
+            <a class="btn-persona" type="button" data-bs-toggle="modal" data-bs-target="#modalPersona">
+                <label class="text">CUPÓN PERSONA</label>
+            </a>
 
         </div>
     </div>
@@ -29,13 +29,12 @@
     <div class="modal-dialog modal-xl">
         <div class="modal-content">
             <div class="modal-body">
-                <div class="row">
-                    <label class="modal-title">¿Quires crear tus cupones de empresa?</label>
-                </div>
-                <div class="row">
-                    <label class="modal-sub-title">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dolor
-                        mauris mauris sit.</label>
-                </div>
+
+                <label class="modal-title">¿Quires crear tus cupones de empresa?</label>
+
+                <label class="modal-sub-title">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dolor
+                    mauris mauris sit.</label>
+
                 <div class="row">
                     <div class="col-md-6">
 
@@ -105,10 +104,10 @@
         <div class="modal-content">
             <div class="modal-body">
 
-                    <label class="modal-title">¿Quires crear tus cupones de persona?</label>
+                <label class="modal-title">¿Quires crear tus cupones de persona?</label>
 
-                    <label class="modal-sub-title">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dolor
-                        mauris mauris sit.</label>
+                <label class="modal-sub-title">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dolor
+                    mauris mauris sit.</label>
 
                 <div class="row">
                     <div class="col-md-6">
