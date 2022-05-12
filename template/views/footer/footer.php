@@ -39,13 +39,13 @@
                             </div>
                             <div class="col">
                                 <p>
-                                    <img class="img-fluid" src="/view/assets/img/logo-UDD.svg" alt="Logo de UDD Ventures">
+                                    <img class="img-fluid" src="../../assets/img/new/logo-UDD.png" alt="Logo de UDD Ventures">
                                 </p>
                                 <p>
-                                    <img class="img-fluid" src="/view/assets/img/logo_corfo.png" alt="Logo de CORFO">
+                                    <img class="img-fluid" src="../../assets/img/new/logo_corfo.png" alt="Logo de CORFO">
                                 </p>
                                 <p class="mb-0">
-                                    <img class="img-fluid" src="/view/assets/img/logo-las-condes.png" alt="Logo de Las Condes">
+                                    <img class="img-fluid" src="../../assets/img/new/logo-las-condes.png" alt="Logo de Las Condes">
                                 </p>
                             </div>
                         </div>
@@ -53,22 +53,22 @@
                     <div class="col-12 col-sm-4 col-lg-6 col-xxl-5 scart-redes border-start-0">
                         <div class="d-flex justify-content-center align-items-start align-items-xl-center h-100">
                             <div class="d-flex flex-column align-items-center ps-md-5 ps-xl-4 ps-xxl-5 py-xl-3 contenedor-redes-sociales">
-                                <img class="logo-scart mb-3" src="/view/assets/img/new/logo-blanco.svg" alt="Logo de Scart">
+                                <img class="logo-scart mb-3" src="../../assets/img/new/logo-blanco.svg" alt="Logo de Scart">
 
                                 <ul class="list-inline mb-3">
                                     <li class="list-inline-item">
                                         <a href="https://www.facebook.com/Scart-248824297012631" target="_blank">
-                                            <img class="social-img" src="/view/assets/img/new/redes-03.svg" alt="Logo de Facebook" width="28" height="28">
+                                            <img class="social-img" src="../../assets/img/new/redes-03.svg" alt="Logo de Facebook" width="28" height="28">
                                         </a>
                                     </li>
                                     <li class="list-inline-item">
                                         <a href="https://www.instagram.com/scart.cl/?hl=es" target="_blank">
-                                            <img class="social-img" src="/view/assets/img/new/redes-01.svg" alt="Logo de Instagram" width="28" height="28">
+                                            <img class="social-img" src="../../assets/img/new/redes-01.svg" alt="Logo de Instagram" width="28" height="28">
                                         </a>
                                     </li>
                                     <li class="list-inline-item">
                                         <a href="https://twitter.com/SCARTcl" target="_blank">
-                                            <img class="social-img" src="/view/assets/img/new/redes-02.svg" alt="Logo de Twitter" width="28" height="28">
+                                            <img class="social-img" src="../../assets/img/new/redes-02.svg" alt="Logo de Twitter" width="28" height="28">
                                         </a>
                                     </li>
                                 </ul>

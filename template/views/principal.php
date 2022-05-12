@@ -59,13 +59,18 @@
 </div>
 <body class="bg-light user-view">
 
-<main >
+<main>
     <div class="row">
         <div class="container" style="width: 1286px">
             <?php include("../views/banners/botones.php") ?>
             <hr class="line-bottom">
 
             <?php include("../views/carousel2.php") ?>
+
+            <?php include("../views/carousel2.php") ?>
+            <?php include("../views/banners/banner1.php"); ?>
+            <?php include("../views/carousel2.php") ?>
+
             <?php include("../views/cuponestec.php"); ?>
         </div>
     </div>

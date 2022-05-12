@@ -10,7 +10,7 @@
             </div>
             <div class="row col-12 ml-2 mb-4">
                 <div class="col-md-6 position-relative">
-                        <div class="coupon-card2">
+                    <div class="coupon-card2">
 
                         <div class="logo-content-coupon-card2">
                             <a href="#">
@@ -47,7 +47,8 @@
 
                         </div>
 
-                        <h2 class="description-card2-coupon"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit a, rutrum turpis
+                        <h2 class="description-card2-coupon"> Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                            Sit a, rutrum turpis
                             facilisis scelerisque nunc, a cursus. </h2>
 
                         <p class="title-card2-coupon"> Suspendisse orci tortor, auctor non luctus </p>
@@ -60,7 +61,7 @@
 
 
                     </div>
-                    </div>
+                </div>
                 <div class="col-md-6 position-relative">
                     <div class="coupon-card2">
 
@@ -99,7 +100,8 @@
 
                         </div>
 
-                        <h2 class="description-card2-coupon"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit a, rutrum turpis
+                        <h2 class="description-card2-coupon"> Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                            Sit a, rutrum turpis
                             facilisis scelerisque nunc, a cursus. </h2>
 
                         <p class="title-card2-coupon"> Suspendisse orci tortor, auctor non luctus </p>
@@ -159,7 +161,8 @@
 
                             </div>
 
-                            <h2 class="description-card2-coupon"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit a, rutrum turpis
+                            <h2 class="description-card2-coupon"> Lorem ipsum dolor sit amet, consectetur adipiscing
+                                elit. Sit a, rutrum turpis
                                 facilisis scelerisque nunc, a cursus. </h2>
 
                             <p class="title-card2-coupon"> Suspendisse orci tortor, auctor non luctus </p>
@@ -212,7 +215,8 @@
 
                             </div>
 
-                            <h2 class="description-card2-coupon"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit a, rutrum turpis
+                            <h2 class="description-card2-coupon"> Lorem ipsum dolor sit amet, consectetur adipiscing
+                                elit. Sit a, rutrum turpis
                                 facilisis scelerisque nunc, a cursus. </h2>
 
                             <p class="title-card2-coupon"> Suspendisse orci tortor, auctor non luctus </p>
@@ -233,5 +237,5 @@
         </div>
 
     </div>
-    <hr class="line-bottom"> </hr>
+    <hr class="line-bottom"></hr>
 </div>

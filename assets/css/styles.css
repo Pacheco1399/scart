@@ -281,7 +281,6 @@ nav .logo {
     top: 42.37%;
     bottom: 47.88%;
 
-
 }
 
 /* Rectangle 78 */
@@ -700,7 +699,7 @@ nav .logo {
 .nuevos-cupones {
 
     width: 100%;
-    height: 252px;
+
     /* Degradado 1 */
 
     background: linear-gradient(90deg, #FF4A99 13.14%, #FF8755 87.37%);
@@ -748,7 +747,7 @@ nav .logo {
     height: 60px;
     margin-left: 40px;
     margin-top: 34px;
-
+    margin-bottom: 34px;
     background: #FFFFFF;
     border-radius: 30px;
     text-decoration: none;
@@ -784,6 +783,7 @@ nav .logo {
     height: 60px;
     margin-left: 26px;
     margin-top: 34px;
+    margin-bottom: 34px;
     background: #FFFFFF;
     border-radius: 30px;
     text-decoration: none;
@@ -812,12 +812,12 @@ nav .logo {
 }
 
 .modal-title {
-    position: absolute;
 
-    height: 66px;
     width: 928px;
-    left: 40px;
-    top: 24px;
+    height: 66px;
+    margin-left: 24px;
+    margin-top: 8px;
+
 
     border-radius: nullpx;
 
@@ -837,11 +837,10 @@ nav .logo {
 
 .modal-sub-title {
 
-    position: absolute;
+
     height: 66px;
     width: 928px;
-    left: 40px;
-    top: 90px;
+    margin-left: 24px;
 
 
     font-family: 'Poppins';
@@ -859,13 +858,10 @@ nav .logo {
 
 .modal-input1 {
     box-sizing: border-box;
-
-    position: absolute;
-
     width: 591px;
     height: 60px;
-    top: 154px;
-    left: 40px;
+
+    margin-left: 24px;
 
     background: rgba(255, 255, 255, 0.7);
     /* Secondary */
@@ -895,12 +891,11 @@ nav .logo {
 
 .modal-input2 {
     box-sizing: border-box;
-    position: absolute;
+
 
     width: 591px;
     height: 60px;
-    top: 154px;
-    left: 655px;
+
 
     background: rgba(255, 255, 255, 0.7);
     /* Secondary */
@@ -928,12 +923,12 @@ nav .logo {
 
 .modal-input3 {
     box-sizing: border-box;
-    position: absolute;
+
 
     width: 591px;
     height: 60px;
-    top: 238px;
-    left: 40px;
+    margin-top: 24px;
+    margin-left: 24px;
 
     background: rgba(255, 255, 255, 0.7);
     /* Secondary */
@@ -962,11 +957,10 @@ nav .logo {
 .modal-input4 {
     box-sizing: border-box;
 
-    position: absolute;
     width: 591px;
     height: 60px;
-    top: 238px;
-    left: 655px;
+    margin-top: 24px;
+
 
     background: rgba(255, 255, 255, 0.7);
 
@@ -992,11 +986,11 @@ nav .logo {
 .modal-input5 {
     box-sizing: border-box;
 
-    position: absolute;
     width: 591px;
     height: 60px;
-    top: 322px;
-    left: 40px;
+    margin-top: 24px;
+    margin-left: 24px;
+
 
     background: rgba(255, 255, 255, 0.7);
     /* Secondary */
@@ -1028,11 +1022,11 @@ nav .logo {
 .modal-input6 {
     box-sizing: border-box;
 
-    position: absolute;
+
     width: 591px;
     height: 60px;
-    top: 322px;
-    left: 655px;
+    margin-top: 24px;
+
 
     background: rgba(255, 255, 255, 0.7);
     /* Secondary */
@@ -1057,11 +1051,13 @@ nav .logo {
 .modal-area {
     box-sizing: border-box;
 
-    position: absolute;
+
     height: 187px;
     width: 1206px;
-    left: 40px;
-    top: 416px;
+    margin-top: 24px;
+    margin-left: 24px;
+
+
     padding-top: 10px;
     background: rgba(255, 255, 255, 0.7);
     border: 2px solid;
@@ -1081,20 +1077,20 @@ nav .logo {
 }
 
 .modal-btn {
-    position: absolute;
+
     height: 50px;
     width: 194px;
-    left: 40px;
-    top: 677px;
+    margin-left: 24px;
+    margin-top: 24px;
+    margin-bottom: 24px;
 
     background: #FA4F73;
     border-radius: 25px;
-
+    text-decoration: none;
 
 }
 
 .modal-btn .text {
-    position: absolute;
 
     height: 34px;
     width: 142px;
@@ -1114,6 +1110,24 @@ nav .logo {
     color: #FFFFFF;
 }
 
+.modal-sub-title2 {
+
+    height: 36px;
+    width: 1006px;
+    margin-left: 24px;
+    margin-top: 24px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    /* or 129% */
+
+
+    color: rgba(31, 31, 57, 0.5);
+}
+
 .modal-area-p {
     box-sizing: border-box;
 
@@ -1122,6 +1136,7 @@ nav .logo {
     width: 1206px;
     left: 40px;
     top: 322px;
+
     padding-top: 10px;
     background: rgba(255, 255, 255, 0.7);
     border: 2px solid;
@@ -1141,7 +1156,7 @@ nav .logo {
 }
 
 .modal-sub-title2-p {
-    position: absolute;
+
     height: 36px;
     width: 1006px;
     left: 40px;
@@ -1176,9 +1191,9 @@ nav .logo {
 
     height: 34px;
     width: 142px;
-    left: 66px;
-    top: 8px;
-    border-radius: nullpx;
+    margin-left: 66px;
+    margin-top: 8px;
+
 
     font-style: normal;
     font-weight: 600;
@@ -1190,24 +1205,6 @@ nav .logo {
     letter-spacing: 0.055em;
 
     color: #FFFFFF;
-}
-
-.modal-sub-title2 {
-    position: absolute;
-    height: 36px;
-    width: 1006px;
-    left: 40px;
-    top: 617px;
-
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 18px;
-    /* or 129% */
-
-
-    color: rgba(31, 31, 57, 0.5);
 }
 
 
@@ -1521,11 +1518,11 @@ nav .logo {
 
 /*INICIO VISTA-CUPÓN*/
 .vc-ver {
-    position: absolute;
+
     width: 197px;
     height: 24px;
-    left: 351px;
-    top: 478px;
+    margin-top: 24px;
+
 
     font-family: 'Poppins';
     font-style: normal;
@@ -1538,40 +1535,243 @@ nav .logo {
     align-items: center;
     text-align: center;
     letter-spacing: 0.055em;
+    text-decoration: none;
+    /* Gray 3 */
+
+    color: #828282;
+}
+
+.vc-ver:any-link {
+    color: #828282;
+}
+
+.vc-label-cupon {
+    /* CUPÓN DE APPLE */
+
+
+    width: 674.05px;
+    height: 66px;
+    margin-top: 24px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 66px;
+    /* identical to box height */
+
+    text-transform: uppercase;
+
+    /* Secondary */
+
+    color: #FA4F73;
+}
+
+.vista-cupon-card {
+
+    width: 100%;
+    height: 472px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+    background: #FFFFFF;
+    /* Sombra 2 */
+
+    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.12);
+    border-radius: 20px;
+}
+
+.card-share {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    margin-top: 32px;
+    margin-left: 24px;
+
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(4px);
+    /* Note: backdrop-filter has minimal browser support */
+
+    border-radius: 8px;
+}
+
+.card-share .icon {
+
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 11px;
+
+}
+
+.card-img {
+
+    position: absolute;
+    width: 511px;
+    height: 472px;
+
+    border-radius: 20px 0px 0px 20px;
+}
+
+.card-desc {
+    position: absolute;
+    width: 134px;
+    height: 46px;
+    margin-top: 402px;
+    margin-left: 24px;
+    /* Secondary */
+
+    background: #FA4F73;
+    border-radius: 8px;
+
+}
+
+.card-desc .text {
+
+    width: 108px;
+    height: 32px;
+    margin-left: 14px;
+    margin-top: 7px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 32px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.055em;
+
+    color: #FFFFFF;
+
+}
+
+.card-marca-icon {
+
+    margin-top: 32px;
+
+}
+
+.vc-card-title {
+    margin-top: 8px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 39px;
+
+    /* Gray 1 */
+
+    color: #333333;
+}
+
+.vc-card-subtitle {
+    margin-top: 24px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
 
     /* Gray 3 */
 
     color: #828282;
 }
 
-.vc-ver-icon {
-    /* Vector */
+.vc-card-code-box {
+    margin-top: 61px;
+    width: 727px;
+    height: 50px;
 
+    background: #FFFFFF;
+    /* Sombra 2 */
 
-    position: absolute;
-    left: 29.17%;
-    right: 29.17%;
-    top: 16.67%;
-    bottom: 16.67%;
-
-    /* Gray 3 */
-
-    background: #828282;
+    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.12);
+    border-radius: 20px;
 }
+.vc-card-code{
+
+    margin-top: 15px;
+    margin-left: 15px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.055em;
+
+    /* Secondary */
+
+    color: #FA4F73;
+}
+.vc-card-code-copy{
+    height: 50px;
+    width: 194px;
+    margin-left: 37px;
+    border-radius: 25px;
+    background: #FA4F73;
+    border: #FFFFFF;
+    color: #FFFFFF;
+
+}
+
+.vc-card-subtitle2{
+    margin-top: 10px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    /* identical to box height */
+
+
+    /* Gray 1 */
+
+    color: #333333;
+}
+.vc-card-usar{
+    height: 50px;
+    width: 395px;
+    margin-top: 24px;
+    border-radius: 25px;
+    /* Secondary */
+
+    background: #FA4F73;
+    color: #FFFFFF;
+    border: #FFFFFF;
+
+}
+
+.vc-card-problemas{
+    height: 50px;
+    width: 308px;
+    margin-left: 24px;
+    margin-top: 24px;
+
+    border-radius: 25px;
+    background: #BDBDBD;
+    color: #FFFFFF;
+    border: #FFFFFF;
+}
+
 
 .carousel-item-coupon {
     margin-right: 250px;
 }
 
-.line-bottom{
+.line-bottom {
     border: 1px solid #BDBDBD;
     width: 100%;
     margin-top: 30px;
     margin-bottom: 20px;
 }
+
 .boton-carousel-prev,
-.boton-carousel-next
-{
+.boton-carousel-next {
     position: absolute;
     display: block;
     width: 30px;
@@ -1585,10 +1785,12 @@ nav .logo {
     color: #FFFFFF;
     border-radius: 8px;
 }
-.boton-carousel-prev{
+
+.boton-carousel-prev {
     left: -2%;
 }
-.boton-carousel-next{
+
+.boton-carousel-next {
     right: 0%;
 }
 
@@ -3683,12 +3885,7 @@ footer img.social-img {
 }
 
 .modal-content {
-    position: absolute;
     width: 1286px;
-    height: 767px;
-    top: 156px;
-    left: -317px;
-
     border-radius: 25px;
     border-color: #FA4F73;
 }

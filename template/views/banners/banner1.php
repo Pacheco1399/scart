@@ -26,15 +26,15 @@
 <!-- Modal Empresa -->
 <div class="modal fade" id="modalEmpresa" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
      aria-labelledby="modalEmpresaLabel" aria-hidden="true">
-    <div class="modal-dialog">
+    <div class="modal-dialog modal-xl">
         <div class="modal-content">
             <div class="modal-body">
                 <div class="row">
-                    <h2 class="modal-title">¿Quires crear tus cupones de empresa?</h2>
+                    <label class="modal-title">¿Quires crear tus cupones de empresa?</label>
                 </div>
                 <div class="row">
-                    <h1 class="modal-sub-title">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dolor
-                        mauris mauris sit.</h1>
+                    <label class="modal-sub-title">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dolor
+                        mauris mauris sit.</label>
                 </div>
                 <div class="row">
                     <div class="col-md-6">
@@ -46,7 +46,6 @@
                     <div class="col-md-6">
                         <input type="text" class="modal-input2" placeholder="Cargo del Facilitador">
                     </div>
-
                 </div>
                 <div class="row">
                     <div class="col-md-6">
@@ -102,16 +101,15 @@
 <!-- Modal Persona -->
 <div class="modal fade" id="modalPersona" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
      aria-labelledby="modalPersonaLabel" aria-hidden="true">
-    <div class="modal-dialog">
+    <div class="modal-dialog modal-xl">
         <div class="modal-content" style="position: absolute; height: 684px;">
             <div class="modal-body">
-                <div class="row">
-                    <h2 class="modal-title">¿Quires crear tus cupones de persona?</h2>
-                </div>
-                <div class="row">
-                    <h1 class="modal-sub-title">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dolor
-                        mauris mauris sit.</h1>
-                </div>
+
+                    <label class="modal-title">¿Quires crear tus cupones de persona?</label>
+
+                    <label class="modal-sub-title">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dolor
+                        mauris mauris sit.</label>
+
                 <div class="row">
                     <div class="col-md-6">
 
@@ -136,13 +134,13 @@
 
                 <div class="row">
                     <div class="col-md-12">
-                        <textarea placeholder="Detalle o descripción del cupón" class="modal-area-p"></textarea>
+                        <textarea placeholder="Detalle o descripción del cupón" class="modal-area"></textarea>
                     </div>
                 </div>
 
                 <div class="row">
                     <div class="col-md-12">
-                        <label class="modal-sub-title2-p">
+                        <label class="modal-sub-title2">
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer etiam ac ultrices
                             tellus
                             aliquam eu nulla et. Vestibulum quis et condimentum sed nunc at nibh augue phasellus.
@@ -152,7 +150,7 @@
 
                 <div class="row">
                     <div class="col-md-12">
-                        <a class="modal-btn-p" type="button" data-bs-toggle="modal" data-bs-target="#modalEmpresa">
+                        <a class="modal-btn-p" type="button" data-bs-toggle="modal" data-bs-target="#modalPersona">
                             <h1 class="text">ENVIAR</h1>
                         </a>
                     </div>

@@ -1,5 +1,4 @@
-<div class="row">
-    <div class="container">
+
         <div class="carousel-cupones">
                 <div class="container-fluid">
                     <div class="row row-cols-auto row-cols-1 row-cols-md-auto mb-3">
@@ -244,7 +243,6 @@
         </div>
 
     </div>
-    </div>
+
     <hr class="line-bottom"> </hr>
-</div>
 
