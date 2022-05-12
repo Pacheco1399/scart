@@ -3,22 +3,29 @@
 
     <div class="nuevos-cupones mb-5">
 
+        <div class="container">
 
-        <label class="title">¿QUIERES CREAR TUS CUPONES?</label>
 
-        <label class="subTitle">Ingresa aquí, selecciondo una de las dos opciones. para mas información, haz clic
-            aquí.</label>
-        <div class="row">
+            <label class="title">¿QUIERES CREAR TUS CUPONES?</label>
 
-            <a class="btn-empresa" type="button" data-bs-toggle="modal" data-bs-target="#modalEmpresa">
+            <label class="subTitle">Ingresa aquí, selecciondo una de las dos opciones. para mas información, haz clic
+                aquí.</label>
+            <div class="row">
 
-                <label class="text">CUPÓN EMPRESA</label>
-            </a>
+                <div class="col-12 col-xl-6 ">
+                    <a class="btn-empresa" type="button" data-bs-toggle="modal" data-bs-target="#modalEmpresa">
 
-            <a class="btn-persona" type="button" data-bs-toggle="modal" data-bs-target="#modalPersona">
-                <label class="text">CUPÓN PERSONA</label>
-            </a>
+                        <label class="text">CUPÓN EMPRESA</label>
+                    </a>
+                </div>
+                <div class="col-12 col-xl-6 ">
+                    <a class="btn-persona" type="button" data-bs-toggle="modal" data-bs-target="#modalPersona">
+                        <label class="text">CUPÓN PERSONA</label>
+                    </a>
+                </div>
 
+
+            </div>
         </div>
     </div>
 </div>
@@ -96,7 +103,6 @@
                         </a>
                     </div>
                 </div>
-
 
 
             </div>

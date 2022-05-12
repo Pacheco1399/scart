@@ -697,7 +697,7 @@ nav .logo {
 .nuevos-cupones {
 
     width: 100%;
-
+    max-width: 1286px;
     /* Degradado 1 */
 
     background: linear-gradient(90deg, #FF4A99 13.14%, #FF8755 87.37%);
@@ -708,7 +708,6 @@ nav .logo {
 .nuevos-cupones .title {
     /*Title*/
     margin-right: 40px;
-    margin-left: 40px;
     margin-top: 24px;
 
     font-family: 'Poppins';
@@ -725,7 +724,6 @@ nav .logo {
 
 .nuevos-cupones .subTitle {
     /*SUB TITLE*/
-    margin-left: 40px;
 
     font-family: 'Poppins';
     font-style: normal;
@@ -741,9 +739,9 @@ nav .logo {
 .nuevos-cupones .btn-empresa {
 
 
-    width: 45%;
+    width: 100%;
+    max-width: 590px;
     height: 60px;
-    margin-left: 40px;
     margin-top: 34px;
     margin-bottom: 34px;
     background: #FFFFFF;
@@ -777,9 +775,9 @@ width: 100%;
 
 .nuevos-cupones .btn-persona {
 
-    width: 45%;
+    width: 100%;
+    max-width: 590px;
     height: 60px;
-    margin-left: 26px;
     margin-top: 34px;
     margin-bottom: 34px;
     background: #FFFFFF;
@@ -1283,7 +1281,6 @@ width: 100%;
     position: relative;
     height: 34px;
     margin-top: 34px;
-    margin-left: 24px;
     background: #F8F9FA;
     /* Gray 4 */
 
