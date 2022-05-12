@@ -455,10 +455,9 @@ nav .logo {
 
 /* Rectangle 74 */
 .imagen-coupon-card2 {
-    position: absolute;
-    right: 51.97%;
-    top: 0%;
-    z-index: -1;
+    width: 100%;
+    max-width: 292px;
+    height: 100%;
 }
 
 /* Group 175 */
@@ -473,8 +472,10 @@ nav .logo {
 
 /* Rectangle 78 */
 .share-coupon-content-card2 {
-    height: 40px;
-    width: 40px;
+    width: 100%;
+    height: 100%;
+    max-height: 40px;
+    max-width: 40px;
     border-radius: 8px;
     position: absolute;
     left: 2.63%;
@@ -508,15 +509,12 @@ nav .logo {
 
 /* Suspendisse orci tortor, auctor non luctus */
 .title-card2-coupon {
-    position: absolute;
-    left: 50.66%;
-    right: 2.63%;
-    top: 28.52%;
-    bottom: 50.74%;
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 700;
     font-size: 20px;
+
     line-height: 28px;
     /* or 140% */
     color: #1F1F39;
@@ -525,11 +523,6 @@ nav .logo {
 
 /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit a, rutrum turpis facilisis scelerisque nunc, a cursus. */
 .description-card2-coupon {
-    position: absolute;
-    left: 50.66%;
-    right: 2.63%;
-    top: 51.48%;
-    bottom: 28.52%;
 
     font-family: 'Poppins';
     font-style: normal;
@@ -545,11 +538,7 @@ nav .logo {
 
 /* Group 173 */
 .time-coupon-container-card2 {
-    position: absolute;
-    left: 50.66%;
-    right: 24.67%;
-    top: 17.41%;
-    bottom: 75.19%;
+    width: 100%;
 }
 
 /* schedule_FILL0_wght400_GRAD0_opsz20 (1) 1 */
@@ -560,21 +549,16 @@ nav .logo {
 
 /* Vector */
 .time-coupon-icon-card2 {
-    position: absolute;
-    left: 8.33%;
-    right: 8.34%;
-    top: 8.33%;
-    bottom: 8.34%;
-
+    width: 100%;
+    margin-top: 11.67px;
     color: #FF504D;
 }
 
 /* Quedan 2 hrs */
 .text-time-group-card2 {
-    position: absolute;
-    right: 24.67%;
-    top: 5.41%;
 
+
+    margin-top: 10px;
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
@@ -631,11 +615,6 @@ nav .logo {
 
 /* Group 174 */
 .label-sale-card2 {
-    height: 46px;
-    width: 134px;
-    left: 16px;
-    top: 208px;
-    border-radius: 8px;
 
 }
 
@@ -675,11 +654,8 @@ nav .logo {
 /* Rectangle 79 */
 
 .logo-content-coupon-card2 {
-    position: absolute;
-    left: 50.66%;
-    right: 29.28%;
-    top: 5.93%;
-    bottom: 86.3%;
+    width: 100%;
+    margin-top: 16px;
 }
 
 .img-grande {
