@@ -850,10 +850,9 @@ nav .logo {
 
 .modal-input1 {
     box-sizing: border-box;
-    width: 90%;
+    width: 100%;
     height: 60px;
 
-    margin-left: 24px;
 
     background: rgba(255, 255, 255, 0.7);
     /* Secondary */
@@ -883,9 +882,7 @@ nav .logo {
 
 .modal-input2 {
     box-sizing: border-box;
-
-
-    width: 90%;
+    width: 100%;
     height: 60px;
 
 
@@ -917,11 +914,10 @@ nav .logo {
     box-sizing: border-box;
 
 
-    width: 90%;
+    width: 100%;
 
     height: 60px;
     margin-top: 24px;
-    margin-left: 24px;
 
     background: rgba(255, 255, 255, 0.7);
     /* Secondary */
@@ -949,9 +945,7 @@ nav .logo {
 
 .modal-input4 {
     box-sizing: border-box;
-
-    width: 90%;
-
+    width: 100%;
     height: 60px;
     margin-top: 24px;
 
@@ -979,12 +973,10 @@ nav .logo {
 
 .modal-input5 {
     box-sizing: border-box;
-
-    width: 90%;
+    width: 100%;
 
     height: 60px;
     margin-top: 24px;
-    margin-left: 24px;
 
 
     background: rgba(255, 255, 255, 0.7);
@@ -1017,8 +1009,7 @@ nav .logo {
 .modal-input6 {
     box-sizing: border-box;
 
-
-    width: 90%;
+    width: 100%;
 
     height: 60px;
     margin-top: 24px;
@@ -1049,9 +1040,8 @@ nav .logo {
 
 
     height: 187px;
-    width: 93%;
+    width: 100%;
     margin-top: 24px;
-    margin-left: 24px;
 
 
     padding-top: 10px;
@@ -1076,7 +1066,6 @@ nav .logo {
 
     height: 50px;
     width: 194px;
-    margin-left: 24px;
     margin-top: 24px;
     margin-bottom: 24px;
 
@@ -1109,8 +1098,6 @@ nav .logo {
 
     height: 36px;
     width: 90%;
-    margin-left: 24px;
-    margin-top: 24px;
 
     font-family: 'Poppins';
     font-style: normal;
@@ -1128,7 +1115,7 @@ nav .logo {
 
 
     height: 100%;
-    width: 93%;
+    width: 100%;
     margin-top: 24px;
     margin-left: 24px;
 
@@ -1154,8 +1141,6 @@ nav .logo {
 
     height: 36px;
     width: 100%;
-    left: 40px;
-    top: 533px;
 
     font-family: 'Poppins';
     font-style: normal;
@@ -4099,7 +4084,6 @@ footer img.social-img {
     }
 
 
-
     .scart-paginator .page-link {
         padding: .375rem .69rem;
         font-size: .9rem;
@@ -4254,28 +4238,44 @@ footer img.social-img {
     --horizontal-position: -10px;
 }
 
+@media (max-width: 767px) {
+    .modal-input1 {
+        margin-top: 24px;
+    }
+
+    .modal-input2 {
+        margin-top: 24px;
+
+    }
+}
+
 @media (max-width: 991.98px) {
-    .coupon-card2{
+    .coupon-card2 {
         height: 100%;
     }
-    .label-sale-content-card2{
+
+    .label-sale-content-card2 {
         right: 81%;
         top: 81%;
         bottom: 9%;
     }
-    .label-sale-text-card2{
+
+    .label-sale-text-card2 {
         font-size: 8px;
         top: 0%;
     }
-    .button-coupon-card2{
+
+    .button-coupon-card2 {
         height: 28px;
         margin-top: 0px;
         max-width: 125px;
     }
-    .text-button-coupon-card2{
+
+    .text-button-coupon-card2 {
         margin-left: 19%;
         font-size: 10px;
     }
+
     .title-card2-coupon {
         font-size: 14px;
     }
@@ -4283,6 +4283,7 @@ footer img.social-img {
     .description-card2-coupon {
         font-size: 10px;
     }
+
     .vista-producto .discount-bubble.end {
         --horizontal-position: -18px;
     }
