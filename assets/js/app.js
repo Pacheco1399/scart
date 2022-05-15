@@ -960,7 +960,8 @@ function openLoginModal(title, message, onClose) {
                     breakpoint: 400,
                     settings: {
                         slidesToShow: Number(slidesPerBreakpoint.xs),
-                        slidesToScroll: 1
+                        slidesToScroll: 1,
+
                     }
                 },
                 {
@@ -1114,12 +1115,12 @@ function openLoginModal(title, message, onClose) {
 
         var slidesPerBreakpoint = {
             xs: carousel.dataset.slidesPerPage || 1,
-            sm: carousel.dataset.slidesPerPageSm || carousel.dataset.slidesPerPage || 2,
+            sm: carousel.dataset.slidesPerPageSm || carousel.dataset.slidesPerPage || 1,
             md:
                 carousel.dataset.slidesPerPageMd ||
                 carousel.dataset.slidesPerPageSm ||
                 carousel.dataset.slidesPerPage ||
-                3,
+                2,
             lg:
                 carousel.dataset.slidesPerPageLg ||
                 carousel.dataset.slidesPerPageMd ||

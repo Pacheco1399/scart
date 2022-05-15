@@ -121,11 +121,11 @@ nav .logo {
 /* Component 1 */
 
 .coupon-card1 {
-    position: absolute;
-    width: 382px;
-    height: 472px;
-    left: 317px;
-    top: 718px;
+    max-width: 382px;
+    min-width: 258px;
+    height: 100%;
+    max-height: 472px;
+
     /* Gray 5 */
     border: 1px solid #E0E0E0;
     /* Sombra 1 */
@@ -167,14 +167,8 @@ nav .logo {
 .text-time-group-card1 {
     height: 20px;
     width: 136px;
-    left: 40px;
-    top: 278px;
-    border-radius: nullpx;
-    position: absolute;
-    left: 10.47%;
-    right: 53.93%;
-    top: 58.9%;
-    bottom: 36.86%;
+    margin-top: 15px;
+
 
     font-family: 'Poppins';
     font-style: normal;
@@ -202,22 +196,17 @@ nav .logo {
 
 /* Vector */
 .time-coupon-icon-card1 {
-    position: absolute;
-    left: 8.33%;
-    right: 8.34%;
-    top: 8.33%;
-    bottom: 8.33%;
-
+    width: 100%;
+    margin-top: 18px;
+    margin-left: 15px;
     color: #FF504D;
 }
 
 /* Suspendisse orci tortor, auctor non luctus */
 .title-card1-coupon {
-    position: absolute;
-    left: 4.19%;
-    right: 4.19%;
-    top: 65.25%;
-    bottom: 22.88%;
+
+    width: 80%;
+    margin-left: 15px;
 
     font-family: 'Poppins';
     font-style: normal;
@@ -256,11 +245,10 @@ nav .logo {
 
 /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit a, rutrum turpis facilisis scelerisque nunc, a cursus. */
 .description-card1-coupon {
-    position: absolute;
-    left: 4.19%;
-    right: 4.19%;
-    top: 78.39%;
-    bottom: 13.98%;
+
+    width: 80%;
+    margin-top: 15px;
+    margin-left: 15px;
 
     font-family: 'Poppins';
     font-style: normal;
@@ -274,33 +262,27 @@ nav .logo {
 
 .label-sale-card1 {
     width: 100%;
+    max-width: 131px;
     height: 50px;
+    max-height: 42px;
+
     position: absolute;
     left: 4.19%;
     right: 60.73%;
     top: 42.37%;
     bottom: 47.88%;
-
-}
-
-/* Rectangle 78 */
-.label-sale-content-card1 {
-    position: absolute;
-    left: 2.63%;
-    right: 65%;
-    top: 0%;
-    bottom: 0%;
-
-    /* Secondary */
     background: #FA4F73;
     border-radius: 8px;
 }
 
+/* Rectangle 78 */
+
+
 /* 15% dcto. */
 .label-sale-text-card1 {
     position: fixed;
-    right: 64.14%;
-    top: 43.86%;
+    right: 65%;
+    top: 45%;
 
     font-family: 'Poppins';
     font-style: normal;
@@ -320,31 +302,31 @@ nav .logo {
 
 /* Button-Small */
 .button-coupon-card1 {
-    position: absolute;
-    left: 4.19%;
-    right: 45.03%;
-    top: 89.41%;
-    bottom: 3.39%;
+    height: 34px;
+    width: 100%;
+    max-width: 194px;
+    margin-left: 15px;
+
+    background: #FA4F73;
+    border-radius: 17px;
 }
 
 /* Rectangle 71 */
 .button-show-coupon-card1 {
-    position: absolute;
-    left: 0%;
-    right: 0%;
-    top: 0%;
-    bottom: 0%;
+    height: 34px;
+    width: 100%;
+    max-width: 194px;
+    margin-top: 24px;
     background: #FA4F73;
     border-radius: 17px;
 }
 
 /* VER CUPÓN */
 .text-button-coupon-card1 {
-    position: absolute;
-    left: 50px;
-    right: 26px;
-    top: 0%;
-    bottom: 0%;
+
+    margin-left: 29%;
+    padding-top: 7px;
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
@@ -372,12 +354,6 @@ nav .logo {
     border-radius: 0px;
 
 }
-
-.coupon-carousel-card1 {
-    position: inherit;
-    top: 0%;
-}
-
 
 /* CARD COUPON  2 */
 
@@ -465,8 +441,9 @@ nav .logo {
     position: absolute;
     left: 2.63%;
     right: 90.79%;
-    top: 5.93%;
+    top: 2.93%;
     bottom: 79.26%;
+
 }
 
 
@@ -490,17 +467,15 @@ nav .logo {
 /* icon-share */
 .share-coupon-icon-card2 {
     position: absolute;
-    left: 35%;
-    top: 35%;
+    left: 25%;
+    top: 25%;
 }
 
 /* Vector */
 .share-coupon-icon-vector-card2 {
     position: absolute;
-    left: 12.5%;
-    right: 12.5%;
-    top: 8.33%;
-    bottom: 8.33%;
+    left: 25%;
+    top: 25%;
 
     color: #FFFFFF;
 
@@ -580,6 +555,8 @@ nav .logo {
     margin-top: 24px;
     background: #FA4F73;
     border-radius: 17px;
+
+
 }
 
 /* Rectangle 71 */
@@ -1732,7 +1709,7 @@ nav .logo {
 }
 
 .carousel-item-coupon {
-    margin-right: 250px;
+    width: 382px;
 }
 
 .line-bottom {
@@ -1766,9 +1743,19 @@ nav .logo {
     right: 0%;
 }
 
+.carousel_icon_left {
+    width: 10px;
+    height: 22px;
+}
+
+.carousel_icon_right {
+    width: 10px;
+    height: 22px;
+    margin-bottom: 34%;
+}
+
 .title-carousel {
     width: 100%;
-    height: 66px;
 
     font-family: 'Poppins';
     font-style: normal;
@@ -1787,7 +1774,7 @@ nav .logo {
 
 .subtitle-carousel {
     width: 100%;
-    height: 36px;
+    height: 100%;
 
     font-family: 'Poppins';
     font-style: normal;
@@ -1795,11 +1782,39 @@ nav .logo {
     font-size: 24px;
     line-height: 36px;
     /* identical to box height */
-
-
     /* Gray 3 */
-
     color: #828282;
+}
+
+.share-content {
+    position: absolute;
+    left: 1.7%;
+    top: 6%;
+}
+
+.botones-share {
+    height: 40px;
+    width: 40px;
+    border-radius: 8px;
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(4px);
+}
+
+.botones-share .compartir {
+    color: #FFFFFF;
+}
+
+.botones-share .redes {
+    position: relative;
+    left: -10px;
+    min-width: inherit;
+    padding: 7px;
+    border-radius: 100px;
+    font-size: 20px;
+}
+
+.botones-share .redes .whatsapp {
+    color: #27d46b;
 }
 
 
@@ -4088,6 +4103,10 @@ footer img.social-img {
         padding: .375rem .69rem;
         font-size: .9rem;
     }
+
+    .coupon-card1 {
+        margin-left: 0%;
+    }
 }
 
 .scart-paginator .page-link:focus {
@@ -4501,7 +4520,26 @@ header .carousel .carousel__elemento,
     .extension .install-btn {
         font-size: 15px;
     }
+
 }
+
+/*INICIO MEDIDAS DE CAROUSEL*/
+
+@media (min-width: 979px) and (max-width: 1116px) {
+    .label-sale-card1 {
+
+    }
+
+    .label-sale-text-card1 {
+        top: 193px;
+        left: 33px;
+    }
+
+}
+
+
+
+/*FIN MEDIDAS CAROUSEL*/
 
 @media (min-width: 1200px) {
     .container {
