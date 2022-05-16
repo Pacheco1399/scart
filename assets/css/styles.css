@@ -1220,9 +1220,16 @@ nav .logo {
     margin-top: 8px;
     background: #F8F9FA;
     /* Gray 4 */
+    transition: 0.4s;
 
     border: 1.5px solid #BDBDBD;
     border-radius: 17px;
+}
+.btn-barra:hover,
+.btn-barra .label-btn-barra-all:hover,
+.btn-barra .label:hover{
+    background: linear-gradient(90deg, #FF8755 13.14%, #FF4A99 87.37%);
+    color: #FFFFFF;
 }
 
 
@@ -5081,7 +5088,6 @@ header .como-funciona .btn {
     }
 
     .btn-barra .label{
-
         font-size: 11px;
         top:1px;
         left:35px;
