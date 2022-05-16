@@ -360,6 +360,7 @@ nav .logo {
 /* CARD COUPON  2 */
 .coupon-card2 {
     width: 100%;
+    max-width: 608px;
     height: 270px;
     /* Gray 5 */
     border: 1px solid #E0E0E0;
@@ -4113,13 +4114,6 @@ footer img.social-img {
 }
 
 @media (max-width: 399.98px) {
-    .text-time-group-card2 {
-        font-size: 8px;
-    }
-
-    .time-coupon-icon-card2 {
-        font-size: 8px;
-    }
 
 
     .scart-paginator .page-link {
@@ -4282,39 +4276,6 @@ footer img.social-img {
 
 
 @media (max-width: 991.98px) {
-    .coupon-card2 {
-        height: 100%;
-    }
-
-    .label-sale-content-card2 {
-        right: 81%;
-        top: 81%;
-        bottom: 9%;
-    }
-
-    .label-sale-text-card2 {
-        font-size: 8px;
-        top: 0%;
-    }
-
-    .button-coupon-card2 {
-        height: 28px;
-        margin-top: 0px;
-        max-width: 125px;
-    }
-
-    .text-button-coupon-card2 {
-        margin-left: 19%;
-        font-size: 10px;
-    }
-
-    .title-card2-coupon {
-        font-size: 14px;
-    }
-
-    .description-card2-coupon {
-        font-size: 10px;
-    }
 
     .vista-producto .discount-bubble.end {
         --horizontal-position: -18px;
@@ -4557,7 +4518,7 @@ header .carousel .carousel__elemento,
 @media (max-width: 376px) {
 
 
-    .nuevos-cupones{
+    .nuevos-cupones {
         border-radius: 0px;
     }
 
@@ -4662,11 +4623,13 @@ header .carousel .carousel__elemento,
         margin-bottom: 8px;
         margin-top: 132px;
     }
-    .modal-btn-p .text{
+
+    .modal-btn-p .text {
         font-size: 14px;
         margin-left: 145px;
         margin-top: 0px;
     }
+
     .modal-close {
         position: absolute;
         left: 67%;
@@ -4677,9 +4640,66 @@ header .carousel .carousel__elemento,
 
     }
 
+
+    /*FIN MEDIDAS BANNER*/
+    /*INICIO MEDIDAS CUPÓN TECNOLOGÍA*/
+    .coupon-card2 {
+        margin-left: 16px;
+        max-width: 343px;
+        height: 100%;
+    }
+
+    .imagen-coupon-card2 {
+        width: 100%;
+        height: 100%;
+        max-width: 343px;
+        max-height: 270px;
+    }
+
+    .logo-content-coupon-card2 {
+        max-width: 122px;
+        max-height: 21px;
+        margin-left: 16px;
+    }
+
+    .time-coupon-icon-card2 {
+        margin-top: 14px;
+        margin-left: 16px;
+    }
+
+    .title-card2-coupon {
+        font-size: 20px;
+        margin-left: 16px;
+    }
+
+    .text-time-group-card2 {
+        margin-top: 13px;
+        margin-left: 5.67px;
+    }
+
+    .description-card2-coupon {
+        margin-left: 16px;
+    }
+
+    .label-sale-content-card2 {
+        height: 46px;
+        width: 134px;
+        left: 16px;
+        top: 208px;
+        border-radius: 8px;
+    }
+
+    .button-coupon-card2 {
+        height: 34px;
+        width: 194px;
+        left: 16px;
+        top: 471px;
+        margin-left: 16px;
+        margin-bottom: 16px;
+    }
 }
 
-/*FIN MEDIDAS BANNER*/
+/*FIN MEDIDAS CUPÓN TECNOLOGÍA*/
 @media (min-width: 1200px) {
     .container {
         /*max-width: 1190px !important;*/

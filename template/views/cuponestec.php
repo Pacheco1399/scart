@@ -13,10 +13,10 @@
                 <div class="col-md-6 position-relative">
                     <div class="coupon-card2">
                         <div class="row">
-                            <div class="col-6 col-xl-6">
+                            <div class="col-12 col-xl-6">
 
 
-                                <img src="../../assets/img/rectangle74.png" class="imagen-coupon-card2" alt="">
+                                <img src="../../assets/img/new/rectangle7.png" class="imagen-coupon-card2" alt="">
 
 
                                 <div class="share-coupon-card2">
@@ -70,25 +70,24 @@
 
 
                             </div>
-                            <div class="col-6 col-xl-6">
+                            <div class="col-12 col-xl-6">
 
-                                <div class="col-6">
+                                <div class="col-12 ms-3">
                                     <a href="#">
                                         <img src="../../assets/img/rectangle7.png" class="logo-content-coupon-card2"
                                              alt="">
                                     </a>
                                 </div>
-                                <div class="col-12">
+                                <div class="col-12 col-xl-12">
                                     <div class="row">
 
 
-                                        <div class="col-1">
-                                            <i class=" time-coupon-icon-card2 fas fa-clock"></i>
+                                        <div class="col-1 col-xl-1">
+                                            <i class="time-coupon-icon-card2 fas fa-clock"></i>
 
                                         </div>
-                                        <div class="col-10">
+                                        <div class="col-9 col-xl-10">
                                             <div class="time-coupon-container-card2">
-
                                                 <label class="text-time-group-card2">Quedan 2 hrs</label>
                                             </div>
                                         </div>
@@ -127,7 +126,7 @@
                 <div class="col-md-6 position-relative">
                     <div class="coupon-card2">
                         <div class="row">
-                            <div class="col-6 col-xl-6">
+                            <div class="col-12 col-xl-6">
 
 
                                 <img src="../../assets/img/new/Rectangle69.png" class="imagen-coupon-card2" alt="">
@@ -185,9 +184,9 @@
 
 
                             </div>
-                            <div class="col-6 col-xl-6">
+                            <div class="col-12 col-xl-6">
 
-                                <div class="col-6">
+                                <div class="col-12">
                                     <a href="#">
                                         <img src="../../assets/img/rectangle7.png" class="logo-content-coupon-card2"
                                              alt="">
@@ -250,7 +249,7 @@
                     <div class="col-md-6 position-relative">
                         <div class="coupon-card2">
                             <div class="row">
-                                <div class="col-6 col-xl-6">
+                                <div class="col-12 col-xl-6">
 
 
                                     <img src="../../assets/img/new/vista-samsung.png" class="imagen-coupon-card2"
@@ -312,9 +311,9 @@
 
 
                                 </div>
-                                <div class="col-6 col-xl-6">
+                                <div class="col-12 col-xl-6">
 
-                                    <div class="col-6">
+                                    <div class="col-12">
                                         <a href="#">
                                             <img src="../../assets/img/rectangle7.png" class="logo-content-coupon-card2"
                                                  alt="">
@@ -369,7 +368,7 @@
                     <div class="col-md-6 position-relative">
                         <div class="coupon-card2">
                             <div class="row">
-                                <div class="col-6 col-xl-6">
+                                <div class="col-12 col-xl-6">
 
 
                                     <img src="../../assets/img/new/vista-lg.png" class="imagen-coupon-card2" alt="">
@@ -430,9 +429,9 @@
 
 
                                 </div>
-                                <div class="col-6 col-xl-6">
+                                <div class="col-12 col-xl-6">
 
-                                    <div class="col-6">
+                                    <div class="col-12">
                                         <a href="#">
                                             <img src="../../assets/img/rectangle7.png" class="logo-content-coupon-card2"
                                                  alt="">
