@@ -66,6 +66,7 @@
             <?php include("../views/banners/botonesPrueba.php") ?>
 
 
+
             <?php include("../views/carousel2.php") ?>
 
             <?php include("../views/carouselVencer.php") ?>

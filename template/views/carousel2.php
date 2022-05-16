@@ -1,5 +1,4 @@
 <div class="carousel-cupones">
-    <hr class="line-bottom">
     <div class="container-fluid">
         <div class="row row-cols-auto row-cols-1 row-cols-md-auto mb-3">
             <div class="col">

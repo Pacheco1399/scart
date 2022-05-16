@@ -1,5 +1,5 @@
 
-
+<div class="container-fluid">
 
 <div class="row ">
 
@@ -9,8 +9,10 @@
         </div>
 
 
-        <div class="btn-barra" style="max-width: 149px;min-width: 121px">
+        <div class="btn-barra active" style="max-width: 149px;min-width: 121px">
             <img src="../../assets/img/new/tecnologia.png" class="img" alt="tecnologia">
+            <i class="bi bi-controller"></i>
+
 
             <a class="label" href="#">TECNOLOGÍA</a>
         </div>
@@ -37,6 +39,6 @@
             <a class="label" href="#">HOGAR</a>
         </div>
 
-
-
+</div>
+    <hr class="line-bottom">
 </div>

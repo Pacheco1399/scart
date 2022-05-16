@@ -1291,6 +1291,24 @@ nav .logo {
     background: #f8f9fa;
 }
 
+
+
+.btn-barra .icon-img{
+    /* Vector */
+
+    position: absolute;
+    left: 13.68px;
+    right: 9.67px;
+    top: 10px;
+
+    /* Gray 4 */
+
+
+    /* Gray 4 */
+
+    background: #f8f9fa;
+}
+
 .btn-viajes-turismo {
     box-sizing: border-box;
 
