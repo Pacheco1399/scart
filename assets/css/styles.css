@@ -632,6 +632,7 @@ nav .logo {
 .img-grande {
 
     width: 100%;
+    margin-bottom: 8px;
 
 }
 
@@ -1212,10 +1213,10 @@ nav .logo {
 
 .btn-barra {
     box-sizing: border-box;
-    margin-right: 24px;
+    margin-left: 24px;
     position: relative;
     height: 34px;
-    margin-top: 34px;
+    margin-top: 8px;
     background: #F8F9FA;
     /* Gray 4 */
 
@@ -1737,8 +1738,8 @@ nav .logo {
 .line-bottom {
     border: 1px solid #BDBDBD;
     width: 100%;
-    margin-top: 30px;
-    margin-bottom: 20px;
+    margin-top: 16px;
+    margin-bottom: 8px;
 }
 
 .boton-carousel-prev,
@@ -5047,6 +5048,34 @@ header .como-funciona .btn {
 
     .modal .popup-txt {
         padding: 3.125rem 2.8125rem;
+    }
+
+
+}
+
+@media (max-width: 440px) {
+     .btn-barra {
+        width: 30%;
+         height: 25px;
+        margin-left: 8px;
+    }
+
+    .btn-barra .label{
+
+        font-size: 11px;
+        top:1px;
+        left:35px;
+    }
+
+    .btn-barra .img{
+        left: 7.68px;
+        top: 3px;
+
+    }
+
+    .btn-barra-all .label-btn-barra-all {
+        font-size: 11px;
+        top:1px;
     }
 }
 

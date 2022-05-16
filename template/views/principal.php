@@ -64,7 +64,7 @@
         <div class="container" style="width: 1286px">
 
             <?php include("../views/banners/botonesPrueba.php") ?>
-            <hr class="line-bottom">
+
 
             <?php include("../views/carousel2.php") ?>
 
