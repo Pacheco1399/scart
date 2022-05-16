@@ -37,78 +37,76 @@
         <div class="modal-content">
             <div class="modal-body">
 
-                <div class="container">
+                <div class="row">
 
+                    <div class="col-11 col-md-10">
+                        <label class="modal-title">¿Quires crear tus cupones de empresa?</label>
 
-                    <div class="row">
-                        <div class="col-md-10">
-                            <label class="modal-title">¿Quires crear tus cupones de empresa?</label>
-
-                        </div>
-                        <div class="col-md-2">
-                            <button type="button" class="moda-close" data-bs-dismiss="modal">
-                                <img src="../../assets/img/new/x.png" alt="x">
-                            </button>
-                        </div>
+                    </div>
+                    <div class="col-1 col-md-2">
+                        <button type="button" class="modal-close" data-bs-dismiss="modal">
+                            <img src="../../assets/img/new/x.png" alt="x">
+                        </button>
                     </div>
 
-                    <label class="modal-sub-title">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dolor
-                        mauris mauris sit.</label>
+                </div>
 
-                    <div class="row">
-                        <div class="col-md-6">
+                <label class="modal-sub-title">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dolor
+                    mauris mauris sit.</label>
 
-                            <input type="text" class="modal-input1" name="txt1" placeholder="Nombre facilitador">
+                <div class="row">
+                    <div class="col-md-6">
 
-                        </div>
+                        <input type="text" class="modal-input1" name="txt1" placeholder="Nombre facilitador">
 
-                        <div class="col-md-6">
-                            <input type="text" class="modal-input2" placeholder="Cargo del Facilitador">
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-6">
-                            <input type="text" class="modal-input3" placeholder="Nombre del e-commerce">
-                        </div>
-
-                        <div class="col-md-6">
-                            <input type="text" class="modal-input4" placeholder="Sitio web">
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-6">
-                            <input type="text" class="modal-input5" placeholder="Correo">
-                        </div>
-                        <div class="col-md-6">
-                            <input type="text" class="modal-input6" placeholder="Cupón">
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-12">
-                            <textarea placeholder="Detalle o descripción del cupón" class="modal-area"></textarea>
-                        </div>
                     </div>
 
-                    <div class="row">
-                        <div class="col-md-12">
-                            <label class="modal-sub-title2">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer etiam ac ultrices
-                                tellus
-                                aliquam eu nulla et. Vestibulum quis et condimentum sed nunc at nibh augue phasellus.
-                            </label>
-                        </div>
+                    <div class="col-md-6">
+                        <input type="text" class="modal-input1" placeholder="Cargo del Facilitador">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <input type="text" class="modal-input1" placeholder="Nombre del e-commerce">
                     </div>
 
-                    <div class="row">
-                        <div class="col-md-12">
-                            <a class="modal-btn" type="button" data-bs-toggle="modal" data-bs-target="#modalEmpresa">
-                                <h1 class="text">ENVIAR</h1>
-                            </a>
-                        </div>
+                    <div class="col-md-6">
+                        <input type="text" class="modal-input1" placeholder="Sitio web">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <input type="text" class="modal-input1" placeholder="Correo">
+                    </div>
+                    <div class="col-md-6">
+                        <input type="text" class="modal-input1" placeholder="Cupón">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <textarea placeholder="Detalle o descripción del cupón" class="modal-area"></textarea>
                     </div>
                 </div>
 
+                <div class="row">
+                    <div class="col-md-12">
+                        <label class="modal-sub-title2">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer etiam ac ultrices
+                            tellus
+                            aliquam eu nulla et. Vestibulum quis et condimentum sed nunc at nibh augue phasellus.
+                        </label>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <a class="modal-btn" type="button" data-bs-toggle="modal" data-bs-target="#modalEmpresa">
+                            <h1 class="text">ENVIAR</h1>
+                        </a>
+                    </div>
+                </div>
             </div>
+
 
         </div>
     </div>

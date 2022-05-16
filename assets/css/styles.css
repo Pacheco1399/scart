@@ -1164,7 +1164,7 @@ nav .logo {
 }
 
 
-.moda-close {
+.modal-close {
     position: absolute;
     height: 42px;
     width: 42px;
@@ -4257,16 +4257,6 @@ footer img.social-img {
     --horizontal-position: -10px;
 }
 
-@media (max-width: 767px) {
-    .modal-input1 {
-        margin-top: 24px;
-    }
-
-    .modal-input2 {
-        margin-top: 24px;
-
-    }
-}
 
 @media (max-width: 991.98px) {
     .coupon-card2 {
@@ -4538,9 +4528,86 @@ header .carousel .carousel__elemento,
 }
 
 
-
 /*FIN MEDIDAS CAROUSEL*/
 
+/*INICIO MEDIDAS BANNER*/
+@media (max-width: 376px) {
+
+
+    .nuevos-cupones .title {
+        font-size: 26px;
+        line-height: 33px;
+    }
+
+    .nuevos-cupones .subTitle {
+        font-size: 15px;
+
+    }
+
+    .nuevos-cupones .btn-persona {
+        margin-bottom: 25px;
+        height: 44px;
+        margin-top: 10px;
+    }
+
+    .nuevos-cupones .btn-empresa {
+        margin-bottom: 8px;
+        height: 44px;
+        margin-top: 10px;
+    }
+
+    .nuevos-cupones .btn-persona .text,
+    .nuevos-cupones .btn-empresa .text {
+        font-size: 17px;
+        padding-top: 4px;
+    }
+
+    .modal-title {
+        font-size: 25px;
+        line-height: 38px;
+        margin-left: 0px;
+        padding-right: 0px;
+    }
+
+    .modal-sub-title {
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 18px;
+        margin-left: 0px;
+    }
+
+    .modal-dialog {
+        width: 100%;
+        max-width: none;
+        height: 100%;
+        max-height: none;
+        margin: inherit;
+    }
+
+    .modal-content {
+        border-radius: 0px;
+    }
+    .modal-input1{
+        max-width: 343px;
+        max-height: 40px;
+        font-size: 14px;
+        margin-bottom: 16px;
+        text-indent: 16px;
+    }
+
+    .modal-close{
+        position: absolute;
+        left: 65%;
+        right: 4.27%;
+        top: 0%;
+        width: 30px;
+        height: 30px;
+
+    }
+    
+}
+
+/*FIN MEDIDAS BANNER*/
 @media (min-width: 1200px) {
     .container {
         /*max-width: 1190px !important;*/
