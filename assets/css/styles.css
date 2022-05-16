@@ -1211,7 +1211,7 @@ nav .logo {
 
 .btn-barra {
     box-sizing: border-box;
-
+    margin-right: 24px;
     position: relative;
     height: 34px;
     margin-top: 34px;
@@ -1221,6 +1221,29 @@ nav .logo {
     border: 1.5px solid #BDBDBD;
     border-radius: 17px;
 }
+
+
+
+.btn-barra-all .label-btn-barra-all{
+    position: absolute;
+    height: 21px;
+    top: 6px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.055em;
+    text-decoration: none;
+    /* Gray 4 */
+    color: #BDBDBD;
+}
+
+
 
 .btn-barra .label {
     /* TECNOLOGÍA */
