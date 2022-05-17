@@ -9,6 +9,7 @@
     </div>
 </div>
 
+<hr class="line-bottom">
 
 <div class="cupones-card">
     <div class="container-fluid">
@@ -100,15 +101,18 @@
 
                     <div class="vc-card-code-box">
 
-                        <label class="vc-card-code">SCART#25464</label>
-                    </div>
-                    <div class="vc-card-bt-copy">
+                        <div class="vc-card-code">
+                            <label class="text">SCART#25464</label>
+                        </div>
+                        <div class="vc-card-bt-copy">
 
-                        <a href="#" class="text">
-                            COPIAR
-                        </a>
+                            <a href="#" class="text">
+                                COPIAR
+                            </a>
 
+                        </div>
                     </div>
+
 
 
                     <label class="vc-card-subtitle2">Ingresa este código al hacer una comprar en Apple</label>

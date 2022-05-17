@@ -118,7 +118,6 @@ nav .logo {
 }
 
 
-
 @media (min-width: 992px) {
     .navbar .boton-registrate-1 li a,
     .navbar .boton-registrate-1 a {
@@ -3166,7 +3165,6 @@ header .como-funciona .btn {
 }
 
 
-
 /*//////////////////////////////////////////INICIO CUPÓN////////////////////////////////////////////////////*/
 
 /* CARD COUPON  1 */
@@ -3692,7 +3690,8 @@ header .como-funciona .btn {
     margin-bottom: 8px;
 
 }
-.img-grande2{
+
+.img-grande2 {
     width: 100%;
 }
 
@@ -4637,6 +4636,9 @@ header .como-funciona .btn {
 
     color: #FA4F73;
 }
+.vc-card-code .text{
+    margin-top: 15px;
+}
 
 .vc-card-code-copy {
     height: 50px;
@@ -4837,12 +4839,40 @@ header .como-funciona .btn {
     color: #27d46b;
 }
 
+.vc-card-bt-copy{
+    position: relative;
+    width: 194px;
+    height: 50px;
+    left: 72.6%;
+    bottom: 78%;
+    background: #FA4F73;
+    border-radius: 25px;
+}
+.vc-card-bt-copy .text{
+    position: absolute;
+    left: 65px;
+    right: 26px;
+    top: 16%;
+    bottom: 16%;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.055em;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
 
 /*FIN VISTA-CUPÓN*/
 
 
-
-@media (max-width: 440px) {
+@media (min-width: 320px) and (max-width: 767px) {
     .btn-barra {
         width: 30%;
         height: 25px;
@@ -4872,15 +4902,6 @@ header .como-funciona .btn {
     .boton-carousel-next {
         display: none;
     }
-}
-
-@media (min-width: 768px) and (max-width: 1388px){
-
-}
-@media (min-width: 1389px) and (max-width: 1920px){
-
-}
-@media (min-width: 320px) and (max-width: 767px) {
 
     .img-grande {
         content: url("../../assets/img/new/banner-mobile.png");
@@ -5164,10 +5185,15 @@ header .como-funciona .btn {
         font-size: 14px;
         line-height: 21px;
     }
+    .vc-card-code .text{
+        margin-top: 0px;
+    }
 
     .vc-card-bt-copy {
-        position: absolute;
-
+        position: relative;
+        bottom: 89%;
+        left: 64%;
+        right: 36%;
         height: 32px;
         width: 115px;
         border-radius: 17px;
@@ -5178,7 +5204,8 @@ header .como-funciona .btn {
         border: #FFFFFF;
         color: #FFFFFF;
     }
-    .vc-card-bt-copy .text{
+
+    .vc-card-bt-copy .text {
         position: absolute;
         left: 26px;
         right: 26px;
@@ -5258,7 +5285,8 @@ header .como-funciona .btn {
         margin-left: 0px;
         color: #FF504D;
     }
-    .vc-time-text{
+
+    .vc-time-text {
         margin-top: 16px;
     }
 
