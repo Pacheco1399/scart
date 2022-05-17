@@ -53,10 +53,13 @@
 
 </head>
 <?php include("../views/header/header.php"); ?>
+
+
 <div class="banner-header">
     <img src="../../assets/img/new/banner.png" alt="pic"
          class="img-grande">
 </div>
+
 <body class="bg-light user-view">
 
 <main>

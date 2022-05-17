@@ -4,15 +4,15 @@
 </a>
 
 
-<hr class="line-bottom">
+<hr class="ms-3" style="width: 343px; border: 1px solid #BDBDBD">
 
 
 <div class="row">
     <div class="container">
         <div class="cupones-card">
             <div class="container-fluid">
-                <div class="row row-cols-auto row-cols-1 row-cols-md-auto mb-3">
-                    <div class="col">
+                <div class="row">
+                    <div class="col-12">
                         <label class="vc-label-cupon">
                             CUPÓN DE APPLE
                         </label>
@@ -20,11 +20,9 @@
                 </div>
             </div>
             <div class="position-relative">
-                <div class="vista-cupon-card">
-
-
+                <div class="vista-cupon-card ms-3">
                     <div class="row">
-                        <div class="col-md-5">
+                        <div class="col-12 col-md-5">
 
                             <img src="../../assets/img/new/Rectangle69.png" class="card-img" alt="">
 
@@ -67,8 +65,15 @@
 
 
                         </div>
-                        <div class="col-md-7">
-                            <img src="../../assets/img/new/icon-apple.png" alt="" class="card-marca-icon">
+                        <div class="col-12 col-md-7">
+                            <div class="row">
+                                <div class="col-6 col-xl-6">
+                                    <img src="../../assets/img/new/icon-apple.png" alt="" class="card-marca-icon">
+                                </div>
+                                <div class="col-6 col-xl-6">
+
+                                </div>
+                            </div>
                             <label class="vc-card-title">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                                 Elementum
                                 aliquet duis eu tempor in faucibus.</label>
@@ -78,32 +83,31 @@
                                 pellentesque
                                 amet, blandit a. Molestie a aliquam non facilisis donec quis aliquam risus
                                 donec.</label>
-                            <div class="row">
-                                <div class="vc-card-code-box">
-                                    <div class="row">
 
-                                        <div class="col-md-4">
-                                            <label class="vc-card-code">SCART#25464</label>
-                                        </div>
-                                        <div class=" copiar-boton-cupon col-md-4 offset-md-4">
-                                            <button class="vc-card-code-copy">
-                                                COPIAR
-                                            </button>
-                                        </div>
-
+                            <div class="vc-card-code-box">
+                                <div class="row">
+                                    <div class="col-12 col-md-4">
+                                        <label class="vc-card-code">SCART#25464</label>
                                     </div>
+                                    <div class=" copiar-boton-cupon col-md-4 offset-md-4">
+                                        <button class="vc-card-code-copy">
+                                            COPIAR
+                                        </button>
+                                    </div>
+
                                 </div>
                             </div>
+
 
                             <label class="vc-card-subtitle2">Ingresa este código al hacer una comprar en Apple</label>
 
                             <div class="row">
-                                <div class="col-md-6">
+                                <div class="col-12 col-md-6">
                                     <button class="vc-card-usar">
                                         USAR CUPÓN
                                     </button>
                                 </div>
-                                <div class="col-md-6">
+                                <div class="col-12 col-md-6">
                                     <button class="vc-card-problemas">
                                         PROBLEMAS CON EL CUPÓN
                                     </button>

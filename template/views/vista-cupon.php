@@ -54,7 +54,7 @@
 </head>
 <?php include("../views/header/header.php"); ?>
 <img src="../../assets/img/new/panel-vista-2.png" alt="pic"
-     class="img-grande">
+     class="img-grande2">
 
 <body class="bg-light user-view">
 
