@@ -1,10 +1,15 @@
-<a href="principal.php" class="vc-ver">
-    <i class="fas fa-angle-left"></i>
-    VER MÁS CUPONES
-</a>
+<div class="row">
+    <div class="col-12">
 
+        <a href="principal.php" class="vc-ver">
+            <img src="../../assets/img/new/left2.png" class="vc-atras" alt="">
+            <label class="vc-label-ver">VER MÁS CUPONES</label>
+        </a>
 
-<hr class="ms-3" style="width: 343px; border: 1px solid #BDBDBD">
+    </div>
+</div>
+
+<hr class="line-bottom">
 
 
 <div class="row">

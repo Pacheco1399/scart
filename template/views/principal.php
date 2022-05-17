@@ -60,7 +60,7 @@
          class="img-grande">
 </div>
 
-<body class="bg-light user-view">
+<body>
 
 <main>
     <div class="row">

@@ -1,34 +1,31 @@
-<div class="row">
+<div class="nuevos-cupones mb-5">
+
+    <div class="container">
 
 
-    <div class="nuevos-cupones mb-5">
+        <label class="title">¿QUIERES CREAR TUS CUPONES?</label>
 
-        <div class="container">
+        <label class="subTitle">Ingresa aquí, selecciondo una de las dos opciones. para mas información, haz clic
+            aquí.</label>
+        <div class="row">
 
+            <div class="col-12 col-xl-6 ">
+                <a class="btn-empresa" type="button" data-bs-toggle="modal" data-bs-target="#modalEmpresa">
 
-            <label class="title">¿QUIERES CREAR TUS CUPONES?</label>
-
-            <label class="subTitle">Ingresa aquí, selecciondo una de las dos opciones. para mas información, haz clic
-                aquí.</label>
-            <div class="row">
-
-                <div class="col-12 col-xl-6 ">
-                    <a class="btn-empresa" type="button" data-bs-toggle="modal" data-bs-target="#modalEmpresa">
-
-                        <label class="text">CUPÓN EMPRESA</label>
-                    </a>
-                </div>
-                <div class="col-12 col-xl-6 ">
-                    <a class="btn-persona" type="button" data-bs-toggle="modal" data-bs-target="#modalPersona">
-                        <label class="text">CUPÓN PERSONA</label>
-                    </a>
-                </div>
-
-
+                    <label class="text">CUPÓN EMPRESA</label>
+                </a>
             </div>
+            <div class="col-12 col-xl-6 ">
+                <a class="btn-persona" type="button" data-bs-toggle="modal" data-bs-target="#modalPersona">
+                    <label class="text">CUPÓN PERSONA</label>
+                </a>
+            </div>
+
+
         </div>
     </div>
 </div>
+
 
 <!-- Modal Empresa -->
 <div class="modal fade" id="modalEmpresa" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"

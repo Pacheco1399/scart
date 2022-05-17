@@ -1522,10 +1522,11 @@ nav .logo {
 /*INICIO VISTA-CUPÓN*/
 .vc-ver {
 
-    width: 197px;
-    height: 24px;
-    margin-top: 24px;
+    height: 13.333333015441895px;
+    width: 100%;
 
+    margin-top: 11px;
+    margin-left: 16px;
 
     font-family: 'Poppins';
     font-style: normal;
@@ -1546,6 +1547,15 @@ nav .logo {
 
 .vc-ver:any-link {
     color: #828282;
+}
+.vc-atras{
+    width: 8.33px;
+    height: 13.33px;
+    margin-top: 2px;
+    margin-right: 6px;
+}
+.vc-label-ver{
+    font-size: 12px;
 }
 
 .vc-label-cupon {
@@ -1765,6 +1775,7 @@ nav .logo {
 .line-bottom {
     border: 1px solid #BDBDBD;
     width: 100%;
+    max-width: 1286px;
     margin-top: 16px;
     margin-bottom: 8px;
 }
@@ -4795,7 +4806,7 @@ header .carousel .carousel__elemento,
         font-size: 18px;
         line-height: 27px;
         margin-left: 16px;
-        margin-top: 16px;
+        margin-top: 10px;
     }
 
     .vc-card-subtitle {
@@ -4808,7 +4819,7 @@ header .carousel .carousel__elemento,
     .vc-card-code-box {
         width: 311px;
         height: 34px;
-        margin-top: 24px;
+        margin-top: 12px;
         margin-left: 16px;
         /* Secondary */
 
@@ -4851,11 +4862,24 @@ header .carousel .carousel__elemento,
     }
 
     .card-marca-icon {
-        margin-top: 0px;
+        margin-top: 16px;
         margin-left: 16px;
     }
 
     .vc-card-subtitle2 {
+        margin-left: 16px;
+        margin-top: 8px;
+        margin-right: 16px;
+    }
+    .share-content{
+        position: absolute;
+        width: 40px;
+        height: 40px;
+        left: 32px;
+        top: 16px;
+    }
+    .line-bottom{
+        max-width: 343px;
         margin-left: 16px;
     }
 
