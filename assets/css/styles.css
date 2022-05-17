@@ -117,1676 +117,7 @@ nav .logo {
     color: #fff;
 }
 
-/* CARD COUPON  1 */
-/* Component 1 */
 
-.coupon-card1 {
-    max-width: 382px;
-    min-width: 258px;
-    height: 100%;
-    max-height: 472px;
-
-    /* Gray 5 */
-    border: 1px solid #E0E0E0;
-    /* Sombra 1 */
-    filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.1));
-    border-radius: 20px;
-    overflow: hidden;
-}
-
-/* Group 175 */
-.share-coupon-card1 {
-    position: absolute;
-    width: 40px;
-    height: 40px;
-    left: 16px;
-    top: 16px;
-}
-
-
-/* Rectangle 78 */
-.share-coupon-content-card1 {
-    height: 40px;
-    width: 40px;
-    border-radius: 8px;
-    position: absolute;
-    left: 2.63%;
-    right: 90.79%;
-    bottom: 60%;
-    background: rgba(0, 0, 0, 0.5);
-    backdrop-filter: blur(4px);
-}
-
-/* icon-share */
-.share-coupon-icon-card1 {
-    position: absolute;
-    left: 50%;
-}
-
-
-.text-time-group-card1 {
-    height: 20px;
-    width: 136px;
-    margin-top: 16px;
-    margin-bottom: 11px;
-
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 18px;
-    /* or 129% */
-
-    display: flex;
-    align-items: center;
-
-    /* Gray 3 */
-
-    color: #828282;
-
-}
-
-.time-coupon-card1 {
-    position: absolute;
-    left: 4.19%;
-    right: 90.58%;
-    top: 58.9%;
-    bottom: 36.86%;
-}
-
-/* Vector */
-.time-coupon-icon-card1 {
-    width: 100%;
-    margin-top: 18px;
-    margin-left: 15px;
-    color: #FF504D;
-}
-
-/* Suspendisse orci tortor, auctor non luctus */
-.title-card1-coupon {
-
-    width: 80%;
-    margin-left: 15px;
-
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 20px;
-    line-height: 28px;
-    /* or 140% */
-    color: #1F1F39;
-}
-
-.title-cupon-tecnologia {
-    /* Cupones de tecnología */
-
-
-    position: absolute;
-    width: 674.05px;
-    height: 66px;
-    left: 317px;
-    top: 2782px;
-
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 44px;
-    line-height: 66px;
-    /* identical to box height */
-
-    text-transform: uppercase;
-
-    /* Primary */
-
-    color: #1EA6E3;
-
-}
-
-
-/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit a, rutrum turpis facilisis scelerisque nunc, a cursus. */
-.description-card1-coupon {
-
-    width: 80%;
-    margin-top: 15px;
-    margin-left: 15px;
-
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 18px;
-    /* or 129% */
-    /* Gray 3 */
-    color: #828282;
-}
-
-.label-sale-card1 {
-    width: 100%;
-    max-width: 131px;
-    height: 50px;
-    max-height: 42px;
-
-    position: absolute;
-    left: 4.19%;
-    right: 60.73%;
-    top: 42.37%;
-    bottom: 47.88%;
-    background: #FA4F73;
-    border-radius: 8px;
-}
-
-/* Rectangle 78 */
-
-
-/* 15% dcto. */
-.label-sale-text-card1 {
-    position: fixed;
-    right: 65%;
-    top: 44%;
-
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 21px;
-    line-height: 32px;
-    /* identical to box height */
-
-    display: flex;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.055em;
-
-    color: #FFFFFF;
-}
-
-
-/* Button-Small */
-.button-coupon-card1 {
-    height: 34px;
-    width: 100%;
-    max-width: 194px;
-    margin-left: 15px;
-    margin-bottom: 15px;
-    background: #FA4F73;
-    border-radius: 17px;
-}
-
-/* Rectangle 71 */
-.button-show-coupon-card1 {
-    height: 34px;
-    width: 100%;
-    max-width: 194px;
-    margin-top: 24px;
-    background: #FA4F73;
-    border-radius: 17px;
-}
-
-/* VER CUPÓN */
-.text-button-coupon-card1 {
-
-    margin-left: 29%;
-    padding-top: 7px;
-
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 14px;
-    line-height: 21px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.055em;
-    color: #FFFFFF;
-    text-decoration: none;
-}
-
-.time-coupon-card1 {
-
-    position: absolute;
-    left: 4.19%;
-    right: 90.58%;
-    top: 58.9%;
-    bottom: 36.86%;
-    height: 20px;
-    width: 20px;
-    left: 16px;
-    top: 278px;
-    border-radius: 0px;
-
-}
-
-/* CARD COUPON  2 */
-
-/* CARD COUPON  2 */
-.coupon-card2 {
-    width: 100%;
-    max-width: 608px;
-    height: 270px;
-    /* Gray 5 */
-    border: 1px solid #E0E0E0;
-    /* Sombra 2 */
-    filter: drop-shadow(0px 2px 15px rgba(0, 0, 0, 0.12));
-    border-radius: 20px;
-    overflow: hidden;
-    background: #FFFFFF;
-
-}
-
-.coupon-card2b {
-    position: absolute;
-    width: 608px;
-    height: 270px;
-    left: 995px;
-    top: 2880px;
-    /* Gray 5 */
-    border: 1px solid #E0E0E0;
-    /* Sombra 2 */
-    filter: drop-shadow(0px 2px 15px rgba(0, 0, 0, 0.12));
-    border-radius: 20px;
-    overflow: hidden;
-    background: #FFFFFF;
-
-}
-
-.coupon-card2c {
-    position: absolute;
-    width: 608px;
-    height: 270px;
-    left: 317px;
-    top: 3222px;
-    /* Gray 5 */
-    border: 1px solid #E0E0E0;
-    /* Sombra 2 */
-    filter: drop-shadow(0px 2px 15px rgba(0, 0, 0, 0.12));
-    border-radius: 20px;
-    overflow: hidden;
-    background: #FFFFFF;
-
-}
-
-.coupon-card2d {
-    position: absolute;
-    width: 608px;
-    height: 270px;
-    left: 995px;
-    top: 3222px;
-    /* Gray 5 */
-    border: 1px solid #E0E0E0;
-    /* Sombra 2 */
-    filter: drop-shadow(0px 2px 15px rgba(0, 0, 0, 0.12));
-    border-radius: 20px;
-    overflow: hidden;
-    background: #FFFFFF;
-
-}
-
-/* Rectangle 73 */
-.base-coupon-card2 {
-    position: absolute;
-    left: 0%;
-    right: 0%;
-    top: 0%;
-    bottom: 0%;
-    background: #FFFFFF;
-}
-
-/* Rectangle 74 */
-.imagen-coupon-card2 {
-    width: 100%;
-    max-width: 292px;
-    height: 270px;
-}
-
-/* Group 175 */
-.share-coupon-card2 {
-    position: absolute;
-    left: 2.63%;
-    right: 90.79%;
-    top: 2.93%;
-    bottom: 79.26%;
-    z-index: 3;
-
-}
-
-
-/* Rectangle 78 */
-.share-coupon-content-card2 {
-    width: 100%;
-    height: 100%;
-    max-height: 40px;
-    max-width: 40px;
-    border-radius: 8px;
-    position: absolute;
-    left: 2.63%;
-    right: 90.79%;
-    top: 5.93%;
-    bottom: 79.26%;
-    background: rgba(0, 0, 0, 0.5);
-    backdrop-filter: blur(4px);
-    /* Note: backdrop-filter has minimal browser support */
-}
-
-/* icon-share */
-.share-coupon-icon-card2 {
-    position: absolute;
-    left: 25%;
-    top: 25%;
-}
-
-/* Vector */
-.share-coupon-icon-vector-card2 {
-    position: absolute;
-    left: 25%;
-    top: 25%;
-
-    color: #FFFFFF;
-
-}
-
-
-/* Suspendisse orci tortor, auctor non luctus */
-.title-card2-coupon {
-
-    font-family: 'Poppins';
-    font-style: normal;
-    font-size: 20px;
-    font-weight: 700;
-    line-height: 28px;
-    /* or 140% */
-    color: #1F1F39;
-}
-
-
-/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit a, rutrum turpis facilisis scelerisque nunc, a cursus. */
-.description-card2-coupon {
-
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 18px;
-    /* or 129% */
-
-    /* Gray 3 */
-    color: #828282;
-}
-
-
-/* Group 173 */
-.time-coupon-container-card2 {
-    width: 100%;
-}
-
-/* schedule_FILL0_wght400_GRAD0_opsz20 (1) 1 */
-.time-coupon-card2 {
-    position: absolute;
-    top: 17.41%;
-}
-
-/* Vector */
-.time-coupon-icon-card2 {
-    width: 100%;
-    margin-top: 11.67px;
-    color: #FF504D;
-}
-
-/* Quedan 2 hrs */
-.text-time-group-card2 {
-
-
-    margin-top: 10px;
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 18px;
-    /* or 129% */
-    display: flex;
-    align-items: center;
-
-    /* Gray 3 */
-    color: #828282;
-}
-
-
-/* Button-Small */
-.button-coupon-card2 {
-    height: 34px;
-    width: 100%;
-    max-width: 194px;
-    margin-top: 24px;
-    background: #FA4F73;
-    border-radius: 17px;
-
-
-}
-
-/* Rectangle 71 */
-.button-show-coupon-card2 {
-
-
-}
-
-/* VER CUPÓN */
-.text-button-coupon-card2 {
-
-    margin-left: 29%;
-    padding-top: 7px;
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 14px;
-    line-height: 21px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.055em;
-    color: #FFFFFF;
-    text-decoration: none;
-}
-
-/* Group 174 */
-.label-sale-card2 {
-
-}
-
-/* Rectangle 78 */
-.label-sale-content-card2 {
-    position: absolute;
-    left: 2.63%;
-    right: 75.33%;
-    top: 77.04%;
-    bottom: 5.93%;
-
-
-    /* Secondary */
-    background: #FA4F73;
-    border-radius: 8px;
-}
-
-/* 15% dcto. */
-.label-sale-text-card2 {
-    width: 100%;
-    position: absolute;
-    top: 15%;
-    left: 13%;
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 21px;
-    line-height: 32px;
-    /* identical to box height */
-    display: flex;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.055em;
-    color: #FFFFFF;
-}
-
-
-/* Rectangle 79 */
-
-.logo-content-coupon-card2 {
-    width: 100%;
-    height: 100%;
-    max-height: 21px;
-    max-width: 122px;
-    margin-top: 16px;
-}
-
-.img-grande {
-
-    width: 100%;
-    margin-bottom: 8px;
-
-}
-.img-grande2{
-    width: 100%;
-}
-
-
-.banner-header {
-    width: 100%;
-}
-
-/* Rectangle 75 */
-.nuevos-cupones {
-
-    width: 100%;
-    max-width: 1286px;
-    /* Degradado 1 */
-
-    background: linear-gradient(90deg, #FF4A99 13.14%, #FF8755 87.37%);
-    border-radius: 20px;
-
-}
-
-.nuevos-cupones .title {
-    /*Title*/
-    margin-right: 40px;
-    margin-top: 24px;
-
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 44px;
-    line-height: 66px;
-    /* identical to box height */
-
-    text-transform: uppercase;
-
-    color: #FFFFFF;
-}
-
-.nuevos-cupones .subTitle {
-    /*SUB TITLE*/
-
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 30px;
-    /* identical to box height */
-
-
-    color: #FFFFFF;
-}
-
-.nuevos-cupones .btn-empresa {
-
-
-    width: 100%;
-    max-width: 590px;
-    height: 60px;
-    margin-top: 34px;
-    margin-bottom: 34px;
-    background: #FFFFFF;
-    border-radius: 30px;
-    text-decoration: none;
-
-}
-
-.nuevos-cupones .btn-empresa .text {
-
-
-    padding-top: 10px;
-    width: 100%;
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 24px;
-
-    line-height: 36px;
-    /* identical to box height */
-
-    display: block;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.055em;
-    cursor: pointer;
-    /* Secondary */
-
-    color: #FA4F73;
-}
-
-.nuevos-cupones .btn-persona {
-
-    width: 100%;
-    max-width: 590px;
-    height: 60px;
-    margin-top: 34px;
-    margin-bottom: 34px;
-    background: #FFFFFF;
-    border-radius: 30px;
-    text-decoration: none;
-}
-
-.nuevos-cupones .btn-persona .text {
-
-    padding-top: 10px;
-
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 24px;
-    line-height: 36px;
-    /* identical to box height */
-
-    display: block;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.055em;
-    cursor: pointer;
-    /* Secondary */
-
-    color: #FA4F73;
-}
-
-.btn-cupones {
-
-    width: 142px;
-    height: 34px;
-
-    background: linear-gradient(90deg, #FF9569 13.14%, #FF4A99 87.37%);
-    border-radius: 17px;
-}
-
-.btn-cupones .text {
-    position: absolute;
-    width: 98px;
-    height: 34px;
-    margin-left: 13.67px;
-
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 14px;
-    line-height: 21px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.055em;
-    text-decoration: none;
-    color: #FFFFFF;
-}
-
-
-.modal-title {
-
-    width: 100%;
-    height: 66px;
-    margin-left: 24px;
-    margin-top: 8px;
-
-
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 44px;
-    line-height: 66px;
-    /* identical to box height */
-
-
-    /* Secondary */
-
-    color: #FA4F73;
-}
-
-.modal-sub-title {
-
-
-    height: 66px;
-    width: 100%;
-
-    margin-left: 24px;
-
-
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 30px;
-    /* identical to box height */
-
-
-    /* Gray 3 */
-
-    color: #828282;
-}
-
-.modal-input1 {
-    box-sizing: border-box;
-    width: 100%;
-    height: 60px;
-    margin-bottom: 24px;
-
-    background: rgba(255, 255, 255, 0.7);
-    /* Secondary */
-
-    border: 2px solid #FA4F73;
-    border-radius: 29.5px;
-
-
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 40px;
-    /* identical to box height, or 200% */
-    text-indent: 32px;
-
-    /* Secondary */
-
-    color: #FA4F73;
-
-}
-
-.modal-input1::placeholder {
-    color: #FA4F73;
-}
-
-.modal-area {
-
-    box-sizing: border-box;
-    height: 187px;
-    width: 100%;
-
-
-    padding-top: 10px;
-    background: rgba(255, 255, 255, 0.7);
-    border: 2px solid;
-    /* Secondary */
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-
-    border-radius: 29px;
-    text-indent: 32px;
-    color: #FA4F73;
-
-}
-
-.modal-area::placeholder {
-    color: #FA4F73;
-}
-
-.modal-btn {
-
-    height: 50px;
-    width: 194px;
-    margin-top: 24px;
-    margin-bottom: 24px;
-
-    background: #FA4F73;
-    border-radius: 25px;
-    text-decoration: none;
-
-}
-
-
-.modal-btn .text {
-
-    height: 34px;
-    width: 142px;
-    margin-left: 55px;
-    margin-top: 8px;
-
-    font-style: normal;
-    font-weight: 600;
-    font-size: 16px;
-    line-height: 24px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.055em;
-
-    color: #FFFFFF;
-}
-
-.modal-sub-title2 {
-
-    height: 36px;
-    width: 90%;
-
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 18px;
-    /* or 129% */
-
-
-    color: rgba(31, 31, 57, 0.5);
-}
-
-.modal-area-p {
-    box-sizing: border-box;
-
-
-    height: 100%;
-    width: 100%;
-    margin-top: 24px;
-    margin-left: 24px;
-
-    padding-top: 10px;
-    background: rgba(255, 255, 255, 0.7);
-    border: 2px solid;
-    /* Secondary */
-    font-family: 'Roboto';
-    font-weight: 400;
-    font-size: 20px;
-
-    border-radius: 29px;
-    text-indent: 32px;
-    color: #FA4F73;
-
-}
-
-.modal-area-p::placeholder {
-    color: #FA4F73;
-}
-
-.modal-sub-title2-p {
-
-    height: 36px;
-    width: 100%;
-
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 18px;
-    /* or 129% */
-
-
-    color: rgba(31, 31, 57, 0.5);
-}
-
-.modal-btn-p {
-    height: 50px;
-    width: 194px;
-    margin-top: 24px;
-    margin-bottom: 24px;
-    background: #FA4F73;
-    border-radius: 25px;
-
-
-}
-
-.modal-btn-p .text {
-    position: absolute;
-
-    height: 34px;
-    width: 142px;
-    margin-left: 66px;
-    margin-top: 8px;
-
-
-    font-style: normal;
-    font-weight: 600;
-    font-size: 16px;
-    line-height: 24px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.055em;
-
-    color: #FFFFFF;
-}
-
-
-.modal-close {
-    position: absolute;
-    height: 42px;
-    width: 42px;
-    margin-left: 68px;
-    margin-top: 20px;
-    background: #FA4F73;
-    border: #FA4F73;
-    backdrop-filter: blur(3px);
-    /* Note: backdrop-filter has minimal browser support */
-
-    border-radius: 21px;
-}
-
-.btn-todos {
-    position: relative;
-    width: 184px;
-    height: 34px;
-    margin-top: 32px;
-    /* Degradado 1 */
-    background: linear-gradient(90deg, #FF8755 13.14%, #FF4A99 87.37%);
-    border-radius: 17px;
-    border: 1px solid #FFFFFF;
-
-
-}
-
-.btn-todos .label {
-
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 14px;
-    line-height: 21px;
-    width: 161px;
-    /* identical to box height */
-    display: flex;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.055em;
-    text-decoration: none;
-    color: #FFFFFF;
-}
-
-
-.btn-barra {
-    box-sizing: border-box;
-    margin-left: 24px;
-    position: relative;
-    height: 34px;
-    margin-top: 8px;
-    background: #F8F9FA;
-    /* Gray 4 */
-    transition: 0.4s;
-
-    border: 1.5px solid #BDBDBD;
-    border-radius: 17px;
-}
-
-.btn-barra:hover,
-.btn-barra .label-btn-barra-all:hover,
-.btn-barra .label:hover {
-    background: linear-gradient(90deg, #FF8755 13.14%, #FF4A99 87.37%);
-    color: #FFFFFF;
-}
-
-
-.btn-barra-all .label-btn-barra-all {
-    position: absolute;
-    height: 21px;
-    top: 6px;
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 14px;
-    line-height: 21px;
-    /* identical to box height */
-    display: flex;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.055em;
-    text-decoration: none;
-    /* Gray 4 */
-    color: #BDBDBD;
-}
-
-
-.btn-barra .label {
-    /* TECNOLOGÍA */
-    position: absolute;
-    height: 21px;
-    left: 40px;
-    top: 6px;
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 14px;
-    line-height: 21px;
-    /* identical to box height */
-    display: flex;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.055em;
-    text-decoration: none;
-    /* Gray 4 */
-    color: #BDBDBD;
-
-}
-
-.btn-barra .img {
-    /* Vector */
-
-    position: absolute;
-    left: 13.68px;
-    right: 9.67px;
-    top: 10px;
-
-    /* Gray 4 */
-
-
-    /* Gray 4 */
-
-    background: #f8f9fa;
-}
-
-
-.btn-barra .icon-img {
-    /* Vector */
-
-    position: absolute;
-    left: 13.68px;
-    right: 9.67px;
-    top: 10px;
-
-    /* Gray 4 */
-
-
-    /* Gray 4 */
-
-    background: #f8f9fa;
-}
-
-.btn-viajes-turismo {
-    box-sizing: border-box;
-
-    position: absolute;
-    width: 190px;
-    height: 34px;
-    left: 698px;
-    top: 486px;
-
-    background: #F8F9FA;
-    /* Gray 4 */
-
-    border: 1.5px solid #BDBDBD;
-    border-radius: 17px;
-}
-
-.btn-viajes-turismo .label {
-
-    position: absolute;
-    width: 139px;
-    height: 21px;
-    left: 40px;
-    top: 6px;
-
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 14px;
-    line-height: 21px;
-    /* identical to box height */
-
-    display: flex;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.055em;
-    text-decoration: none;
-    /* Gray 4 */
-
-    color: #BDBDBD;
-}
-
-.btn-viajes-turismo .img {
-    position: absolute;
-    left: 13.67px;
-    right: 8.34%;
-    top: 10px;
-
-    /* Gray 4 */
-
-    background: #f8f9fa;
-}
-
-.btn-bienestar-salud {
-    box-sizing: border-box;
-
-    position: absolute;
-    width: 199px;
-    height: 34px;
-    left: 912px;
-    top: 486px;
-
-    background: #F8F9FA;
-    /* Gray 4 */
-
-    border: 1.5px solid #BDBDBD;
-    border-radius: 17px;
-}
-
-.btn-bienestar-salud .label {
-
-    position: absolute;
-    width: 148px;
-    height: 21px;
-    left: 40px;
-    top: 6px;
-
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 14px;
-    line-height: 21px;
-    /* identical to box height */
-
-    display: flex;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.055em;
-    text-decoration: none;
-    /* Gray 4 */
-
-    color: #BDBDBD;
-}
-
-.btn-bienestar-salud .img {
-    position: absolute;
-    left: 13.67px;
-    right: 8.34%;
-    top: 8px;
-
-    /* Gray 4 */
-
-    background: #f8f9fa;
-}
-
-.btn-deporte {
-    box-sizing: border-box;
-
-    position: absolute;
-    width: 128px;
-    height: 34px;
-    left: 1135px;
-    top: 486px;
-
-    background: #F8F9FA;
-    /* Gray 4 */
-
-    border: 1.5px solid #BDBDBD;
-    border-radius: 17px;
-}
-
-.btn-deporte .label {
-    position: absolute;
-    width: 76px;
-    height: 21px;
-    left: 40px;
-    top: 6px;
-
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 14px;
-    line-height: 21px;
-    /* identical to box height */
-
-    display: flex;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.055em;
-    text-decoration: none;
-    /* Gray 4 */
-
-    color: #BDBDBD;
-}
-
-.btn-deporte .img {
-    position: absolute;
-    left: 13.67px;
-    right: 0%;
-    top: 8.25px;
-
-    /* Gray 4 */
-
-    background: #f8f9fa;
-}
-
-.btn-hogar {
-
-    box-sizing: border-box;
-
-    position: absolute;
-    width: 106px;
-    height: 34px;
-    left: 1287px;
-    top: 486px;
-
-    background: #F8F9FA;
-    /* Gray 4 */
-
-    border: 1.5px solid #BDBDBD;
-    border-radius: 17px;
-}
-
-.btn-hogar .label {
-
-    position: absolute;
-    width: 54px;
-    height: 21px;
-    left: 40px;
-    top: 6px;
-
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 14px;
-    line-height: 21px;
-    /* identical to box height */
-
-    display: flex;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.055em;
-    text-decoration: none;
-    /* Gray 4 */
-
-    color: #BDBDBD;
-}
-
-.btn-hogar .img {
-    position: absolute;
-    left: 13.67px;
-    right: 4.16%;
-    top: 9.5px;
-
-    /* Gray 4 */
-
-    background: #f8f9fa;
-}
-
-
-/*INICIO VISTA-CUPÓN*/
-.vc-ver {
-
-    height: 13.333333015441895px;
-    width: 100%;
-
-    margin-top: 24px;
-    margin-left: 16px;
-
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 16px;
-    line-height: 24px;
-    /* identical to box height */
-
-    display: flex;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.055em;
-    text-decoration: none;
-    /* Gray 3 */
-
-    color: #828282;
-}
-
-.vc-ver:any-link {
-    color: #828282;
-}
-
-.vc-atras {
-    height: 20px;
-    width: 10px;
-    margin-top: 4px;
-    margin-right: 17px;
-}
-
-.vc-label-ver {
-    font-size: 16px;
-}
-
-.vc-time-icon {
-    width: 16.67px;
-    height: 16.67px;
-    margin-top: 32px;
-    margin-left: 38px;
-    color: #FF504D;
-}
-
-.vc-time-text {
-    margin-top: 32px;
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 18px;
-    /* or 129% */
-    display: flex;
-    align-items: center;
-
-    /* Gray 3 */
-    color: #828282;
-}
-
-.vc-label-cupon {
-    /* CUPÓN DE APPLE */
-
-    height: 66px;
-    margin-top: 8px;
-
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 44px;
-    line-height: 66px;
-    /* identical to box height */
-
-    text-transform: uppercase;
-
-    /* Secondary */
-
-    color: #FA4F73;
-}
-
-.vista-cupon-card {
-    width: 100%;
-
-    margin-top: 32px;
-    margin-bottom: 32px;
-    background: #FFFFFF;
-    /* Sombra 2 */
-
-    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.12);
-    border-radius: 20px;
-}
-
-.card-share {
-    height: 40px;
-    width: 40px;
-    border-radius: 8px;
-    position: absolute;
-    left: 2.63%;
-    right: 90.79%;
-    bottom: 87%;
-    background: rgba(0, 0, 0, 0.5);
-    backdrop-filter: blur(4px);
-}
-
-.card-share .icon {
-    position: absolute;
-    left: 25%;
-    top: 25%;
-}
-
-.card-img {
-    width: 100%;
-    height: 100%;
-    border-radius: 20px 0px 0px 20px;
-}
-
-.card-desc {
-    position: absolute;
-    width: 134px;
-    height: 46px;
-    margin-top: 402px;
-    margin-left: 24px;
-    /* Secondary */
-
-    background: #FA4F73;
-    border-radius: 8px;
-
-}
-
-.card-desc .text {
-
-    width: 108px;
-    height: 32px;
-    margin-left: 14px;
-    margin-top: 7px;
-
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 21px;
-    line-height: 32px;
-    /* identical to box height */
-
-    display: flex;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.055em;
-
-    color: #FFFFFF;
-
-}
-
-.card-marca-icon {
-
-    margin-top: 32px;
-
-}
-
-.vc-card-title {
-    margin-top: 8px;
-
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 26px;
-    line-height: 39px;
-    margin-right: 10px;
-    margin-left: 10px;
-    /* Gray 1 */
-
-    color: #333333;
-}
-
-.vc-card-subtitle {
-    margin-top: 24px;
-    margin-left: 10px;
-    margin-right: 10px;
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    /* Gray 3 */
-    color: #828282;
-}
-
-.vc-card-code-box {
-    margin-top: 61px;
-    width: 95%;
-    height: 50px;
-
-    background: #FFFFFF;
-    /* Sombra 2 */
-
-    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.12);
-    border-radius: 20px;
-}
-
-.vc-card-code {
-    margin-top: 15px;
-    margin-left: 15px;
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    display: flex;
-    align-items: center;
-    letter-spacing: 0.055em;
-
-    /* Secondary */
-
-    color: #FA4F73;
-}
-
-.vc-card-code-copy {
-    height: 50px;
-    width: 194px;
-    border-radius: 25px;
-    background: #FA4F73;
-    border: #FFFFFF;
-    color: #FFFFFF;
-
-}
-
-.vc-card-subtitle2 {
-    margin-top: 10px;
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 18px;
-    /* identical to box height */
-
-
-    /* Gray 1 */
-
-    color: #333333;
-}
-
-.vc-card-usar {
-    height: 50px;
-    width: 100%;
-    margin-top: 24px;
-    border-radius: 25px;
-    /* Secondary */
-
-    background: #FA4F73;
-    color: #FFFFFF;
-    border: #FFFFFF;
-
-}
-
-.vc-card-problemas {
-    height: 50px;
-    width: 89.4%;
-    margin-top: 24px;
-    border-radius: 25px;
-    background: #BDBDBD;
-    color: #FFFFFF;
-    border: #FFFFFF;
-}
-
-.vc-label-sale {
-    position: absolute;
-    width: 134px;
-    height: 46px;
-    margin-left: 24px;
-    top: 402px;
-
-    /* Secondary */
-
-    background: #FA4F73;
-    border-radius: 8px;
-
-}
-
-.vc-label-sale-text {
-    position: absolute;
-    width: 107px;
-    height: 32px;
-    margin-left: 14px;
-    margin-top: 7px;
-
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 21px;
-    line-height: 32px;
-    /* identical to box height */
-
-    display: flex;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.055em;
-
-    color: #FFFFFF;
-}
-
-.copiar-boton-cupon {
-    width: 194px;
-    position: absolute;
-    right: 2%;
-}
-
-.carousel-item-coupon {
-    width: 382px;
-}
-
-.line-bottom {
-    border: 1px solid #BDBDBD;
-    width: 100%;
-    max-width: 1286px;
-    margin-left: 16px;
-}
-
-.boton-carousel-prev,
-.boton-carousel-next {
-    position: absolute;
-    display: block;
-    width: 30px;
-    height: 30px;
-    border: none;
-    top: calc(60% - 35px);
-    cursor: pointer;
-    line-height: 30px;
-    text-align: center;
-    background: #FA4F73;;
-    color: #FFFFFF;
-    border-radius: 8px;
-}
-
-.boton-carousel-prev {
-    left: -2%;
-}
-
-.boton-carousel-next {
-    right: 0%;
-}
-
-.carousel_icon_left {
-    width: 10px;
-    height: 22px;
-}
-
-.carousel_icon_right {
-    width: 10px;
-    height: 22px;
-    margin-bottom: 34%;
-}
-
-.title-carousel {
-    width: 100%;
-
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 44px;
-    line-height: 66px;
-    /* identical to box height */
-
-    text-transform: uppercase;
-
-    /* Primary */
-
-    color: #1EA6E3;
-
-}
-
-.subtitle-carousel {
-    width: 100%;
-    height: 100%;
-
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 24px;
-    line-height: 36px;
-    /* identical to box height */
-    /* Gray 3 */
-    color: #828282;
-}
-
-.share-content {
-    position: absolute;
-    left: 1.7%;
-    top: 6%;
-}
-
-.botones-share {
-    height: 40px;
-    width: 40px;
-    border-radius: 8px;
-    background: rgba(0, 0, 0, 0.5);
-    backdrop-filter: blur(4px);
-}
-
-.botones-share .compartir {
-    color: #FFFFFF;
-}
-
-.botones-share .redes {
-    position: relative;
-    left: -10px;
-    min-width: inherit;
-    padding: 7px;
-    border-radius: 100px;
-    font-size: 20px;
-}
-
-.botones-share .redes .whatsapp {
-    color: #27d46b;
-}
-
-
-/*FIN VISTA-CUPÓN*/
 
 @media (min-width: 992px) {
     .navbar .boton-registrate-1 li a,
@@ -4459,6 +2790,2096 @@ header .carousel .carousel__elemento,
 /*FIN MEDIDAS CAROUSEL*/
 
 /*INICIO MEDIDAS BANNER*/
+
+/*FIN MEDIDAS VISTA2*/
+@media (min-width: 1200px) {
+    .container {
+        /*max-width: 1190px !important;*/
+        /*max-width: 1224px !important;*/
+        /*max-width: 1304px !important;*/
+        /*max-width: 1197.5px !important;*/
+        max-width: 1310px !important;
+    }
+
+    nav .logo {
+        margin-right: 2.1rem;
+    }
+
+    /*.navbar .boton-registrate-1 a {
+        letter-spacing: 5px;
+        padding: .35rem 3.95rem;
+        font-size: 1.2125rem;
+    }
+
+    .navbar .redes-sociales a:not(:last-child) {
+        margin-right: 1.65rem !important;
+    }
+
+    .landing-header .header-row {
+        --bs-gutter-x: 1.75rem;
+    }*/
+    .landing-header .nav-links-col {
+        width: 424px;
+        flex: 0 0 424px;
+        /*margin-right: -.5rem;*/
+    }
+
+    .login-col {
+        width: 382px;
+        flex: 0 0 382px;
+        padding-left: 2.6rem;
+        padding-right: 2.65rem;
+        font-size: .875rem;
+    }
+
+    .smart-shopping-scart {
+        width: calc(100% - 382px - var(--bs-gutter-x) - 21px);
+        flex: 0 0 calc(100% - 382px - var(--bs-gutter-x) - 21px);
+    }
+
+    #como-funciona .extension {
+        width: 405px;
+        flex: 0 0 405px;
+    }
+
+    #como-funciona .como-funciona {
+        width: calc(100% - 405px - var(--bs-gutter-x) + 3px);
+        flex: 0 0 calc(100% - 405px - var(--bs-gutter-x) + 3px);
+    }
+
+    .contenido .contacto {
+        margin-bottom: 123px;
+    }
+
+    .contenido .contacto .parte-1 .titulos-contacto h2 {
+        font-size: var(--h2);
+    }
+
+    .contenido .contacto .parte-1 {
+        margin-right: -458px;
+        width: 458px;
+        flex: 0 0 458px;
+    }
+
+    .contenido .contacto .titulos-contacto {
+        padding-right: 1.125rem;
+    }
+
+    .contenido .contacto .parte-1 .titulos-contacto h2 {
+        font-size: 46.5px;
+        margin-top: .5rem;
+        margin-bottom: 2.05rem;
+    }
+
+    .contenido .contacto .titulos-contacto p {
+        margin-bottom: .425rem;
+        font-size: 1.6375rem;
+    }
+
+    .contenido .contacto .parte-1 hr {
+        margin: 60px auto 94px;
+        width: 62.75%;
+        height: 1.5px;
+    }
+
+    .contenido .contacto .parte-1 .redes img {
+        margin-left: 28px;
+        margin-right: 28px;
+    }
+
+    .contenido .contacto .parte-1 .logo-scart {
+        height: 58px;
+    }
+
+    .contenido .contacto .parte-2 {
+        /*width: calc(100% - 25% + 200px);*/
+        margin-left: calc(458px / 4.75);
+        padding-left: calc(458px - (458px / 4.75) + 50px);
+    }
+
+    .contenido .contacto .parte-2 p {
+        font-size: 1.6rem;
+        font-weight: 450;
+        line-height: 1.2;
+    }
+
+    .contenido .contacto .parte-2 input,
+    .contenido .contacto .parte-2 textarea {
+        padding: 1.075rem 1.25rem;
+        border-radius: .875rem;
+        border: none;
+    }
+
+    .contenido .contacto .parte-2 textarea {
+        height: 181.5px;
+    }
+
+    .contenido .contacto .parte-2 .boton input {
+        padding: .95rem 2.6rem;
+        border-radius: 1.125rem;
+        font-size: 1.19rem;
+        font-weight: 500;
+    }
+
+    footer h5 {
+        line-height: 1.12;
+        margin-top: 1px;
+    }
+
+    footer .contactanos .col-auto + .col {
+        margin-left: 7px;
+    }
+
+    footer .servicios {
+        padding-left: calc(var(--bs-gutter-x) / 2 + 7px);
+    }
+
+    footer .servicios .col-auto + .col {
+        margin-left: 7px;
+    }
+
+    footer .apoyos {
+        padding-right: 1.5rem;
+    }
+
+    footer .apoyos .row .col:first-child {
+        padding-left: calc(var(--bs-gutter-x) / 2 + 7px);
+    }
+
+    footer .scart-redes .list-inline-item:not(:last-child) {
+        margin-right: 1.875rem;
+    }
+}
+
+@-moz-document url-prefix() {
+    .glider-wrap {
+        /*overflow: hidden;*/
+        /*margin-bottom: -17px;*/
+    }
+    .glider-wrap .glider-track {
+        /*margin-bottom: 17px;*/
+    }
+}
+
+/* START RFS */
+.inicio-smart {
+    /* RFS: 4.375rem */
+    margin-bottom: calc(1.5625rem + 3.75vw);
+}
+
+.login-col .card-title {
+    /* RFS: 30px */
+    font-size: calc(1.3125rem + 0.75vw);
+}
+
+.smart-shopping-scart h1 {
+    /* RFS: 3.5rem */
+    font-size: calc(1.475rem + 2.7vw);
+}
+
+.smart-shopping-scart h2,
+.landing-title {
+    /* RFS: 2.5rem */
+    font-size: calc(1.375rem + 1.5vw);
+}
+
+.landing-title.sm {
+    /* RFS: 2rem */
+    font-size: calc(1.325rem + 0.9vw);
+}
+
+header .parte-2 h2 {
+    /* RFS: 55px */
+    font-size: calc(1.46875rem + 2.625vw);
+}
+
+header .parte-2 h2 + h4 {
+    /* RFS: 21px */
+    font-size: calc(1.25625rem + 0.075vw);
+}
+
+header .como-funciona .recuadro h5 {
+    /* RFS: 21.75px */
+    font-size: calc(1.2609375rem + 0.13125vw);
+}
+
+.como-funciona .descripcion {
+    /* RFS: 21.875px */
+    /*font-size: calc(1.26171875rem + 0.140625vw);*/
+    /* RFS: 18px */
+    font-size: calc(1.1rem + 0.140625vw);
+}
+
+header .como-funciona .btn {
+    /* RFS: 35px */
+    font-size: calc(1.34375rem + 1.125vw);
+    /*letter-spacing: .9175vw;*/
+    letter-spacing: .75vw;
+}
+
+.extension h5 {
+    /* RFS: 29.4px */
+    font-size: calc(1.30875rem + 0.705vw);
+}
+
+.carousel-marcas .titulo {
+    /* RFS: 34px */
+    font-size: calc(1.3375rem + 1.05vw);
+}
+
+.route-inicio .contenido .titulos {
+    /* RFS: 71px */
+    margin-top: calc(1.56875rem + 3.825vw);
+    /* RFS: 48px */
+    margin-bottom: calc(1.425rem + 2.1vw);
+    /* RFS: 16px 45px */
+    padding: 1rem calc(1.40625rem + 1.875vw);
+}
+
+.route-inicio .contenido .titulos h2 {
+    /* RFS: 44.55px */
+    font-size: calc(1.4034375rem + 1.84125vw);
+}
+
+.contenido .recuadro h2 {
+    /* RFS: 44px */
+    font-size: calc(1.4rem + 1.8vw);
+}
+
+.contenido .indicadores-flechas {
+    /* RFS: -2.56125rem */
+    margin-top: calc(-1.381125rem - 1.5735vw);
+}
+
+.contenido .como-funciona .container h4 {
+    /* RFS: 24.15px */
+    font-size: calc(1.2759375rem + 0.31125vw);
+}
+
+.contenido .como-funciona .container p {
+    /* RFS: 24px */
+    font-size: calc(1.275rem + 0.3vw);
+}
+
+.contenido .como-funciona .container .part2 .boton {
+    /* RFS: 25.5px */
+    font-size: calc(1.284375rem + 0.4125vw);
+}
+
+.modal .popup-txt {
+    /* RFS: 50px 45px */
+    padding: calc(1.4375rem + 2.25vw) calc(1.40625rem + 1.875vw);
+}
+
+@media (min-width: 992px) {
+    .inicio-smart {
+        /* RFS: 74px */
+        margin-top: calc(1.5875rem + 4.05vw);
+    }
+}
+
+@media (min-width: 1200px) {
+    .inicio-smart {
+        margin-top: 4.625rem;
+        margin-bottom: 4.375rem;
+    }
+
+    .login-col .card-title {
+        font-size: 1.875rem;
+    }
+
+    .smart-shopping-scart h1 {
+        font-size: 3.5rem;
+    }
+
+    .smart-shopping-scart h2,
+    .landing-title {
+        font-size: 2.5rem;
+    }
+
+    header .parte-2 h2 {
+        font-size: 3.4375rem;
+    }
+
+    header .parte-2 h2 + h4 {
+        font-size: 1.3125rem;
+    }
+
+    header .como-funciona .recuadro h5 {
+        font-size: 1.359375rem;
+    }
+
+    .como-funciona .descripcion {
+        /*font-size: 1.3671875rem;*/
+        font-size: 1.2rem;
+    }
+
+    header .como-funciona .btn {
+        font-size: 2.1875rem;
+        /*letter-spacing: 11px;*/
+        letter-spacing: 9px;
+    }
+
+    .extension h5 {
+        font-size: 1.8375rem;
+    }
+
+    .carousel-marcas .titulo {
+        font-size: 2.125rem;
+    }
+
+    .route-inicio .contenido .titulos {
+        margin-top: 4.4375rem;
+        margin-bottom: 3rem;
+        padding: 1rem 2.8125rem;
+    }
+
+    .route-inicio .contenido .titulos h2 {
+        font-size: 2.784375rem;
+    }
+
+    .contenido .recuadro h2 {
+        font-size: 2.75rem;
+    }
+
+    .contenido .indicadores-flechas {
+        margin-top: -2.56125rem;
+    }
+
+    .contenido .como-funciona .container h4 {
+        font-size: 1.509375rem;
+    }
+
+    .contenido .como-funciona .container p {
+        font-size: 1.5rem;
+    }
+
+    .contenido .como-funciona .container .part2 .boton {
+        font-size: 1.59375rem;
+    }
+
+    .modal .popup-txt {
+        padding: 3.125rem 2.8125rem;
+    }
+
+
+}
+
+
+
+/*//////////////////////////////////////////INICIO CUPÓN////////////////////////////////////////////////////*/
+
+/* CARD COUPON  1 */
+/* Component 1 */
+
+.coupon-card1 {
+    max-width: 382px;
+    min-width: 258px;
+    height: 100%;
+    max-height: 472px;
+
+    /* Gray 5 */
+    border: 1px solid #E0E0E0;
+    /* Sombra 1 */
+    filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.1));
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+/* Group 175 */
+.share-coupon-card1 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 16px;
+    top: 16px;
+}
+
+
+/* Rectangle 78 */
+.share-coupon-content-card1 {
+    height: 40px;
+    width: 40px;
+    border-radius: 8px;
+    position: absolute;
+    left: 2.63%;
+    right: 90.79%;
+    bottom: 60%;
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(4px);
+}
+
+/* icon-share */
+.share-coupon-icon-card1 {
+    position: absolute;
+    left: 50%;
+}
+
+
+.text-time-group-card1 {
+    height: 20px;
+    width: 136px;
+    margin-top: 16px;
+    margin-bottom: 11px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    /* or 129% */
+
+    display: flex;
+    align-items: center;
+
+    /* Gray 3 */
+
+    color: #828282;
+
+}
+
+.time-coupon-card1 {
+    position: absolute;
+    left: 4.19%;
+    right: 90.58%;
+    top: 58.9%;
+    bottom: 36.86%;
+}
+
+/* Vector */
+.time-coupon-icon-card1 {
+    width: 100%;
+    margin-top: 18px;
+    margin-left: 15px;
+    color: #FF504D;
+}
+
+/* Suspendisse orci tortor, auctor non luctus */
+.title-card1-coupon {
+
+    width: 80%;
+    margin-left: 15px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 28px;
+    /* or 140% */
+    color: #1F1F39;
+}
+
+.title-cupon-tecnologia {
+    /* Cupones de tecnología */
+
+
+    position: absolute;
+    width: 674.05px;
+    height: 66px;
+    left: 317px;
+    top: 2782px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 66px;
+    /* identical to box height */
+
+    text-transform: uppercase;
+
+    /* Primary */
+
+    color: #1EA6E3;
+
+}
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit a, rutrum turpis facilisis scelerisque nunc, a cursus. */
+.description-card1-coupon {
+
+    width: 80%;
+    margin-top: 15px;
+    margin-left: 15px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    /* or 129% */
+    /* Gray 3 */
+    color: #828282;
+}
+
+.label-sale-card1 {
+    width: 100%;
+    max-width: 131px;
+    height: 50px;
+    max-height: 42px;
+
+    position: absolute;
+    left: 4.19%;
+    right: 60.73%;
+    top: 42.37%;
+    bottom: 47.88%;
+    background: #FA4F73;
+    border-radius: 8px;
+}
+
+/* Rectangle 78 */
+
+
+/* 15% dcto. */
+.label-sale-text-card1 {
+    position: fixed;
+    right: 65%;
+    top: 44%;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 32px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.055em;
+
+    color: #FFFFFF;
+}
+
+
+/* Button-Small */
+.button-coupon-card1 {
+    height: 34px;
+    width: 100%;
+    max-width: 194px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    background: #FA4F73;
+    border-radius: 17px;
+}
+
+/* Rectangle 71 */
+.button-show-coupon-card1 {
+    height: 34px;
+    width: 100%;
+    max-width: 194px;
+    margin-top: 24px;
+    background: #FA4F73;
+    border-radius: 17px;
+}
+
+/* VER CUPÓN */
+.text-button-coupon-card1 {
+
+    margin-left: 29%;
+    padding-top: 7px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.055em;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.time-coupon-card1 {
+
+    position: absolute;
+    left: 4.19%;
+    right: 90.58%;
+    top: 58.9%;
+    bottom: 36.86%;
+    height: 20px;
+    width: 20px;
+    left: 16px;
+    top: 278px;
+    border-radius: 0px;
+
+}
+
+/* CARD COUPON  2 */
+
+/* CARD COUPON  2 */
+.coupon-card2 {
+    width: 100%;
+    max-width: 608px;
+    height: 270px;
+    /* Gray 5 */
+    border: 1px solid #E0E0E0;
+    /* Sombra 2 */
+    filter: drop-shadow(0px 2px 15px rgba(0, 0, 0, 0.12));
+    border-radius: 20px;
+    overflow: hidden;
+    background: #FFFFFF;
+
+}
+
+.coupon-card2b {
+    position: absolute;
+    width: 608px;
+    height: 270px;
+    left: 995px;
+    top: 2880px;
+    /* Gray 5 */
+    border: 1px solid #E0E0E0;
+    /* Sombra 2 */
+    filter: drop-shadow(0px 2px 15px rgba(0, 0, 0, 0.12));
+    border-radius: 20px;
+    overflow: hidden;
+    background: #FFFFFF;
+
+}
+
+.coupon-card2c {
+    position: absolute;
+    width: 608px;
+    height: 270px;
+    left: 317px;
+    top: 3222px;
+    /* Gray 5 */
+    border: 1px solid #E0E0E0;
+    /* Sombra 2 */
+    filter: drop-shadow(0px 2px 15px rgba(0, 0, 0, 0.12));
+    border-radius: 20px;
+    overflow: hidden;
+    background: #FFFFFF;
+
+}
+
+.coupon-card2d {
+    position: absolute;
+    width: 608px;
+    height: 270px;
+    left: 995px;
+    top: 3222px;
+    /* Gray 5 */
+    border: 1px solid #E0E0E0;
+    /* Sombra 2 */
+    filter: drop-shadow(0px 2px 15px rgba(0, 0, 0, 0.12));
+    border-radius: 20px;
+    overflow: hidden;
+    background: #FFFFFF;
+
+}
+
+/* Rectangle 73 */
+.base-coupon-card2 {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    background: #FFFFFF;
+}
+
+/* Rectangle 74 */
+.imagen-coupon-card2 {
+    width: 100%;
+    max-width: 292px;
+    height: 270px;
+}
+
+/* Group 175 */
+.share-coupon-card2 {
+    position: absolute;
+    left: 2.63%;
+    right: 90.79%;
+    top: 2.93%;
+    bottom: 79.26%;
+    z-index: 3;
+
+}
+
+
+/* Rectangle 78 */
+.share-coupon-content-card2 {
+    width: 100%;
+    height: 100%;
+    max-height: 40px;
+    max-width: 40px;
+    border-radius: 8px;
+    position: absolute;
+    left: 2.63%;
+    right: 90.79%;
+    top: 5.93%;
+    bottom: 79.26%;
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(4px);
+    /* Note: backdrop-filter has minimal browser support */
+}
+
+/* icon-share */
+.share-coupon-icon-card2 {
+    position: absolute;
+    left: 25%;
+    top: 25%;
+}
+
+/* Vector */
+.share-coupon-icon-vector-card2 {
+    position: absolute;
+    left: 25%;
+    top: 25%;
+
+    color: #FFFFFF;
+
+}
+
+
+/* Suspendisse orci tortor, auctor non luctus */
+.title-card2-coupon {
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 28px;
+    /* or 140% */
+    color: #1F1F39;
+}
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit a, rutrum turpis facilisis scelerisque nunc, a cursus. */
+.description-card2-coupon {
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    /* or 129% */
+
+    /* Gray 3 */
+    color: #828282;
+}
+
+
+/* Group 173 */
+.time-coupon-container-card2 {
+    width: 100%;
+}
+
+/* schedule_FILL0_wght400_GRAD0_opsz20 (1) 1 */
+.time-coupon-card2 {
+    position: absolute;
+    top: 17.41%;
+}
+
+/* Vector */
+.time-coupon-icon-card2 {
+    width: 100%;
+    margin-top: 11.67px;
+    color: #FF504D;
+}
+
+/* Quedan 2 hrs */
+.text-time-group-card2 {
+
+
+    margin-top: 10px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    /* or 129% */
+    display: flex;
+    align-items: center;
+
+    /* Gray 3 */
+    color: #828282;
+}
+
+
+/* Button-Small */
+.button-coupon-card2 {
+    height: 34px;
+    width: 100%;
+    max-width: 194px;
+    margin-top: 24px;
+    background: #FA4F73;
+    border-radius: 17px;
+
+
+}
+
+/* Rectangle 71 */
+.button-show-coupon-card2 {
+
+
+}
+
+/* VER CUPÓN */
+.text-button-coupon-card2 {
+
+    margin-left: 29%;
+    padding-top: 7px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.055em;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+/* Group 174 */
+.label-sale-card2 {
+
+}
+
+/* Rectangle 78 */
+.label-sale-content-card2 {
+    position: absolute;
+    left: 2.63%;
+    right: 75.33%;
+    top: 77.04%;
+    bottom: 5.93%;
+
+
+    /* Secondary */
+    background: #FA4F73;
+    border-radius: 8px;
+}
+
+/* 15% dcto. */
+.label-sale-text-card2 {
+    width: 100%;
+    position: absolute;
+    top: 15%;
+    left: 13%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 32px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.055em;
+    color: #FFFFFF;
+}
+
+
+/* Rectangle 79 */
+
+.logo-content-coupon-card2 {
+    width: 100%;
+    height: 100%;
+    max-height: 21px;
+    max-width: 122px;
+    margin-top: 16px;
+}
+
+.img-grande {
+
+    width: 100%;
+    margin-bottom: 8px;
+
+}
+.img-grande2{
+    width: 100%;
+}
+
+
+.banner-header {
+    width: 100%;
+}
+
+/* Rectangle 75 */
+.nuevos-cupones {
+
+    width: 100%;
+    max-width: 1286px;
+    /* Degradado 1 */
+
+    background: linear-gradient(90deg, #FF4A99 13.14%, #FF8755 87.37%);
+    border-radius: 20px;
+
+}
+
+.nuevos-cupones .title {
+    /*Title*/
+    margin-right: 40px;
+    margin-top: 24px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 66px;
+    /* identical to box height */
+
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.nuevos-cupones .subTitle {
+    /*SUB TITLE*/
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+.nuevos-cupones .btn-empresa {
+
+
+    width: 100%;
+    max-width: 590px;
+    height: 60px;
+    margin-top: 34px;
+    margin-bottom: 34px;
+    background: #FFFFFF;
+    border-radius: 30px;
+    text-decoration: none;
+
+}
+
+.nuevos-cupones .btn-empresa .text {
+
+
+    padding-top: 10px;
+    width: 100%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+
+    line-height: 36px;
+    /* identical to box height */
+
+    display: block;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.055em;
+    cursor: pointer;
+    /* Secondary */
+
+    color: #FA4F73;
+}
+
+.nuevos-cupones .btn-persona {
+
+    width: 100%;
+    max-width: 590px;
+    height: 60px;
+    margin-top: 34px;
+    margin-bottom: 34px;
+    background: #FFFFFF;
+    border-radius: 30px;
+    text-decoration: none;
+}
+
+.nuevos-cupones .btn-persona .text {
+
+    padding-top: 10px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height */
+
+    display: block;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.055em;
+    cursor: pointer;
+    /* Secondary */
+
+    color: #FA4F73;
+}
+
+.btn-cupones {
+
+    width: 142px;
+    height: 34px;
+
+    background: linear-gradient(90deg, #FF9569 13.14%, #FF4A99 87.37%);
+    border-radius: 17px;
+}
+
+.btn-cupones .text {
+    position: absolute;
+    width: 98px;
+    height: 34px;
+    margin-left: 13.67px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.055em;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+
+.modal-title {
+
+    width: 100%;
+    height: 66px;
+    margin-left: 24px;
+    margin-top: 8px;
+
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 66px;
+    /* identical to box height */
+
+
+    /* Secondary */
+
+    color: #FA4F73;
+}
+
+.modal-sub-title {
+
+
+    height: 66px;
+    width: 100%;
+
+    margin-left: 24px;
+
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+
+
+    /* Gray 3 */
+
+    color: #828282;
+}
+
+.modal-input1 {
+    box-sizing: border-box;
+    width: 100%;
+    height: 60px;
+    margin-bottom: 24px;
+
+    background: rgba(255, 255, 255, 0.7);
+    /* Secondary */
+
+    border: 2px solid #FA4F73;
+    border-radius: 29.5px;
+
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 40px;
+    /* identical to box height, or 200% */
+    text-indent: 32px;
+
+    /* Secondary */
+
+    color: #FA4F73;
+
+}
+
+.modal-input1::placeholder {
+    color: #FA4F73;
+}
+
+.modal-area {
+
+    box-sizing: border-box;
+    height: 187px;
+    width: 100%;
+
+
+    padding-top: 10px;
+    background: rgba(255, 255, 255, 0.7);
+    border: 2px solid;
+    /* Secondary */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+
+    border-radius: 29px;
+    text-indent: 32px;
+    color: #FA4F73;
+
+}
+
+.modal-area::placeholder {
+    color: #FA4F73;
+}
+
+.modal-btn {
+
+    height: 50px;
+    width: 194px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+
+    background: #FA4F73;
+    border-radius: 25px;
+    text-decoration: none;
+
+}
+
+
+.modal-btn .text {
+
+    height: 34px;
+    width: 142px;
+    margin-left: 55px;
+    margin-top: 8px;
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.055em;
+
+    color: #FFFFFF;
+}
+
+.modal-sub-title2 {
+
+    height: 36px;
+    width: 90%;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    /* or 129% */
+
+
+    color: rgba(31, 31, 57, 0.5);
+}
+
+.modal-area-p {
+    box-sizing: border-box;
+
+
+    height: 100%;
+    width: 100%;
+    margin-top: 24px;
+    margin-left: 24px;
+
+    padding-top: 10px;
+    background: rgba(255, 255, 255, 0.7);
+    border: 2px solid;
+    /* Secondary */
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 20px;
+
+    border-radius: 29px;
+    text-indent: 32px;
+    color: #FA4F73;
+
+}
+
+.modal-area-p::placeholder {
+    color: #FA4F73;
+}
+
+.modal-sub-title2-p {
+
+    height: 36px;
+    width: 100%;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    /* or 129% */
+
+
+    color: rgba(31, 31, 57, 0.5);
+}
+
+.modal-btn-p {
+    height: 50px;
+    width: 194px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    background: #FA4F73;
+    border-radius: 25px;
+
+
+}
+
+.modal-btn-p .text {
+    position: absolute;
+
+    height: 34px;
+    width: 142px;
+    margin-left: 66px;
+    margin-top: 8px;
+
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.055em;
+
+    color: #FFFFFF;
+}
+
+
+.modal-close {
+    position: absolute;
+    height: 42px;
+    width: 42px;
+    margin-left: 68px;
+    margin-top: 20px;
+    background: #FA4F73;
+    border: #FA4F73;
+    backdrop-filter: blur(3px);
+    /* Note: backdrop-filter has minimal browser support */
+
+    border-radius: 21px;
+}
+
+.btn-todos {
+    position: relative;
+    width: 184px;
+    height: 34px;
+    margin-top: 32px;
+    /* Degradado 1 */
+    background: linear-gradient(90deg, #FF8755 13.14%, #FF4A99 87.37%);
+    border-radius: 17px;
+    border: 1px solid #FFFFFF;
+
+
+}
+
+.btn-todos .label {
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    width: 161px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.055em;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+
+.btn-barra {
+    box-sizing: border-box;
+    margin-left: 24px;
+    position: relative;
+    height: 34px;
+    margin-top: 8px;
+    background: #F8F9FA;
+    /* Gray 4 */
+    transition: 0.4s;
+
+    border: 1.5px solid #BDBDBD;
+    border-radius: 17px;
+}
+
+.btn-barra:hover,
+.btn-barra .label-btn-barra-all:hover,
+.btn-barra .label:hover {
+    background: linear-gradient(90deg, #FF8755 13.14%, #FF4A99 87.37%);
+    color: #FFFFFF;
+}
+
+
+.btn-barra-all .label-btn-barra-all {
+    position: absolute;
+    height: 21px;
+    top: 6px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.055em;
+    text-decoration: none;
+    /* Gray 4 */
+    color: #BDBDBD;
+}
+
+
+.btn-barra .label {
+    /* TECNOLOGÍA */
+    position: absolute;
+    height: 21px;
+    left: 40px;
+    top: 6px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.055em;
+    text-decoration: none;
+    /* Gray 4 */
+    color: #BDBDBD;
+
+}
+
+.btn-barra .img {
+    /* Vector */
+
+    position: absolute;
+    left: 13.68px;
+    right: 9.67px;
+    top: 10px;
+
+    /* Gray 4 */
+
+
+    /* Gray 4 */
+
+    background: #f8f9fa;
+}
+
+
+.btn-barra .icon-img {
+    /* Vector */
+
+    position: absolute;
+    left: 13.68px;
+    right: 9.67px;
+    top: 10px;
+
+    /* Gray 4 */
+
+
+    /* Gray 4 */
+
+    background: #f8f9fa;
+}
+
+.btn-viajes-turismo {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 190px;
+    height: 34px;
+    left: 698px;
+    top: 486px;
+
+    background: #F8F9FA;
+    /* Gray 4 */
+
+    border: 1.5px solid #BDBDBD;
+    border-radius: 17px;
+}
+
+.btn-viajes-turismo .label {
+
+    position: absolute;
+    width: 139px;
+    height: 21px;
+    left: 40px;
+    top: 6px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.055em;
+    text-decoration: none;
+    /* Gray 4 */
+
+    color: #BDBDBD;
+}
+
+.btn-viajes-turismo .img {
+    position: absolute;
+    left: 13.67px;
+    right: 8.34%;
+    top: 10px;
+
+    /* Gray 4 */
+
+    background: #f8f9fa;
+}
+
+.btn-bienestar-salud {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 199px;
+    height: 34px;
+    left: 912px;
+    top: 486px;
+
+    background: #F8F9FA;
+    /* Gray 4 */
+
+    border: 1.5px solid #BDBDBD;
+    border-radius: 17px;
+}
+
+.btn-bienestar-salud .label {
+
+    position: absolute;
+    width: 148px;
+    height: 21px;
+    left: 40px;
+    top: 6px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.055em;
+    text-decoration: none;
+    /* Gray 4 */
+
+    color: #BDBDBD;
+}
+
+.btn-bienestar-salud .img {
+    position: absolute;
+    left: 13.67px;
+    right: 8.34%;
+    top: 8px;
+
+    /* Gray 4 */
+
+    background: #f8f9fa;
+}
+
+.btn-deporte {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 128px;
+    height: 34px;
+    left: 1135px;
+    top: 486px;
+
+    background: #F8F9FA;
+    /* Gray 4 */
+
+    border: 1.5px solid #BDBDBD;
+    border-radius: 17px;
+}
+
+.btn-deporte .label {
+    position: absolute;
+    width: 76px;
+    height: 21px;
+    left: 40px;
+    top: 6px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.055em;
+    text-decoration: none;
+    /* Gray 4 */
+
+    color: #BDBDBD;
+}
+
+.btn-deporte .img {
+    position: absolute;
+    left: 13.67px;
+    right: 0%;
+    top: 8.25px;
+
+    /* Gray 4 */
+
+    background: #f8f9fa;
+}
+
+.btn-hogar {
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 106px;
+    height: 34px;
+    left: 1287px;
+    top: 486px;
+
+    background: #F8F9FA;
+    /* Gray 4 */
+
+    border: 1.5px solid #BDBDBD;
+    border-radius: 17px;
+}
+
+.btn-hogar .label {
+
+    position: absolute;
+    width: 54px;
+    height: 21px;
+    left: 40px;
+    top: 6px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.055em;
+    text-decoration: none;
+    /* Gray 4 */
+
+    color: #BDBDBD;
+}
+
+.btn-hogar .img {
+    position: absolute;
+    left: 13.67px;
+    right: 4.16%;
+    top: 9.5px;
+
+    /* Gray 4 */
+
+    background: #f8f9fa;
+}
+
+
+/*INICIO VISTA-CUPÓN*/
+.vc-ver {
+
+    height: 13.333333015441895px;
+    width: 100%;
+
+    margin-top: 24px;
+    margin-left: 16px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.055em;
+    text-decoration: none;
+    /* Gray 3 */
+
+    color: #828282;
+}
+
+.vc-ver:any-link {
+    color: #828282;
+}
+
+.vc-atras {
+    height: 20px;
+    width: 10px;
+    margin-top: 4px;
+    margin-right: 17px;
+}
+
+.vc-label-ver {
+    font-size: 16px;
+}
+
+.vc-time-icon {
+    width: 16.67px;
+    height: 16.67px;
+    margin-top: 32px;
+    margin-left: 38px;
+    color: #FF504D;
+}
+
+.vc-time-text {
+    margin-top: 32px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    /* or 129% */
+    display: flex;
+    align-items: center;
+
+    /* Gray 3 */
+    color: #828282;
+}
+
+.vc-label-cupon {
+    /* CUPÓN DE APPLE */
+
+    height: 66px;
+    margin-top: 8px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 66px;
+    /* identical to box height */
+
+    text-transform: uppercase;
+
+    /* Secondary */
+
+    color: #FA4F73;
+}
+
+.vista-cupon-card {
+    width: 100%;
+
+    margin-top: 32px;
+    margin-bottom: 32px;
+    background: #FFFFFF;
+    /* Sombra 2 */
+
+    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.12);
+    border-radius: 20px;
+}
+
+.card-share {
+    height: 40px;
+    width: 40px;
+    border-radius: 8px;
+    position: absolute;
+    left: 2.63%;
+    right: 90.79%;
+    bottom: 87%;
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(4px);
+}
+
+.card-share .icon {
+    position: absolute;
+    left: 25%;
+    top: 25%;
+}
+
+.card-img {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px 0px 0px 20px;
+}
+
+.card-desc {
+    position: absolute;
+    width: 134px;
+    height: 46px;
+    margin-top: 402px;
+    margin-left: 24px;
+    /* Secondary */
+
+    background: #FA4F73;
+    border-radius: 8px;
+
+}
+
+.card-desc .text {
+
+    width: 108px;
+    height: 32px;
+    margin-left: 14px;
+    margin-top: 7px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 32px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.055em;
+
+    color: #FFFFFF;
+
+}
+
+.card-marca-icon {
+
+    margin-top: 32px;
+
+}
+
+.vc-card-title {
+    margin-top: 8px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 39px;
+    margin-right: 10px;
+    margin-left: 10px;
+    /* Gray 1 */
+
+    color: #333333;
+}
+
+.vc-card-subtitle {
+    margin-top: 24px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* Gray 3 */
+    color: #828282;
+}
+
+.vc-card-code-box {
+    margin-top: 61px;
+    width: 95%;
+    height: 50px;
+
+    background: #FFFFFF;
+    /* Sombra 2 */
+
+    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.12);
+    border-radius: 20px;
+}
+
+.vc-card-code {
+    margin-top: 15px;
+    margin-left: 15px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.055em;
+
+    /* Secondary */
+
+    color: #FA4F73;
+}
+
+.vc-card-code-copy {
+    height: 50px;
+    width: 194px;
+    border-radius: 25px;
+    background: #FA4F73;
+    border: #FFFFFF;
+    color: #FFFFFF;
+
+}
+
+.vc-card-subtitle2 {
+    margin-top: 10px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    /* identical to box height */
+
+
+    /* Gray 1 */
+
+    color: #333333;
+}
+
+.vc-card-usar {
+    height: 50px;
+    width: 100%;
+    margin-top: 24px;
+    border-radius: 25px;
+    /* Secondary */
+
+    background: #FA4F73;
+    color: #FFFFFF;
+    border: #FFFFFF;
+
+}
+
+.vc-card-problemas {
+    height: 50px;
+    width: 89.4%;
+    margin-top: 24px;
+    border-radius: 25px;
+    background: #BDBDBD;
+    color: #FFFFFF;
+    border: #FFFFFF;
+}
+
+.vc-label-sale {
+    position: absolute;
+    width: 134px;
+    height: 46px;
+    margin-left: 24px;
+    top: 402px;
+
+    /* Secondary */
+
+    background: #FA4F73;
+    border-radius: 8px;
+
+}
+
+.vc-label-sale-text {
+    position: absolute;
+    width: 107px;
+    height: 32px;
+    margin-left: 14px;
+    margin-top: 7px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 32px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.055em;
+
+    color: #FFFFFF;
+}
+
+.copiar-boton-cupon {
+    width: 194px;
+    position: absolute;
+    right: 2%;
+}
+
+.carousel-item-coupon {
+    width: 382px;
+}
+
+.line-bottom {
+    border: 1px solid #BDBDBD;
+    width: 100%;
+    max-width: 1286px;
+    margin-left: 16px;
+}
+
+.boton-carousel-prev,
+.boton-carousel-next {
+    position: absolute;
+    display: block;
+    width: 30px;
+    height: 30px;
+    border: none;
+    top: calc(60% - 35px);
+    cursor: pointer;
+    line-height: 30px;
+    text-align: center;
+    background: #FA4F73;;
+    color: #FFFFFF;
+    border-radius: 8px;
+}
+
+.boton-carousel-prev {
+    left: -2%;
+}
+
+.boton-carousel-next {
+    right: 0%;
+}
+
+.carousel_icon_left {
+    width: 10px;
+    height: 22px;
+}
+
+.carousel_icon_right {
+    width: 10px;
+    height: 22px;
+    margin-bottom: 34%;
+}
+
+.title-carousel {
+    width: 100%;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 66px;
+    /* identical to box height */
+
+    text-transform: uppercase;
+
+    /* Primary */
+
+    color: #1EA6E3;
+
+}
+
+.subtitle-carousel {
+    width: 100%;
+    height: 100%;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height */
+    /* Gray 3 */
+    color: #828282;
+}
+
+.share-content {
+    position: absolute;
+    left: 1.7%;
+    top: 6%;
+}
+
+.botones-share {
+    height: 40px;
+    width: 40px;
+    border-radius: 8px;
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(4px);
+}
+
+.botones-share .compartir {
+    color: #FFFFFF;
+}
+
+.botones-share .redes {
+    position: relative;
+    left: -10px;
+    min-width: inherit;
+    padding: 7px;
+    border-radius: 100px;
+    font-size: 20px;
+}
+
+.botones-share .redes .whatsapp {
+    color: #27d46b;
+}
+
+
+/*FIN VISTA-CUPÓN*/
+
+
+
+@media (max-width: 440px) {
+    .btn-barra {
+        width: 30%;
+        height: 25px;
+        margin-left: 8px;
+    }
+
+    .btn-barra .label {
+        font-size: 11px;
+        top: 1px;
+        left: 35px;
+    }
+
+    .btn-barra .img {
+        left: 7.68px;
+        top: 3px;
+
+    }
+
+    .btn-barra-all .label-btn-barra-all {
+        font-size: 11px;
+        top: 1px;
+    }
+
+
+    /* CAROUSEL */
+    .boton-carousel-prev,
+    .boton-carousel-next {
+        display: none;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1388px){
+
+}
+@media (min-width: 1389px) and (max-width: 1920px){
+
+}
 @media (min-width: 320px) and (max-width: 767px) {
 
     .img-grande {
@@ -4843,413 +5264,7 @@ header .carousel .carousel__elemento,
 
 }
 
-/*FIN MEDIDAS VISTA2*/
-@media (min-width: 1200px) {
-    .container {
-        /*max-width: 1190px !important;*/
-        /*max-width: 1224px !important;*/
-        /*max-width: 1304px !important;*/
-        /*max-width: 1197.5px !important;*/
-        max-width: 1310px !important;
-    }
-
-    nav .logo {
-        margin-right: 2.1rem;
-    }
-
-    /*.navbar .boton-registrate-1 a {
-        letter-spacing: 5px;
-        padding: .35rem 3.95rem;
-        font-size: 1.2125rem;
-    }
-
-    .navbar .redes-sociales a:not(:last-child) {
-        margin-right: 1.65rem !important;
-    }
-
-    .landing-header .header-row {
-        --bs-gutter-x: 1.75rem;
-    }*/
-    .landing-header .nav-links-col {
-        width: 424px;
-        flex: 0 0 424px;
-        /*margin-right: -.5rem;*/
-    }
-
-    .login-col {
-        width: 382px;
-        flex: 0 0 382px;
-        padding-left: 2.6rem;
-        padding-right: 2.65rem;
-        font-size: .875rem;
-    }
-
-    .smart-shopping-scart {
-        width: calc(100% - 382px - var(--bs-gutter-x) - 21px);
-        flex: 0 0 calc(100% - 382px - var(--bs-gutter-x) - 21px);
-    }
-
-    #como-funciona .extension {
-        width: 405px;
-        flex: 0 0 405px;
-    }
-
-    #como-funciona .como-funciona {
-        width: calc(100% - 405px - var(--bs-gutter-x) + 3px);
-        flex: 0 0 calc(100% - 405px - var(--bs-gutter-x) + 3px);
-    }
-
-    .contenido .contacto {
-        margin-bottom: 123px;
-    }
-
-    .contenido .contacto .parte-1 .titulos-contacto h2 {
-        font-size: var(--h2);
-    }
-
-    .contenido .contacto .parte-1 {
-        margin-right: -458px;
-        width: 458px;
-        flex: 0 0 458px;
-    }
-
-    .contenido .contacto .titulos-contacto {
-        padding-right: 1.125rem;
-    }
-
-    .contenido .contacto .parte-1 .titulos-contacto h2 {
-        font-size: 46.5px;
-        margin-top: .5rem;
-        margin-bottom: 2.05rem;
-    }
-
-    .contenido .contacto .titulos-contacto p {
-        margin-bottom: .425rem;
-        font-size: 1.6375rem;
-    }
-
-    .contenido .contacto .parte-1 hr {
-        margin: 60px auto 94px;
-        width: 62.75%;
-        height: 1.5px;
-    }
-
-    .contenido .contacto .parte-1 .redes img {
-        margin-left: 28px;
-        margin-right: 28px;
-    }
-
-    .contenido .contacto .parte-1 .logo-scart {
-        height: 58px;
-    }
-
-    .contenido .contacto .parte-2 {
-        /*width: calc(100% - 25% + 200px);*/
-        margin-left: calc(458px / 4.75);
-        padding-left: calc(458px - (458px / 4.75) + 50px);
-    }
-
-    .contenido .contacto .parte-2 p {
-        font-size: 1.6rem;
-        font-weight: 450;
-        line-height: 1.2;
-    }
-
-    .contenido .contacto .parte-2 input,
-    .contenido .contacto .parte-2 textarea {
-        padding: 1.075rem 1.25rem;
-        border-radius: .875rem;
-        border: none;
-    }
-
-    .contenido .contacto .parte-2 textarea {
-        height: 181.5px;
-    }
-
-    .contenido .contacto .parte-2 .boton input {
-        padding: .95rem 2.6rem;
-        border-radius: 1.125rem;
-        font-size: 1.19rem;
-        font-weight: 500;
-    }
-
-    footer h5 {
-        line-height: 1.12;
-        margin-top: 1px;
-    }
-
-    footer .contactanos .col-auto + .col {
-        margin-left: 7px;
-    }
-
-    footer .servicios {
-        padding-left: calc(var(--bs-gutter-x) / 2 + 7px);
-    }
-
-    footer .servicios .col-auto + .col {
-        margin-left: 7px;
-    }
-
-    footer .apoyos {
-        padding-right: 1.5rem;
-    }
-
-    footer .apoyos .row .col:first-child {
-        padding-left: calc(var(--bs-gutter-x) / 2 + 7px);
-    }
-
-    footer .scart-redes .list-inline-item:not(:last-child) {
-        margin-right: 1.875rem;
-    }
-}
-
-@-moz-document url-prefix() {
-    .glider-wrap {
-        /*overflow: hidden;*/
-        /*margin-bottom: -17px;*/
-    }
-    .glider-wrap .glider-track {
-        /*margin-bottom: 17px;*/
-    }
-}
-
-/* START RFS */
-.inicio-smart {
-    /* RFS: 4.375rem */
-    margin-bottom: calc(1.5625rem + 3.75vw);
-}
-
-.login-col .card-title {
-    /* RFS: 30px */
-    font-size: calc(1.3125rem + 0.75vw);
-}
-
-.smart-shopping-scart h1 {
-    /* RFS: 3.5rem */
-    font-size: calc(1.475rem + 2.7vw);
-}
-
-.smart-shopping-scart h2,
-.landing-title {
-    /* RFS: 2.5rem */
-    font-size: calc(1.375rem + 1.5vw);
-}
-
-.landing-title.sm {
-    /* RFS: 2rem */
-    font-size: calc(1.325rem + 0.9vw);
-}
-
-header .parte-2 h2 {
-    /* RFS: 55px */
-    font-size: calc(1.46875rem + 2.625vw);
-}
-
-header .parte-2 h2 + h4 {
-    /* RFS: 21px */
-    font-size: calc(1.25625rem + 0.075vw);
-}
-
-header .como-funciona .recuadro h5 {
-    /* RFS: 21.75px */
-    font-size: calc(1.2609375rem + 0.13125vw);
-}
-
-.como-funciona .descripcion {
-    /* RFS: 21.875px */
-    /*font-size: calc(1.26171875rem + 0.140625vw);*/
-    /* RFS: 18px */
-    font-size: calc(1.1rem + 0.140625vw);
-}
-
-header .como-funciona .btn {
-    /* RFS: 35px */
-    font-size: calc(1.34375rem + 1.125vw);
-    /*letter-spacing: .9175vw;*/
-    letter-spacing: .75vw;
-}
-
-.extension h5 {
-    /* RFS: 29.4px */
-    font-size: calc(1.30875rem + 0.705vw);
-}
-
-.carousel-marcas .titulo {
-    /* RFS: 34px */
-    font-size: calc(1.3375rem + 1.05vw);
-}
-
-.route-inicio .contenido .titulos {
-    /* RFS: 71px */
-    margin-top: calc(1.56875rem + 3.825vw);
-    /* RFS: 48px */
-    margin-bottom: calc(1.425rem + 2.1vw);
-    /* RFS: 16px 45px */
-    padding: 1rem calc(1.40625rem + 1.875vw);
-}
-
-.route-inicio .contenido .titulos h2 {
-    /* RFS: 44.55px */
-    font-size: calc(1.4034375rem + 1.84125vw);
-}
-
-.contenido .recuadro h2 {
-    /* RFS: 44px */
-    font-size: calc(1.4rem + 1.8vw);
-}
-
-.contenido .indicadores-flechas {
-    /* RFS: -2.56125rem */
-    margin-top: calc(-1.381125rem - 1.5735vw);
-}
-
-.contenido .como-funciona .container h4 {
-    /* RFS: 24.15px */
-    font-size: calc(1.2759375rem + 0.31125vw);
-}
-
-.contenido .como-funciona .container p {
-    /* RFS: 24px */
-    font-size: calc(1.275rem + 0.3vw);
-}
-
-.contenido .como-funciona .container .part2 .boton {
-    /* RFS: 25.5px */
-    font-size: calc(1.284375rem + 0.4125vw);
-}
-
-.modal .popup-txt {
-    /* RFS: 50px 45px */
-    padding: calc(1.4375rem + 2.25vw) calc(1.40625rem + 1.875vw);
-}
-
-@media (min-width: 992px) {
-    .inicio-smart {
-        /* RFS: 74px */
-        margin-top: calc(1.5875rem + 4.05vw);
-    }
-}
-
-@media (min-width: 1200px) {
-    .inicio-smart {
-        margin-top: 4.625rem;
-        margin-bottom: 4.375rem;
-    }
-
-    .login-col .card-title {
-        font-size: 1.875rem;
-    }
-
-    .smart-shopping-scart h1 {
-        font-size: 3.5rem;
-    }
-
-    .smart-shopping-scart h2,
-    .landing-title {
-        font-size: 2.5rem;
-    }
-
-    header .parte-2 h2 {
-        font-size: 3.4375rem;
-    }
-
-    header .parte-2 h2 + h4 {
-        font-size: 1.3125rem;
-    }
-
-    header .como-funciona .recuadro h5 {
-        font-size: 1.359375rem;
-    }
-
-    .como-funciona .descripcion {
-        /*font-size: 1.3671875rem;*/
-        font-size: 1.2rem;
-    }
-
-    header .como-funciona .btn {
-        font-size: 2.1875rem;
-        /*letter-spacing: 11px;*/
-        letter-spacing: 9px;
-    }
-
-    .extension h5 {
-        font-size: 1.8375rem;
-    }
-
-    .carousel-marcas .titulo {
-        font-size: 2.125rem;
-    }
-
-    .route-inicio .contenido .titulos {
-        margin-top: 4.4375rem;
-        margin-bottom: 3rem;
-        padding: 1rem 2.8125rem;
-    }
-
-    .route-inicio .contenido .titulos h2 {
-        font-size: 2.784375rem;
-    }
-
-    .contenido .recuadro h2 {
-        font-size: 2.75rem;
-    }
-
-    .contenido .indicadores-flechas {
-        margin-top: -2.56125rem;
-    }
-
-    .contenido .como-funciona .container h4 {
-        font-size: 1.509375rem;
-    }
-
-    .contenido .como-funciona .container p {
-        font-size: 1.5rem;
-    }
-
-    .contenido .como-funciona .container .part2 .boton {
-        font-size: 1.59375rem;
-    }
-
-    .modal .popup-txt {
-        padding: 3.125rem 2.8125rem;
-    }
-
-
-}
-
-@media (max-width: 440px) {
-    .btn-barra {
-        width: 30%;
-        height: 25px;
-        margin-left: 8px;
-    }
-
-    .btn-barra .label {
-        font-size: 11px;
-        top: 1px;
-        left: 35px;
-    }
-
-    .btn-barra .img {
-        left: 7.68px;
-        top: 3px;
-
-    }
-
-    .btn-barra-all .label-btn-barra-all {
-        font-size: 11px;
-        top: 1px;
-    }
-
-
-    /* CAROUSEL */
-    .boton-carousel-prev,
-    .boton-carousel-next {
-        display: none;
-    }
-}
-
-
+/*///////////////////////////////////////////FIN CUPÓN//////////////////////////////////////////////////////*/
 /*
  * Ãšltimos cambios:
  * - header .carousel .carousel__elemento .botones-card, .contenido .carousel1__elemento .botones-card
