@@ -444,6 +444,7 @@ nav .logo {
     right: 90.79%;
     top: 2.93%;
     bottom: 79.26%;
+    z-index:3;
 
 }
 
