@@ -167,7 +167,7 @@ nav .logo {
 .text-time-group-card1 {
     height: 20px;
     width: 136px;
-    margin-top: 15px;
+    margin-top: 16px;
 
 
     font-family: 'Poppins';
@@ -4697,9 +4697,11 @@ header .carousel .carousel__elemento,
         margin-left: 16px;
     }
 
-    .text-time-group-card2 {
-        margin-top: 13px;
-        margin-left: 5.67px;
+    .text-time-group-card1 {
+        position: absolute;
+        top: 43%;
+        right: 32%;
+
     }
 
     .description-card2-coupon {
@@ -4721,6 +4723,38 @@ header .carousel .carousel__elemento,
         top: 471px;
         margin-left: 16px;
         margin-bottom: 16px;
+    }
+
+    .button-coupon-card1 {
+
+        margin-bottom: 16px;
+    }
+
+    /* CAROUSEL */
+
+    .label-sale-card1{
+        top: 32%;
+    }
+
+        .label-sale-text-card1{
+            top: 33%;
+            right: 52%;
+        }
+
+    .title-card1-coupon  {
+        font-size: 16px;
+    }
+
+    .time-coupon-icon-card1 {
+        margin-top: 7px;
+    }
+
+    .description-card1-coupon{
+        font-size: 13px;
+    }
+
+    .coupon-card1{
+        width: 0%;
     }
 }
 
@@ -5120,6 +5154,14 @@ header .como-funciona .btn {
     .btn-barra-all .label-btn-barra-all {
         font-size: 11px;
         top:1px;
+    }
+
+
+
+    /* CAROUSEL */
+    .boton-carousel-prev,
+    .boton-carousel-next{
+        display: none;
     }
 }
 
