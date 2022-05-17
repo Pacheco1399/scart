@@ -68,6 +68,12 @@
                                 </div>
                             </div>
 
+                            <div class="vc-label-sale">
+
+                                <p class="vc-label-sale-text" href="">
+                                    15% dcto
+                                </p>
+                            </div>
 
                         </div>
                         <div class="col-12 col-md-7">

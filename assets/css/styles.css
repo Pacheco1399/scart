@@ -444,7 +444,7 @@ nav .logo {
     right: 90.79%;
     top: 2.93%;
     bottom: 79.26%;
-    z-index:3;
+    z-index: 3;
 
 }
 
@@ -1525,7 +1525,7 @@ nav .logo {
     height: 13.333333015441895px;
     width: 100%;
 
-    margin-top: 11px;
+    margin-top: 24px;
     margin-left: 16px;
 
     font-family: 'Poppins';
@@ -1548,21 +1548,23 @@ nav .logo {
 .vc-ver:any-link {
     color: #828282;
 }
-.vc-atras{
-    width: 8.33px;
-    height: 13.33px;
-    margin-top: 2px;
-    margin-right: 6px;
+
+.vc-atras {
+    height: 20px;
+    width: 10px;
+    margin-top: 4px;
+    margin-right: 17px;
 }
-.vc-label-ver{
-    font-size: 12px;
+
+.vc-label-ver {
+    font-size: 16px;
 }
 
 .vc-label-cupon {
     /* CUPÓN DE APPLE */
 
     height: 66px;
-    margin-top: 24px;
+    margin-top: 8px;
 
     font-family: 'Poppins';
     font-style: normal;
@@ -1762,6 +1764,42 @@ nav .logo {
     border: #FFFFFF;
 }
 
+.vc-label-sale {
+    position: absolute;
+    width: 134px;
+    height: 46px;
+    margin-left: 24px;
+    top: 402px;
+
+    /* Secondary */
+
+    background: #FA4F73;
+    border-radius: 8px;
+
+}
+
+.vc-label-sale-text {
+    position: absolute;
+    width: 107px;
+    height: 32px;
+    margin-left: 14px;
+    margin-top: 7px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 32px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.055em;
+
+    color: #FFFFFF;
+}
+
 .copiar-boton-cupon {
     width: 194px;
     position: absolute;
@@ -1776,8 +1814,7 @@ nav .logo {
     border: 1px solid #BDBDBD;
     width: 100%;
     max-width: 1286px;
-    margin-top: 16px;
-    margin-bottom: 8px;
+    margin-left: 16px;
 }
 
 .boton-carousel-prev,
@@ -4871,15 +4908,32 @@ header .carousel .carousel__elemento,
         margin-top: 8px;
         margin-right: 16px;
     }
-    .share-content{
+
+    .share-content {
         position: absolute;
         width: 40px;
         height: 40px;
         left: 32px;
         top: 16px;
     }
-    .line-bottom{
+
+    .line-bottom {
         max-width: 343px;
+        margin-left: 16px;
+    }
+
+    .vc-label-ver {
+        font-size: 12px;
+    }
+
+    .vc-atras {
+        width: 8.33px;
+        height: 13.33px;
+
+    }
+
+    .vc-label-sale {
+        top: 238px;
         margin-left: 16px;
     }
 
