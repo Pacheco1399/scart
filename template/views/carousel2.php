@@ -72,7 +72,7 @@
                         <div class="row">
                             <div class="col-1">
 
-                                <i class="time-coupon-icon-card1 fas fa-clock"></i>
+                                <i class="time-coupon-icon-card1 far fa-clock"></i>
 
                             </div>
                             <div class="col-11">
@@ -151,7 +151,7 @@
                         <div class="row">
                             <div class="col-1">
 
-                                <i class="time-coupon-icon-card1 fas fa-clock"></i>
+                                <i class="time-coupon-icon-card1 far fa-clock"></i>
 
                             </div>
                             <div class="col-11">
@@ -227,7 +227,7 @@
                         <div class="row">
                             <div class="col-1">
 
-                                <i class="time-coupon-icon-card1 fas fa-clock"></i>
+                                <i class="time-coupon-icon-card1 far fa-clock"></i>
 
                             </div>
                             <div class="col-11">
@@ -304,7 +304,7 @@
                         <div class="row">
                             <div class="col-1">
 
-                                <i class="time-coupon-icon-card1 fas fa-clock"></i>
+                                <i class="time-coupon-icon-card1 far fa-clock"></i>
 
                             </div>
                             <div class="col-11">
@@ -382,7 +382,7 @@
                         <div class="row">
                             <div class="col-1">
 
-                                <i class="time-coupon-icon-card1 fas fa-clock"></i>
+                                <i class="time-coupon-icon-card1 far fa-clock"></i>
 
                             </div>
                             <div class="col-11">
@@ -460,7 +460,7 @@
                         <div class="row">
                             <div class="col-1">
 
-                                <i class="time-coupon-icon-card1 fas fa-clock"></i>
+                                <i class="time-coupon-icon-card1 far fa-clock"></i>
 
                             </div>
                             <div class="col-11">

@@ -168,7 +168,7 @@ nav .logo {
     height: 20px;
     width: 136px;
     margin-top: 16px;
-
+    margin-bottom: 11px;
 
     font-family: 'Poppins';
     font-style: normal;
@@ -282,7 +282,7 @@ nav .logo {
 .label-sale-text-card1 {
     position: fixed;
     right: 65%;
-    top: 45%;
+    top: 44%;
 
     font-family: 'Poppins';
     font-style: normal;
@@ -306,7 +306,7 @@ nav .logo {
     width: 100%;
     max-width: 194px;
     margin-left: 15px;
-
+    margin-bottom: 15px;
     background: #FA4F73;
     border-radius: 17px;
 }
@@ -434,7 +434,7 @@ nav .logo {
 .imagen-coupon-card2 {
     width: 100%;
     max-width: 292px;
-    height: 100%;
+    height: 270px;
 }
 
 /* Group 175 */
@@ -628,6 +628,9 @@ nav .logo {
 
 .logo-content-coupon-card2 {
     width: 100%;
+    height: 100%;
+    max-height: 21px;
+    max-width: 122px;
     margin-top: 16px;
 }
 
@@ -636,6 +639,9 @@ nav .logo {
     width: 100%;
     margin-bottom: 8px;
 
+}
+.img-grande2{
+    width: 100%;
 }
 
 
@@ -832,7 +838,7 @@ nav .logo {
     box-sizing: border-box;
     width: 100%;
     height: 60px;
-
+    margin-bottom: 24px;
 
     background: rgba(255, 255, 255, 0.7);
     /* Secondary */
@@ -859,169 +865,11 @@ nav .logo {
     color: #FA4F73;
 }
 
-
-.modal-input2 {
-    box-sizing: border-box;
-    width: 100%;
-    height: 60px;
-
-
-    background: rgba(255, 255, 255, 0.7);
-    /* Secondary */
-
-    border: 2px solid #FA4F73;
-    border-radius: 29.5px;
-
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 40px;
-    /* identical to box height, or 200% */
-    text-indent: 32px;
-
-    /* Secondary */
-
-    color: #FA4F73;
-}
-
-.modal-input2::placeholder {
-    color: #FA4F73;
-}
-
-
-.modal-input3 {
-    box-sizing: border-box;
-
-
-    width: 100%;
-
-    height: 60px;
-    margin-top: 24px;
-
-    background: rgba(255, 255, 255, 0.7);
-    /* Secondary */
-
-    border: 2px solid #FA4F73;
-    border-radius: 29.5px;
-
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 40px;
-    /* identical to box height, or 200% */
-    text-indent: 32px;
-
-    /* Secondary */
-
-    color: #FA4F73;
-}
-
-.modal-input3::placeholder {
-    color: #FA4F73;
-}
-
-
-.modal-input4 {
-    box-sizing: border-box;
-    width: 100%;
-    height: 60px;
-    margin-top: 24px;
-
-
-    background: rgba(255, 255, 255, 0.7);
-
-    border: 2px solid #FA4F73;
-    border-radius: 29.5px;
-
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 40px;
-    text-indent: 32px;
-
-
-    color: #FA4F73;
-}
-
-.modal-input4::placeholder {
-    color: #FA4F73;
-}
-
-
-.modal-input5 {
-    box-sizing: border-box;
-    width: 100%;
-
-    height: 60px;
-    margin-top: 24px;
-
-
-    background: rgba(255, 255, 255, 0.7);
-    /* Secondary */
-
-    border: 2px solid #FA4F73;
-    border-radius: 29.5px;
-
-
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 40px;
-    text-indent: 32px;
-
-    /* identical to box height, or 200% */
-
-
-    /* Secondary */
-
-    color: #FA4F73;
-}
-
-.modal-input5::placeholder {
-    color: #FA4F73;
-}
-
-
-.modal-input6 {
-    box-sizing: border-box;
-
-    width: 100%;
-
-    height: 60px;
-    margin-top: 24px;
-
-
-    background: rgba(255, 255, 255, 0.7);
-    /* Secondary */
-
-    border: 2px solid #FA4F73;
-    border-radius: 29.5px;
-
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 40px;
-    text-indent: 32px;
-
-    color: #FA4F73;
-}
-
-.modal-input6::placeholder {
-    color: #FA4F73;
-}
-
 .modal-area {
+
     box-sizing: border-box;
-
-
     height: 187px;
     width: 100%;
-    margin-top: 24px;
 
 
     padding-top: 10px;
@@ -1560,6 +1408,29 @@ nav .logo {
     font-size: 16px;
 }
 
+.vc-time-icon {
+    width: 16.67px;
+    height: 16.67px;
+    margin-top: 32px;
+    margin-left: 38px;
+    color: #FF504D;
+}
+
+.vc-time-text {
+    margin-top: 32px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    /* or 129% */
+    display: flex;
+    align-items: center;
+
+    /* Gray 3 */
+    color: #828282;
+}
+
 .vc-label-cupon {
     /* CUPÓN DE APPLE */
 
@@ -1611,9 +1482,8 @@ nav .logo {
 }
 
 .card-img {
-    width: 98%;
+    width: 100%;
     height: 100%;
-    margin-right: 10px;
     border-radius: 20px 0px 0px 20px;
 }
 
@@ -4589,7 +4459,7 @@ header .carousel .carousel__elemento,
 /*FIN MEDIDAS CAROUSEL*/
 
 /*INICIO MEDIDAS BANNER*/
-@media (max-width: 376px) {
+@media (min-width: 320px) and (max-width: 767px) {
 
     .img-grande {
         content: url("../../assets/img/new/banner-mobile.png");
@@ -4598,7 +4468,6 @@ header .carousel .carousel__elemento,
     .img-grande2 {
         width: 100%;
         height: 100%;
-        max-width: 376px;
         max-height: 128px;
         content: url("../../assets/img/new/banner2-mobile.png");
     }
@@ -4748,8 +4617,8 @@ header .carousel .carousel__elemento,
     }
 
     .time-coupon-icon-card2 {
-        margin-top: 14px;
         margin-left: 16px;
+
     }
 
     .title-card2-coupon {
@@ -4816,6 +4685,10 @@ header .carousel .carousel__elemento,
         width: 0%;
     }
 
+    .time-coupon-container-card2 {
+        margin-left: 5.67px;
+    }
+
 
     /*FIN MEDIDAS CUPÓN TECNOLOGÍA*/
     /*INICIO MEDIDAS VISTA2*/
@@ -4826,16 +4699,12 @@ header .carousel .carousel__elemento,
 
     .card-img {
         height: 300px;
-        width: 343px;
-        left: 16px;
-        top: 459px;
         border-radius: 20px 20px 0px 0px;
     }
 
     .vista-cupon-card {
         width: 100%;
         height: 100%;
-        max-width: 343px;
         max-height: 802px;
     }
 
@@ -4854,7 +4723,7 @@ header .carousel .carousel__elemento,
     }
 
     .vc-card-code-box {
-        width: 311px;
+        width: 90.5%;
         height: 34px;
         margin-top: 12px;
         margin-left: 16px;
@@ -4875,25 +4744,50 @@ header .carousel .carousel__elemento,
         line-height: 21px;
     }
 
-    .vc-card-code-copy {
+    .vc-card-bt-copy {
+        position: absolute;
+
         height: 32px;
         width: 115px;
         border-radius: 17px;
         font-size: 14px;
         line-height: 21px;
+
+        background: #FA4F73;
+        border: #FFFFFF;
+        color: #FFFFFF;
+    }
+    .vc-card-bt-copy .text{
+        position: absolute;
+        left: 26px;
+        right: 26px;
+        top: 0%;
+        bottom: 0%;
+
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 21px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        letter-spacing: 0.055em;
+        text-decoration: none;
+        color: #FFFFFF;
     }
 
     .vc-card-usar {
         height: 34px;
-        width: 311px;
+        width: 90.5%;
         margin-left: 16px;
+        padding-left: 16px;
     }
 
     .vc-card-problemas {
         height: 34px;
-        width: 311px;
+        width: 90.5%;
         margin-left: 16px;
-
         margin-top: 16px;
         margin-bottom: 16px;
     }
@@ -4935,6 +4829,16 @@ header .carousel .carousel__elemento,
     .vc-label-sale {
         top: 238px;
         margin-left: 16px;
+    }
+
+    .vc-time-icon {
+        width: 100%;
+        margin-top: 16px;
+        margin-left: 0px;
+        color: #FF504D;
+    }
+    .vc-time-text{
+        margin-top: 16px;
     }
 
 }

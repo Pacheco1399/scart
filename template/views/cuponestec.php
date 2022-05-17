@@ -72,7 +72,7 @@
                             </div>
                             <div class="col-12 col-xl-6">
 
-                                <div class="col-12 ms-3">
+                                <div class="col-12">
                                     <a href="#">
                                         <img src="../../assets/img/rectangle7.png" class="logo-content-coupon-card2"
                                              alt="">
@@ -83,7 +83,7 @@
 
 
                                         <div class="col-1 col-xl-1">
-                                            <i class="time-coupon-icon-card2 fas fa-clock"></i>
+                                            <i class="time-coupon-icon-card2 far fa-clock"></i>
 
                                         </div>
                                         <div class="col-9 col-xl-10">
@@ -197,7 +197,7 @@
 
 
                                         <div class="col-1">
-                                            <i class=" time-coupon-icon-card2 fas fa-clock"></i>
+                                            <i class=" time-coupon-icon-card2 far fa-clock"></i>
 
                                         </div>
                                         <div class="col-10">
@@ -324,7 +324,7 @@
 
 
                                         <div class="col-1">
-                                            <i class=" time-coupon-icon-card2 fas fa-clock"></i>
+                                            <i class=" time-coupon-icon-card2 far fa-clock"></i>
 
                                         </div>
                                         <div class="col-10">
@@ -440,12 +440,11 @@
                                 <div class="col-12">
                                     <div class="row">
 
-
                                         <div class="col-1">
-                                            <i class=" time-coupon-icon-card2 fas fa-clock"></i>
+                                            <i class=" time-coupon-icon-card2 far fa-clock"></i>
 
                                         </div>
-                                        <div class="col-10">
+                                        <div class="col-11">
                                             <div class="time-coupon-container-card2">
 
                                                 <label class="text-time-group-card2">Quedan 2 hrs</label>

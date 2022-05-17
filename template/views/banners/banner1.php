@@ -5,8 +5,11 @@
 
         <label class="title">¿QUIERES CREAR TUS CUPONES?</label>
 
-        <label class="subTitle">Ingresa aquí, selecciondo una de las dos opciones. para mas información, haz clic
-            aquí.</label>
+        <label class="subTitle">Ingresa aquí, selecciondo una de las dos opciones. para mas información,
+            <a href="#" style="color: #FFFFFF; text-decoration-line: underline;">
+                <i>haz clic aquí.</i>
+            </a>
+        </label>
         <div class="row">
 
             <div class="col-12 col-xl-6 ">
