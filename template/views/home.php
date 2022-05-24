@@ -47,12 +47,12 @@
     <!--<link rel="stylesheet" href="../../assets/css/styles.css">
     <link rel="stylesheet" href="../../assets/css/new/sidebar-user.css">
     <link rel="stylesheet" href="../../assets/css/new/styles-user.css"> -->
-    <link rel="stylesheet" href="../../assets/css/styles.css">
+    <link rel="stylesheet" href="../../assets/css/styles2.css">
     <link rel="stylesheet" href="https://scart.cl/view/assets/css/new/user/sidebar-user.css">
     <link rel="stylesheet" href="https://scart.cl/view/assets/css/new/user/styles-user.css?v=1.0.3">
 
 </head>
-<?php include("../views/header/header.php"); ?>
+<?php include("../views/header/header2.php"); ?>
 <img src="../../assets/img/new/panel-vista-2.png" alt="pic"
      class="img-grande2">
 
