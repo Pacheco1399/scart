@@ -1,5 +1,5 @@
 <div class="card-banner">
-    <div class="row mx-5">
+    <div class="row">
         <div class="col-xl-8">
             <div class="col-12 mb-3">
                 <label class="cb-title">¿Top Brands?</label>
@@ -11,7 +11,7 @@
                     momento para comprar.
                 </label>
             </div>
-            <div class="row mb-4">
+            <div class="row mb-4 ms-1">
 
                 <div class="col-xl-4 banner-box">
                     <div class="col-xl-12 mb-4">
@@ -53,7 +53,19 @@
             </div>
         </div>
         <div class="col-xl-4">
-
+            <div class="extension-box">
+                <div class="col-xl-12">
+                    <label>Conoce nuestra Extensión</label>
+                </div>
+                <div class="col-xl-12">
+                    <div class="img-link">
+                        <img alt="" src="../../assets/img/new/img-link.png">
+                    </div>
+                </div>
+                <div class="col-xl-12 d-flex justify-content-center">
+                    <img src="../../assets/img/new/image7.png" class="img-extension" alt="">
+                </div>
+            </div>
         </div>
     </div>
 </div>

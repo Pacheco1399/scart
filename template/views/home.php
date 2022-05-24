@@ -60,7 +60,10 @@
 
 <main>
 
-    <?php include("../views/products/productCard.php"); ?>
+    <br>
+    <br>
+    <br>
+    <?php include("../views/banners/banner3.php"); ?>
 
 
     <!-- <div class="container" style="width: 1310px"> -->
