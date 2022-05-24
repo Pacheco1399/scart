@@ -1,3 +1,42 @@
-nav .logo {
-    width: 10%;
+
+.product-card{
+    min-width: 276px;
+    min-height: 362px;
+    overflow: hidden;
+    border-radius: 20px;
+
+}
+
+.header-product-card{
+
+}
+
+.share-product-card{
+
+}
+
+.label-sale-product{
+
+}
+
+.label-sale-text-product{
+
+}
+
+.img-product-card{
+
+}
+
+.footer-product-card{
+    background-color: #FFFFFF;
+    min-width: 276px ;
+    min-height: 140px;
+
+}
+
+.subtitle-product-card{
+
+}
+.title-product-card{
+
 }
