@@ -42,8 +42,11 @@ header {
 .parte-1 .mis-carpetas {
     background-color: white;
     text-align: center;
-    border-radius: 20px;
+    border-radius: 10px;
     padding: 5px;
+}
+.parte-1 .mis-carpetas i{
+
 }
 
 
@@ -1402,3 +1405,8 @@ nav.edits-profile .boton-editar {
     hyphens: auto;
 }
 /* END Edit profile page */
+
+/*INICIO HOME NUEVO*/
+
+/*FIN HOME NUEVO*/
+

@@ -5,8 +5,6 @@
                 <a class="logo navbar-brand" href="/"><img src="../../assets/img/new/logo-blanco.svg"
                                                            alt="Logo de Scart"></a>
 
-
-
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                         data-bs-target="#scart-navbar-menu" aria-controls="scart-navbar-menu" aria-expanded="false"
                         aria-label="Alternar menú de navegación">
