@@ -60,11 +60,11 @@
 
 <main>
 
-    <!-- <div class="container" style="width: 1310px"> -->
-    <div class="container">
-        <?php include("../views/banners/banner3.php"); ?>
+    <?php include("../views/products/productCard.php"); ?>
 
-    </div>
+
+    <!-- <div class="container" style="width: 1310px"> -->
+
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
             integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
