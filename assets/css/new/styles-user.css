@@ -14,8 +14,7 @@ header {
 }
 
 .parte-1 {
-    background-image: var(--degradado-azul);
-}
+    background: linear-gradient(90deg, #372CE6 0%, #0066FF 100%);}
 
 /* Inico Parte 1 Header */
 
@@ -46,7 +45,7 @@ header {
     padding: 5px;
 }
 .parte-1 .mis-carpetas i{
-
+    margin-right: 16px;
 }
 
 
@@ -65,7 +64,7 @@ header {
 
 .parte-1 .ofertas {
     display: flex;
-    justify-content: center;
+    justify-content: start;
     align-items: center;
 }
 
@@ -110,17 +109,18 @@ header {
 /* Inico barra de busqueda */
 .parte-1 .busqueda {
     border-radius: 100px;
-    width: 100%;
+    width: 574px;
     background: #ffff;
     padding-left: 0px;
 }
 
 .parte-1 .busqueda button i {
-    color: var(--color-naranja);
+    color: #FFFFFF;
+
 }
 
 .parte-1 .buscar {
-    border-radius: 100px;
+    border-radius: 10px;
     text-align: center;
     margin: 5px;
     font-size: 12px;
@@ -131,16 +131,21 @@ header {
     border: none;
     width: 100%;
     outline: none;
+    font-family: 'Poppins';
+    font-style: normal;
 }
 
 .parte-1 .buscar button {
     float: left;
-    background: #ffff;
-    border: none;
+    background: linear-gradient(104.66deg, #FF635D 0%, #FA722C 99.25%);
+    border-radius: 6px;
     border-style: none;
     font-size: 17px;
-    height: 25px;
+    height: 34px;
+    width: 36px;
     cursor: pointer;
+
+
 }
 
 .parte-1 .buscar button:hover {
@@ -406,11 +411,12 @@ p {
 
 .parte-1 .mis-carpetas {
     /*color: var(--color-naranja);*/
-    background-image: linear-gradient(to right, #FF9569, #Ff4a99);
+    background: linear-gradient(104.66deg, #FF635D 0%, #FA722C 99.25%);
+
     color: #fff;
     font-weight: 550;
     letter-spacing: 1.25px;
-    font-size: .825rem;
+    font-size: 16px;
 }
 
 .parte-1 .buscar button,
@@ -473,9 +479,9 @@ p {
 }
 
 @media (min-width: 992px) {
-    .parte-1 .ofertas {
+    /*.parte-1 .ofertas {
         justify-content: center;
-    }
+    }*/
 
     .parte-1 .iconos a:last-child {
         margin-right: -1.25rem;

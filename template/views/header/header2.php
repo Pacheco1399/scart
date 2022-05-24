@@ -55,28 +55,28 @@
                         MIS CARPETAS
                     </a>
                 </div>
-                <div class="col-6 col-sm-7 col-lg-4 col-xl-6">
+                <div class="col-6 col-sm-7 col-lg-4 col-xl-5">
                     <div class="h-100 busqueda buscar d-flex align-items-center overflow-hidden m-0">
                         <form class="w-100 h-100 mb-0" action="/buscar" method="get" id="scart-search-form">
                             <div class="d-flex align-items-center h-100">
-                                <button class="ps-2" aria-label="Realizar búsqueda"><i class="fas fa-search"
-                                                                                       aria-hidden="true"></i></button>
-                                <input class="espacio-busqueda py-2 pe-1 h-100" type="search" id="search" name="q"
+
+                                <input class="espacio-busqueda ms-3 py-2 pe-1" type="search" id="search" name="q"
                                        placeholder="Buscar producto o categoría" value="">
+                                <button class="me-2 ps-2" aria-label="Realizar búsqueda"><i class="fas fa-search"
+                                                                                            aria-hidden="true"></i>
+                                </button>
                             </div>
                         </form>
                     </div>
                 </div>
-                <div class="col-6 col-sm-2 col-lg-2 col-xl-1">
-                    <div class="btn-cupones">
-                        <a href="#" class="text">
-                            <img alt=""src="../../assets/img/new/icon-ticket.png">
+                <div class="col-6 col-sm-2 col-lg-2 col-xl-2">
 
-                            <label >CUPONES</label>
+                    <a href="#" class="nav-link btn-cupones d-flex align-items-center justify-content-center flex-fill">
+                        <img alt="" style="width: 25px; height: 20px;" src="../../assets/img/new/icon-ticket.png">
+                        <label>CUPONES</label>
+                    </a>
 
-                        </a>
 
-                    </div>
                 </div>
 
                 <div class="col-6 col-sm-6 col-lg-2 col-xl-2">
@@ -86,7 +86,7 @@
                     </div>
                 </div>
                 <!--<div class="<? /*=isLoggedIn() ? 'col-6' : 'col-12 col-sm-3'*/ ?> col-lg-2 d-none d-md-block">-->
-                <div class="col-6 col-sm-6 col-xl-1 col-lg-2" >
+                <div class="col-6 col-sm-6 col-xl-1 col-lg-2">
                     <div class="h-100 iconos">
                         <a href="/notificaciones" aria-label="Ver mis notificaciones"><img height="18"
                                                                                            src="../../assets/img/new/icon-campana.svg"
@@ -111,13 +111,13 @@
                 </div>
             </div>
         </div>
-        <!-- Termino barra de busqueda -->
+        <!-- Termino barra de busqueda
 
         <div class="container d-md-none mt-2 pt-1 pb-0 navbar">
             <div class="boton-registrate-1 mx-auto w-100">
                 <a class="nav-link registrate mx-auto" href="/mis-carpetas">MIS CARPETAS</a>
             </div>
-        </div>
+        </div> -->
 
 
     </header>

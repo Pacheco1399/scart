@@ -171,8 +171,8 @@ nav .redes-sociales {
 
 .espacio-busqueda {
     border: none;
-    width: 100%
-
+    width: 100%;
+    height: 50px;
 }
 
 .espacio-busqueda:active {
@@ -3815,30 +3815,20 @@ header .como-funciona .btn {
 
 .btn-cupones {
 
-    width: 142px;
-    height: 34px;
-
-    background: linear-gradient(90deg, #FF9569 13.14%, #FF4A99 87.37%);
-    border-radius: 17px;
-}
-
-.btn-cupones .text {
-    position: absolute;
-    width: 98px;
-    height: 34px;
-    margin-left: 13.67px;
-
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 14px;
-    line-height: 21px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.055em;
+    width: 166px;
+    height: 50px;
+    margin-left: 50px;
+    background: linear-gradient(104.66deg, #FF635D 0%, #FA722C 99.25%);    border-radius: 10px;
     text-decoration: none;
+    font-family: 'Poppins';
+
+}
+.btn-cupones img{
+    margin-right: 16px;
+}
+.btn-cupones label{
     color: #FFFFFF;
+    cursor: pointer;
 }
 
 
@@ -5292,6 +5282,9 @@ header .como-funciona .btn {
 
 }
 
+/*INICIO HOME NUEVO*/
+
+/*FIN HOME NUEVO*/
 /*///////////////////////////////////////////FIN CUPÓN//////////////////////////////////////////////////////*/
 /*
  * Ãšltimos cambios:
