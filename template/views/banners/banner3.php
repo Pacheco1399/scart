@@ -65,6 +65,10 @@
                 <div class="col-xl-12 d-flex justify-content-center">
                     <img src="../../assets/img/new/image7.png" class="img-extension" alt="">
                 </div>
+
+                <div class="col-xl-12">
+
+                </div>
             </div>
         </div>
     </div>

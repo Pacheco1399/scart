@@ -59,12 +59,15 @@
 <body class="bg-light user-view">
 
 <main>
+    <div class="container">
 
-    <br>
-    <br>
-    <br>
-    <?php include("../views/banners/banner3.php"); ?>
+        <?php include("../views/products/carousel-new.php"); ?>
+        <br>
+        <br>
+        <br>
+        <?php include("../views/banners/banner3.php"); ?>
 
+    </div>
 
     <!-- <div class="container" style="width: 1310px"> -->
 
