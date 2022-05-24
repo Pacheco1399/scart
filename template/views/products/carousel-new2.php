@@ -27,7 +27,7 @@
                             <div class="product-card">
 
                                 <div class="header-product-card ">
-                                    <img class="img-product-card" src="../../assets/img/1.png" alt="">
+                                    <img class="img-product-card" src="../../assets/img/5.png" alt="">
                                     <div class="buttons-product-card">
 
                                         <div class="share-product-card">
@@ -96,7 +96,7 @@
 
                                     <div class=" description-product-card ">
                                         <p class="subtitle-product-card"> ABCDIN </p>
-                                        <p class="title-product-card"> Mouse inalámbrico M280 </p>
+                                        <p class="title-product-card"> Freidora De Aire TH-AF70DI Wifi </p>
 
                                     </div>
 
@@ -116,7 +116,7 @@
                             <div class="product-card">
 
                                 <div class="header-product-card ">
-                                    <img class="img-product-card" src="../../assets/img/2.png" alt="">
+                                    <img class="img-product-card" src="../../assets/img/6.png" alt="">
                                     <div class="buttons-product-card">
 
                                         <div class="share-product-card">
@@ -185,7 +185,7 @@
 
                                     <div class=" description-product-card ">
                                         <p class="subtitle-product-card"> ABCDIN </p>
-                                        <p class="title-product-card"> Mouse inalámbrico M280 </p>
+                                        <p class="title-product-card"> EXTRACTOR DE JUGO 800 W NEGRO </p>
 
                                     </div>
 
@@ -205,7 +205,7 @@
                             <div class="product-card">
 
                                 <div class="header-product-card ">
-                                    <img class="img-product-card" src="../../assets/img/3.png" alt="">
+                                    <img class="img-product-card" src="../../assets/img/7.png" alt="">
                                     <div class="buttons-product-card">
 
                                         <div class="share-product-card">
@@ -274,7 +274,7 @@
 
                                     <div class=" description-product-card ">
                                         <p class="subtitle-product-card"> ABCDIN </p>
-                                        <p class="title-product-card"> Mouse inalámbrico M280 </p>
+                                        <p class="title-product-card"> Batidora TH-910PR </p>
 
                                     </div>
 
@@ -294,7 +294,7 @@
                             <div class="product-card">
 
                                 <div class="header-product-card ">
-                                    <img class="img-product-card" src="../../assets/img/4.png" alt="">
+                                    <img class="img-product-card" src="../../assets/img/8.png" alt="">
                                     <div class="buttons-product-card">
 
                                         <div class="share-product-card">
@@ -363,7 +363,8 @@
 
                                     <div class=" description-product-card ">
                                         <p class="subtitle-product-card"> ABCDIN </p>
-                                        <p class="title-product-card"> Mouse inalámbrico M280 </p>
+                                        <p class="title-product-card"> Horno microondas digital
+                                            34 litros </p>
 
                                     </div>
 
@@ -383,7 +384,7 @@
                             <div class="product-card">
 
                                 <div class="header-product-card ">
-                                    <img class="img-product-card" src="../../assets/img/1.png" alt="">
+                                    <img class="img-product-card" src="../../assets/img/5.png" alt="">
                                     <div class="buttons-product-card">
 
                                         <div class="share-product-card">
@@ -452,7 +453,7 @@
 
                                     <div class=" description-product-card ">
                                         <p class="subtitle-product-card"> ABCDIN </p>
-                                        <p class="title-product-card"> Mouse inalámbrico M280 </p>
+                                        <p class="title-product-card"> Freidora De Aire TH-AF70DI Wifi </p>
 
                                     </div>
 
@@ -472,7 +473,7 @@
                             <div class="product-card">
 
                                 <div class="header-product-card ">
-                                    <img class="img-product-card" src="../../assets/img/2.png" alt="">
+                                    <img class="img-product-card" src="../../assets/img/6.png" alt="">
                                     <div class="buttons-product-card">
 
                                         <div class="share-product-card">
@@ -541,7 +542,7 @@
 
                                     <div class=" description-product-card ">
                                         <p class="subtitle-product-card"> ABCDIN </p>
-                                        <p class="title-product-card"> Mouse inalámbrico M280 </p>
+                                        <p class="title-product-card"> EXTRACTOR DE JUGO 800 W NEGRO </p>
 
                                     </div>
 
@@ -561,7 +562,7 @@
                             <div class="product-card">
 
                                 <div class="header-product-card ">
-                                    <img class="img-product-card" src="../../assets/img/3.png" alt="">
+                                    <img class="img-product-card" src="../../assets/img/7.png" alt="">
                                     <div class="buttons-product-card">
 
                                         <div class="share-product-card">
@@ -630,7 +631,7 @@
 
                                     <div class=" description-product-card ">
                                         <p class="subtitle-product-card"> ABCDIN </p>
-                                        <p class="title-product-card"> Mouse inalámbrico M280 </p>
+                                        <p class="title-product-card"> Batidora TH-910PR </p>
 
                                     </div>
 
@@ -650,7 +651,7 @@
                             <div class="product-card">
 
                                 <div class="header-product-card ">
-                                    <img class="img-product-card" src="../../assets/img/4.png" alt="">
+                                    <img class="img-product-card" src="../../assets/img/8.png" alt="">
                                     <div class="buttons-product-card">
 
                                         <div class="share-product-card">
@@ -719,7 +720,8 @@
 
                                     <div class=" description-product-card ">
                                         <p class="subtitle-product-card"> ABCDIN </p>
-                                        <p class="title-product-card"> Mouse inalámbrico M280 </p>
+                                        <p class="title-product-card"> Horno microondas digital
+                                            34 litros </p>
 
                                     </div>
 
@@ -736,6 +738,8 @@
                                 </div>
 
                             </div>
+
+
 
                     </div>
                     <button aria-label="Siguiente"

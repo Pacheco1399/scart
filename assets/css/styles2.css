@@ -1,3 +1,14 @@
+/*FIN HOME NUEVO*/
+/*///////////////////////////////////////////FIN CUPÓN//////////////////////////////////////////////////////*/
+/*
+ * Ãšltimos cambios:
+ * - header .carousel .carousel__elemento .botones-card, .contenido .carousel1__elemento .botones-card
+ * - header .carousel .carousel__elemento .producto
+ * - header .carousel .carousel__elemento, .contenido .carousel .carousel1__elemento
+ * - .contenido .carousel .carousel1__elemento .producto (1638)
+ * - header .carousel__elemento .dropdown .compartir:hover, header .carousel__elemento .dropdown .compartir:focus
+ */
+
 
 .product-card{
     max-width: 276px;
@@ -6,6 +17,7 @@
     border-radius: 20px;
     overflow: hidden;
     position: relative;
+    margin-left: 62px;
 }
 
 .buttons-product-card{
@@ -156,4 +168,19 @@
     border-left: 1px solid #E4E4E4;
     padding-left: 5px;
 
+}
+
+#boton-carousel-new{
+    position: absolute;
+    display: block;
+    width: 30px;
+    height: 30px;
+    border: none;
+    top: calc(60% - 35px);
+    cursor: pointer;
+    line-height: 30px;
+    text-align: center;
+    background: #FA4F73;!important
+color: #FFFFFF;
+    border-radius: 8px;
 }

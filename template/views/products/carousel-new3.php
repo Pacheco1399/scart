@@ -27,7 +27,7 @@
                             <div class="product-card">
 
                                 <div class="header-product-card ">
-                                    <img class="img-product-card" src="../../assets/img/1.png" alt="">
+                                    <img class="img-product-card" src="../../assets/img/9.png" alt="">
                                     <div class="buttons-product-card">
 
                                         <div class="share-product-card">
@@ -96,7 +96,7 @@
 
                                     <div class=" description-product-card ">
                                         <p class="subtitle-product-card"> ABCDIN </p>
-                                        <p class="title-product-card"> Mouse inalámbrico M280 </p>
+                                        <p class="title-product-card"> Minicomponente Cj45.Dchlllk </p>
 
                                     </div>
 
@@ -116,7 +116,7 @@
                             <div class="product-card">
 
                                 <div class="header-product-card ">
-                                    <img class="img-product-card" src="../../assets/img/2.png" alt="">
+                                    <img class="img-product-card" src="../../assets/img/10.png" alt="">
                                     <div class="buttons-product-card">
 
                                         <div class="share-product-card">
@@ -185,7 +185,7 @@
 
                                     <div class=" description-product-card ">
                                         <p class="subtitle-product-card"> ABCDIN </p>
-                                        <p class="title-product-card"> Mouse inalámbrico M280 </p>
+                                        <p class="title-product-card"> Audífonos LG Tone Free FP8 UV Nano Negro </p>
 
                                     </div>
 
@@ -205,7 +205,7 @@
                             <div class="product-card">
 
                                 <div class="header-product-card ">
-                                    <img class="img-product-card" src="../../assets/img/3.png" alt="">
+                                    <img class="img-product-card" src="../../assets/img/11.png" alt="">
                                     <div class="buttons-product-card">
 
                                         <div class="share-product-card">
@@ -274,7 +274,7 @@
 
                                     <div class=" description-product-card ">
                                         <p class="subtitle-product-card"> ABCDIN </p>
-                                        <p class="title-product-card"> Mouse inalámbrico M280 </p>
+                                        <p class="title-product-card"> Audifonos Resonanz On-Ear Negro Cable </p>
 
                                     </div>
 
@@ -294,7 +294,7 @@
                             <div class="product-card">
 
                                 <div class="header-product-card ">
-                                    <img class="img-product-card" src="../../assets/img/4.png" alt="">
+                                    <img class="img-product-card" src="../../assets/img/12.png" alt="">
                                     <div class="buttons-product-card">
 
                                         <div class="share-product-card">
@@ -363,7 +363,7 @@
 
                                     <div class=" description-product-card ">
                                         <p class="subtitle-product-card"> ABCDIN </p>
-                                        <p class="title-product-card"> Mouse inalámbrico M280 </p>
+                                        <p class="title-product-card"> Parlante Bluetooth Portatil LG XBOOM GO PL5 Meridian  </p>
 
                                     </div>
 
@@ -383,7 +383,7 @@
                             <div class="product-card">
 
                                 <div class="header-product-card ">
-                                    <img class="img-product-card" src="../../assets/img/1.png" alt="">
+                                    <img class="img-product-card" src="../../assets/img/9.png" alt="">
                                     <div class="buttons-product-card">
 
                                         <div class="share-product-card">
@@ -452,7 +452,7 @@
 
                                     <div class=" description-product-card ">
                                         <p class="subtitle-product-card"> ABCDIN </p>
-                                        <p class="title-product-card"> Mouse inalámbrico M280 </p>
+                                        <p class="title-product-card"> Minicomponente Cj45.Dchlllk </p>
 
                                     </div>
 
@@ -472,7 +472,7 @@
                             <div class="product-card">
 
                                 <div class="header-product-card ">
-                                    <img class="img-product-card" src="../../assets/img/2.png" alt="">
+                                    <img class="img-product-card" src="../../assets/img/10.png" alt="">
                                     <div class="buttons-product-card">
 
                                         <div class="share-product-card">
@@ -541,7 +541,7 @@
 
                                     <div class=" description-product-card ">
                                         <p class="subtitle-product-card"> ABCDIN </p>
-                                        <p class="title-product-card"> Mouse inalámbrico M280 </p>
+                                        <p class="title-product-card"> Audífonos LG Tone Free FP8 UV Nano Negro </p>
 
                                     </div>
 
@@ -561,7 +561,7 @@
                             <div class="product-card">
 
                                 <div class="header-product-card ">
-                                    <img class="img-product-card" src="../../assets/img/3.png" alt="">
+                                    <img class="img-product-card" src="../../assets/img/11.png" alt="">
                                     <div class="buttons-product-card">
 
                                         <div class="share-product-card">
@@ -630,7 +630,7 @@
 
                                     <div class=" description-product-card ">
                                         <p class="subtitle-product-card"> ABCDIN </p>
-                                        <p class="title-product-card"> Mouse inalámbrico M280 </p>
+                                        <p class="title-product-card"> Audifonos Resonanz On-Ear Negro Cable </p>
 
                                     </div>
 
@@ -650,7 +650,7 @@
                             <div class="product-card">
 
                                 <div class="header-product-card ">
-                                    <img class="img-product-card" src="../../assets/img/4.png" alt="">
+                                    <img class="img-product-card" src="../../assets/img/12.png" alt="">
                                     <div class="buttons-product-card">
 
                                         <div class="share-product-card">
@@ -719,7 +719,7 @@
 
                                     <div class=" description-product-card ">
                                         <p class="subtitle-product-card"> ABCDIN </p>
-                                        <p class="title-product-card"> Mouse inalámbrico M280 </p>
+                                        <p class="title-product-card"> Parlante Bluetooth Portatil LG XBOOM GO PL5 Meridian  </p>
 
                                     </div>
 
@@ -736,6 +736,7 @@
                                 </div>
 
                             </div>
+
 
                     </div>
                     <button aria-label="Siguiente"
