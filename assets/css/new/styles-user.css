@@ -14,7 +14,8 @@ header {
 }
 
 .parte-1 {
-    background: linear-gradient(90deg, #372CE6 0%, #0066FF 100%);}
+    background: linear-gradient(90deg, #372CE6 0%, #0066FF 100%);
+}
 
 /* Inico Parte 1 Header */
 
@@ -44,7 +45,8 @@ header {
     border-radius: 10px;
     padding: 5px;
 }
-.parte-1 .mis-carpetas i{
+
+.parte-1 .mis-carpetas i {
     margin-right: 16px;
 }
 
@@ -52,7 +54,7 @@ header {
 .parte-1 .mis-carpetas a {
     padding: 0px;
     font-weight: 600;
-    color: var( --color-azul);
+    color: var(--color-azul);
 }
 
 @media (max-width: 991.98px) {
@@ -292,7 +294,6 @@ p {
 }
 
 
-
 @media (max-width: 991.98px) {
     .wrapper-lt-lg-reverse {
         flex-wrap: wrap-reverse;
@@ -304,7 +305,6 @@ p {
     max-width: 100%;
     padding-bottom: calc(1rem - 5px);
 }
-
 
 
 .menu-lateral {
@@ -462,6 +462,7 @@ p {
 .parte-1 .iconos a img {
     margin: 0;
 }
+
 .parte-1 .iconos a:hover img {
     height: 20px;
     transform: scale(1.25);
@@ -482,7 +483,6 @@ p {
     /*.parte-1 .ofertas {
         justify-content: center;
     }*/
-
     .parte-1 .iconos a:last-child {
         margin-right: -1.25rem;
     }
@@ -544,7 +544,6 @@ p {
     /*#sidebar {
         padding-bottom: 0;
     }*/
-
     #sidebar .components {
         background-image: var(--degradado-azul);
         border-top: 1px solid #fff;
@@ -589,6 +588,7 @@ p {
 .menu-lateral .container hr {
     height: 2px;
 }
+
 /* END Sidebar */
 
 .bg-twitter {
@@ -637,6 +637,7 @@ h4.sidebar-collapse-toggler[aria-expanded=false] {
         cursor: text;
     }
 }
+
 /* END Sidebar collapsibles */
 
 /* START Blue horizontal product list */
@@ -785,6 +786,7 @@ h4.sidebar-collapse-toggler[aria-expanded=false] {
         display: none;
     }
 }
+
 /* END Blue horizontal product list */
 
 /* START Sort/Grid/List buttons */
@@ -810,6 +812,7 @@ h4.sidebar-collapse-toggler[aria-expanded=false] {
     height: 15px;
     transform: scale(1.13333);
 }
+
 /* END Sort/Grid/List buttons */
 
 /* START Section title */
@@ -855,6 +858,7 @@ h4.sidebar-collapse-toggler[aria-expanded=false] {
     border-radius: .45rem;
     background-image: var(--degradado-naranja);
 }
+
 /* END Section title */
 
 /* START carousel */
@@ -867,9 +871,10 @@ h4.sidebar-collapse-toggler[aria-expanded=false] {
 .panel-derecho .carousel .carousel1__siguiente i,
 .panel-derecho .carousel .glider-dot,
 .botones-card .dropdown button i,
-.panel-derecho .carousel .carousel1__elemento hr/*,
+.panel-derecho .carousel .carousel1__elemento hr /*,
 .panel-derecho .elemento .precios,
-.panel-derecho .carousel .carousel1__elemento .precios*/ {
+.panel-derecho .carousel .carousel1__elemento .precios*/
+{
     color: var(--color-naranja);
 }
 
@@ -967,6 +972,7 @@ h4.sidebar-collapse-toggler[aria-expanded=false] {
     max-width: 50px;
     object-fit: contain;
 }
+
 /* END carousel */
 
 /* START Folders/Folder/Search page */
@@ -983,6 +989,7 @@ h4.sidebar-collapse-toggler[aria-expanded=false] {
     margin-bottom: 0;
     border-radius: 20px 20px 0 0;
 }
+
 .panel-derecho .titulo-carpeta h5 {
     letter-spacing: 0;
     max-height: calc((var(--h5) * 1.2) * 1);
@@ -1044,6 +1051,7 @@ h4.sidebar-collapse-toggler[aria-expanded=false] {
     margin-right: -1px;
     margin-bottom: -1px;
 }
+
 /* END Folders/Folder/Search page */
 
 /* START Product page */
@@ -1153,6 +1161,7 @@ h4.sidebar-collapse-toggler[aria-expanded=false] {
 .panel-derecho .vista-producto button.toggles-product-notifications {
     z-index: 10;
 }
+
 /* END Product page */
 
 /* START Notification page */
@@ -1311,6 +1320,7 @@ h4.sidebar-collapse-toggler[aria-expanded=false] {
         border-left: 3px solid var(--color-naranja);
     }
 }
+
 /* END Notification page */
 
 /* START Profile page */
@@ -1365,6 +1375,7 @@ nav.edits-profile .boton-editar {
 .edits-profile .form-select:disabled {
     background-color: transparent;
 }
+
 .edits-profile fieldset:not(.ignore-disabled-styles) .form-control:disabled,
 .edits-profile fieldset:not(.ignore-disabled-styles) .form-control:disabled::placeholder,
 .edits-profile fieldset:not(.ignore-disabled-styles) .form-select:disabled {
@@ -1403,6 +1414,7 @@ nav.edits-profile .boton-editar {
     background-color: rgba(255, 255, 255, .8);
     z-index: 1000;
 }
+
 /* END Profile page */
 
 /* START Edit profile page */
@@ -1410,6 +1422,21 @@ nav.edits-profile .boton-editar {
     word-break: break-word;
     hyphens: auto;
 }
+
+@media (min-width: 320px) and (max-width: 767px) {
+    .parte-1 .busqueda {
+        border-radius: 100px;
+        width: 100%;
+        background: #ffff;
+        padding-left: 0px;
+    }
+    .btn-cupones{
+        width: 100%;
+        height: 100%;
+        margin-left: 0px;
+    }
+}
+
 /* END Edit profile page */
 
 /*INICIO HOME NUEVO*/

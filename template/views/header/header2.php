@@ -48,14 +48,14 @@
         <!-- Inicio barra de busqueda -->
         <div class="container">
             <div class="row gx-3 gx-md-4 gy-3">
-                <div class="col-12 col-sm-3 col-lg-2 col-xl-2 d-none d-md-flex">
+                <div class="col-12 col-sm-3 col-lg-2 col-xl-2 d-md-flex">
                     <a class="nav-link mis-carpetas d-flex align-items-center justify-content-center flex-fill"
                        href="/mis-carpetas">
                         <i class="far fa-folder"></i>
                         MIS CARPETAS
                     </a>
                 </div>
-                <div class="col-6 col-sm-7 col-lg-4 col-xl-5">
+                <div class="col-12 col-sm-7 col-lg-4 col-xl-5">
                     <div class="h-100 busqueda buscar d-flex align-items-center overflow-hidden m-0">
                         <form class="w-100 h-100 mb-0" action="/buscar" method="get" id="scart-search-form">
                             <div class="d-flex align-items-center h-100">
@@ -69,7 +69,7 @@
                         </form>
                     </div>
                 </div>
-                <div class="col-6 col-sm-2 col-lg-2 col-xl-2">
+                <div class="col-12 col-sm-2 col-lg-2 col-xl-2">
 
                     <a href="#" class="nav-link btn-cupones d-flex align-items-center justify-content-center flex-fill">
                         <img alt="" style="width: 25px; height: 20px;" src="../../assets/img/new/icon-ticket.png">

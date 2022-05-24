@@ -62,6 +62,7 @@
 
     <!-- <div class="container" style="width: 1310px"> -->
     <div class="container">
+        <?php include("../views/banners/banner3.php"); ?>
 
     </div>
 
