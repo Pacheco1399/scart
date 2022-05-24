@@ -62,9 +62,7 @@
     <div class="container">
 
         <?php include("../views/products/carousel-new.php"); ?>
-        <br>
-        <br>
-        <br>
+
         <?php include("../views/banners/banner3.php"); ?>
 
     </div>

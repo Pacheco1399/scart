@@ -1,7 +1,7 @@
 <div class="card-banner">
     <div class="row">
-        <div class="col-xl-8">
-            <div class="col-12 mb-3">
+        <div class="col-xl-8" style="width: 768px">
+            <div class="col-12 mb-4">
                 <label class="cb-title">¿Top Brands?</label>
             </div>
             <div class="col-12">
@@ -11,7 +11,7 @@
                     momento para comprar.
                 </label>
             </div>
-            <div class="row mb-4 ms-1">
+            <div class="row">
 
                 <div class="col-xl-4 banner-box">
                     <div class="col-xl-12 mb-4">
@@ -40,7 +40,7 @@
 
             </div>
             <div class="col-xl-12">
-                <label class="cb-subtitle">
+                <label class="cb-subtitle2">
                     Regístrate en SCART para crear tu carro de compras,
                     guardar productos y recibir notificaciones cada vez que
                     encontremos bajas de precios o cupones de descuento para tu selección de productos.
@@ -67,7 +67,21 @@
                 </div>
 
                 <div class="col-xl-12">
+                    <div class="extension-banner">
+                        <label>
+                            Conoce nuestra extensión y guarda productos con un click.
+                        </label>
+                        <div class="row d-flex justify-content-center">
+                            <div class="col-1">
+                                <img src="../../assets/img/new/chrome.png" alt="">
 
+                            </div>
+                            <div class="col-1 ms-2">
+                                <img src="../../assets/img/new/firefox.png" alt="">
+
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
