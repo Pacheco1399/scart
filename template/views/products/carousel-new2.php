@@ -105,7 +105,7 @@
 
                                     <div class=" price-product-card ">
                                         <img class="label-price-product-card" src="../../assets/img/abcdin.png" alt="">
-
+                                        <p class="separator">  </p>
                                         <div class="price-product-card">
                                             <p class="price-product-card-text">$8.990</p>
                                             <img class="label-price-product-card" src="../../assets/img/greenarrow.png" alt="">
@@ -197,7 +197,7 @@
 
                                     <div class=" price-product-card ">
                                         <img class="label-price-product-card" src="../../assets/img/abcdin.png" alt="">
-
+                                        <p class="separator">  </p>
                                         <div class="price-product-card">
                                             <p class="price-product-card-text">$8.990</p>
                                             <img class="label-price-product-card" src="../../assets/img/greenarrow.png" alt="">
@@ -289,7 +289,7 @@
 
                                     <div class=" price-product-card ">
                                         <img class="label-price-product-card" src="../../assets/img/abcdin.png" alt="">
-
+                                        <p class="separator">  </p>
                                         <div class="price-product-card">
                                             <p class="price-product-card-text">$8.990</p>
                                             <img class="label-price-product-card" src="../../assets/img/greenarrow.png" alt="">
@@ -382,7 +382,7 @@
 
                                     <div class=" price-product-card ">
                                         <img class="label-price-product-card" src="../../assets/img/abcdin.png" alt="">
-
+                                        <p class="separator">  </p>
                                         <div class="price-product-card">
                                             <p class="price-product-card-text">$8.990</p>
                                             <img class="label-price-product-card" src="../../assets/img/greenarrow.png" alt="">

@@ -5738,7 +5738,8 @@ header .como-funciona .btn {
     height: 40px;
     width: 40px;
     border-radius: 8px;
-    backdrop-filter: blur(4px);
+    backdrop-filter: blur(5px);
+    background: rgba(255, 255, 255, 0.7);
 }
 
 .share-button .compartir {
@@ -5746,7 +5747,7 @@ header .como-funciona .btn {
 }
 .menu-button{
     position: absolute;
-    right: 21px;
+    right: 0px;
 }
 
 
@@ -5870,10 +5871,9 @@ header .como-funciona .btn {
     flex: none;
     order: 1;
     flex-grow: 0;
-    border-left: 1px solid #E4E4E4;
-    padding-left: 5px;
 
 }
+
 
 
 
@@ -5947,4 +5947,23 @@ header .como-funciona .btn {
     font-size: 18px;
     line-height: 30px;
     color: #FFFFFF;
+}
+.separator{
+    height: 25px;
+    border: 1px solid #E4E4E4;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.fa-share-alt{
+    position: absolute;
+    left: 5px;
+
+}
+
+.fa-ellipsis-v{
+    position: absolute;
+    left: 5px;
+
 }
