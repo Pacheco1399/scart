@@ -5599,10 +5599,11 @@ header .como-funciona .btn {
     width: 412px;
     height: 50px;
     background: #FFFFFF;
-
-    border-color: #FFFFFF;
+    outline: none;
+    border: none;
     border-radius: 10px;
     overflow: scroll;
+    line-height: 22px;
 }
 .ext-input::placeholder{
     font-family: 'Poppins';
@@ -5618,14 +5619,88 @@ header .como-funciona .btn {
 .ext-btn{
     width: 170px;
     height: 50px;
-    left: 783px;
-    top: 3577px;
-
+    margin-left: 16px;
     /* White */
 
     background: #FFFFFF;
     border-radius: 10px;
+    border: none;
 }
+.ext-btn span{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.055em;
+    color: #FA722C;
+
+}
+.ext-video{
+    border-radius: 20px;
+    width:587px;
+    height:329px;
+}
+.ext-box{
+    box-sizing: border-box;
+    width: 100%;
+    /*width: 594px;*/
+    height: 86px;
+    position: relative;
+    margin-top: 26px;
+    /* White */
+
+    border: 2px solid #FFFFFF;
+    border-radius: 10px;
+}
+.ext-box img{
+
+    position: absolute;
+    left: 24px;
+    top: 21px;
+
+}
+.ext-box .line{
+    position: absolute;
+    width: 0px;
+    height: 53px;
+    left: 137px;
+    top: 17px;
+    border: 1px solid #FFFFFF;
+}
+.ext-box label{
+    position: absolute;
+    width: 428px;
+    left: 151px;
+    top: 17px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+
+    font-size: 18px;
+    line-height: 27px;
+
+    /* White */
+
+    color: #FFFFFF;
+}
+.ext-box .numero{
+    position: absolute;
+    background: #FFFFFF;
+    width: 24px;
+    height: 24px;
+    left: 577px;
+    bottom: 72px;
+
+    border-radius: 50%;
+}
+.ext-box .numero p{
+    color: #FE635B;
+}
+
 /*FIN HOME NUEVO*/
 /*///////////////////////////////////////////FIN CUPÓN//////////////////////////////////////////////////////*/
 /*

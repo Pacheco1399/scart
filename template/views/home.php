@@ -63,10 +63,7 @@
 
         <?php include("../views/products/carousel-new.php"); ?>
 
-
-        <br>
-        <br>
-        <br>
+        <?php include("../views/banners/banner3.php"); ?>
         <?php include("../views/banners/banner9.php"); ?>
         <?php include("../views/products/categorias.php"); ?>
         <?php include("../views/products/extension.php"); ?>

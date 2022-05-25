@@ -18,8 +18,6 @@
                                  data-slides-per-page-sm="3" data-slides-per-page-xl="6">
 
 
-
-
                                 <?php include("../views/products/cardBrand.php"); ?>
                                 <?php include("../views/products/cardBrand.php"); ?>
                                 <?php include("../views/products/cardBrand.php"); ?>
@@ -31,10 +29,6 @@
                                 <?php include("../views/products/cardBrand.php"); ?>
                                 <?php include("../views/products/cardBrand.php"); ?>
                                 <?php include("../views/products/cardBrand.php"); ?>
-
-
-
-
 
 
                             </div>
@@ -52,7 +46,7 @@
         </div>
 
 
-        </div>
     </div>
 </div>
+
 
