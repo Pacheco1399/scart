@@ -18,7 +18,7 @@
                             id="boton-carousel-new"
                             class=" carousel1__anterior position-absolute  top-50 start-0 translate-middle-y"
                             style="z-index: 2">
-                        <i class="fas fa-chevron-left fs-3"></i>
+                        <i id="icon-carousel" class="fas fa-chevron-left fs-3"></i>
                     </button>
                     <div class="glider-wrap px-4">
                         <div class="carousel1__lista pt-2 pb-1" data-slides-per-page="2"
@@ -743,7 +743,7 @@
                     <button aria-label="Siguiente"
                             class="carousel1__siguiente position-absolute top-50 end-0 translate-middle-y"
                             style="z-index: 2">
-                        <i class="fas fa-chevron-right fs-3"></i>
+                        <i id="icon-carousel" class="fas fa-chevron-right fs-3"></i>
                     </button>
                 </div>
             </div>
