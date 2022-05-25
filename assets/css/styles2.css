@@ -1,16 +1,6 @@
-/*FIN HOME NUEVO*/
-/*///////////////////////////////////////////FIN CUPÓN//////////////////////////////////////////////////////*/
-/*
- * Ãšltimos cambios:
- * - header .carousel .carousel__elemento .botones-card, .contenido .carousel1__elemento .botones-card
- * - header .carousel .carousel__elemento .producto
- * - header .carousel .carousel__elemento, .contenido .carousel .carousel1__elemento
- * - .contenido .carousel .carousel1__elemento .producto (1638)
- * - header .carousel__elemento .dropdown .compartir:hover, header .carousel__elemento .dropdown .compartir:focus
- */
 
 
-.product-card{
+.product-card {
     max-width: 276px;
     max-height: 362px;
     border: 1px solid #E0E0E0;
@@ -20,7 +10,7 @@
     margin-left: 62px;
 }
 
-.buttons-product-card{
+.buttons-product-card {
     margin-top: 16px;
     margin-left: 16px;
     margin-right: 16px;
@@ -56,17 +46,12 @@
 }
 
 
-
-
-
-
-.label-sale-product{
+.label-sale-product {
 
     left: 16px;
     position: absolute;
     width: 131px;
     height: 42px;
-    left: 16px;
     top: 164px;
     background: rgba(254, 99, 91, 0.9);
     /* Note: backdrop-filter has minimal browser support */
@@ -74,7 +59,7 @@
     z-index: 2;
 }
 
-.label-sale-text-product{
+.label-sale-text-product {
     width: 107px;
     height: 32px;
     font-family: 'Poppins';
@@ -93,8 +78,7 @@
 }
 
 
-
-.footer-product-card{
+.footer-product-card {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -109,7 +93,8 @@
     flex-grow: 0;
 
 }
-.description-product-card{
+
+.description-product-card {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -120,7 +105,8 @@
     order: 0;
     flex-grow: 0;
 }
-.subtitle-product-card{
+
+.subtitle-product-card {
     width: 38px;
     height: 15px;
 
@@ -138,7 +124,8 @@
     flex-grow: 0;
 
 }
-.title-product-card{
+
+.title-product-card {
     width: 242px;
     height: 48px;
     font-family: 'Poppins';
@@ -154,7 +141,7 @@
     flex-grow: 0;
 }
 
-.price-product-card{
+.price-product-card {
     display: flex;
     flex-direction: row;
     align-items: flex-start;
@@ -170,17 +157,29 @@
 
 }
 
+
+
+.carousel-brands{
+    max-width: 1290px;
+    max-height: 148px;
+    left: 315px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+
+}
+
+.carousel-brands-card{
+    margin-top: 12px;
+    margin-bottom: 24px;
+
+}
 #boton-carousel-new{
-    position: absolute;
-    display: block;
-    width: 30px;
-    height: 30px;
+    color: orange;
     border: none;
-    top: calc(60% - 35px);
-    cursor: pointer;
-    line-height: 30px;
-    text-align: center;
-    background: #FA4F73;!important
-color: #FFFFFF;
-    border-radius: 8px;
+    background: none;
+}
+#icon-carousel {
+    color: #FE635B;
+
+
 }
