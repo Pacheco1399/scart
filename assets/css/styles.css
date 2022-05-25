@@ -5280,7 +5280,13 @@ header .como-funciona .btn {
         margin-top: 16px;
     }
 
+    /*INICIO DIEGO*/
 
+    /*FIN DIEGO*/
+
+    /*INICIO SANTI*/
+
+    /*FIN SANTI*/
 }
 
 /*INICIO HOME NUEVO*/
@@ -5763,7 +5769,6 @@ header .como-funciona .btn {
     color: #FFFFFF;
 }
 .con-icon{
-    background-image: url("../../assets/img/new/icon-name.png");
 }
 
 .con-card{
@@ -5790,15 +5795,28 @@ header .como-funciona .btn {
     color: #FFFFFF;
 
 }
-.content .con-input{
+.content .con-name{
     width: 648px;
     height: 60px;
     margin-bottom: 24px;
     background: #FFFFFF;
     border-radius: 16px;
+    text-indent: 50px;
 }
-.content .con-message::placeholder,
-.content .con-input::placeholder{
+.content .con-mail{
+    width: 648px;
+    height: 60px;
+    margin-bottom: 24px;
+    background: #FFFFFF;
+    border-radius: 16px;
+    text-indent: 50px;
+
+}
+.content .con-name::placeholder{
+    background-image: url("../../assets/img/new/icon-name.png");
+    background-repeat: no-repeat;
+    background-position: 12px;
+    margin-left: 10px;
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
@@ -5809,6 +5827,33 @@ header .como-funciona .btn {
 
     color: #BBBBC5;
 }
+.content .con-mail::placeholder{
+    background-image: url("../../assets/img/new/icon-mail.png");
+    background-repeat: no-repeat;
+    background-position: 12px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    /* identical to box height, or 178% */
+
+
+    color: #BBBBC5;
+}
+.content .con-message::placeholder {
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    /* identical to box height, or 178% */
+
+
+    color: #BBBBC5;
+}
+
 .content .con-message{
     margin-bottom: 32px;
     width: 648px;

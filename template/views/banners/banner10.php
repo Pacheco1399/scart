@@ -39,13 +39,13 @@
             <div class="col-xl-12">
                 <div class="con-icon">
                     <label class="text">Your name
-                        <input class="con-input form-control" type="text" placeholder="Full name here">
+                        <input class="con-name form-control" type="text" placeholder="Full name here">
                     </label>
                 </div>
             </div>
             <div class="col-xl-12">
                 <label class="text">Your mail
-                    <input class="con-input form-control" type="email" placeholder="Your email address">
+                    <input class="con-mail form-control" type="email" placeholder="Your email address">
                 </label>
             </div>
             <div class="col-xl-12">
