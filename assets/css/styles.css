@@ -152,7 +152,7 @@ nav .redes-sociales {
 }
 
 .busqueda {
-    border-radius: 100px;
+    border-radius: 10px;
     width: 100%;
     background: #ffff;
 }
@@ -162,7 +162,7 @@ nav .redes-sociales {
 }
 
 .buscar {
-    border-radius: 100px;
+    border-radius: 10px;
     text-align: center;
     margin: 5px;
     font-size: 12px;
@@ -1008,6 +1008,7 @@ footer .scart-redes .redes img {
     .parte-1 .navbar .navbar-toggler {
         color: white;
         border-color: #fff;
+        height: 40px;
     }
 
     nav .redes-sociales {
@@ -2579,6 +2580,8 @@ header .carousel .carousel__elemento,
     .parte-1 .inicio-smart .inicio-sesion .card-body {
         padding: 1.25rem 1rem;
     }
+
+
 }
 
 @media (min-width: 768px) {
@@ -2590,6 +2593,8 @@ header .carousel .carousel__elemento,
     .smart-shopping-scart .dias {
         padding-left: 30px;
     }
+
+
 }
 
 @media (min-width: 992px) {
@@ -2792,6 +2797,7 @@ header .carousel .carousel__elemento,
 
 /*FIN MEDIDAS VISTA2*/
 @media (min-width: 1200px) {
+
 
 
     nav .logo {
@@ -3806,7 +3812,7 @@ header .como-funciona .btn {
 
     color: #FA4F73;
 }
-
+.btn-register,
 .btn-cupones {
 
     width: 166px;
@@ -3819,10 +3825,13 @@ header .como-funciona .btn {
 
 }
 
+
+
 .btn-cupones img {
     margin-right: 16px;
 }
 
+.btn-register label,
 .btn-cupones label {
     color: #FFFFFF;
     cursor: pointer;
@@ -5286,8 +5295,70 @@ header .como-funciona .btn {
 
     /*INICIO SANTI*/
 
+/* (min-width: 320px) and (max-width: 767px)           375!!!!   */
+    .offers,
+    .carpetas,
+    .cupones,
+    .user-panel,
+    #boton-carousel-new-prev,
+    #boton-carousel-new-next {
+    display: none;
+    }
+
+    .register-text{
+        display: block;
+        background: linear-gradient(104.66deg, #FF635D 0%, #FA722C 99.25%);
+        color: #fff;
+        font-weight: 550;
+        letter-spacing: 1.25px;
+        font-size: 16px;
+        text-align: center;
+        border-radius: 10px;
+        padding: 5px;
+    }
+
+
+    .busqueda,
+    .buscar{
+        border-radius: 10px;!important;
+    }
+
+    .parte-1{
+        border-radius: 10px;
+    }
+
+    .login-icon-button{
+        width: 50px;
+        height: 50px;
+        color: #FFFFFF;
+        background: rgba(255, 255, 255, 0.5);
+        border-radius: 10px;
+        border: none;
+
+    }
+    /*  CAMBIAR AL PRINCIPAL */
+    /* .login-button{
+        display: none;
+    }  */
+
+
+
     /*FIN SANTI*/
 }
+/* ICONO LOGIN*/
+
+
+.login-icon-button{
+    width: 50px;
+    height: 50px;
+    color: #FFFFFF;
+    background: rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
+    border: none;
+
+}
+
+
 
 /*INICIO HOME NUEVO*/
 .card-banner {
