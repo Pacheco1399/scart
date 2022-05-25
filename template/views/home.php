@@ -62,12 +62,18 @@
     <div class="container">
 
         <?php include("../views/products/carousel-new.php"); ?>
-
+        <?php include("../views/products/carousel-new2.php"); ?>
         <?php include("../views/banners/banner3.php"); ?>
+        <hr>
+        <hr>
         <?php include("../views/banners/banner9.php"); ?>
         <?php include("../views/products/categorias.php"); ?>
         <?php include("../views/products/extension.php"); ?>
-        <?php include("../views/products/carousel-new.php"); ?>
+
+        <?php include("../views/products/carousel-new3.php"); ?>
+        <?php include("../views/products/carousel-new4.php"); ?>
+        <?php include("../views/products/carousel-new5.php"); ?>
+
         <?php include("../views/banners/banner10.php"); ?>
 
     </div>

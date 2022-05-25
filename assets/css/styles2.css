@@ -1,3 +1,13 @@
+/*FIN HOME NUEVO*/
+/*///////////////////////////////////////////FIN CUPÓN//////////////////////////////////////////////////////*/
+/*
+ * Ãšltimos cambios:
+ * - header .carousel .carousel__elemento .botones-card, .contenido .carousel1__elemento .botones-card
+ * - header .carousel .carousel__elemento .producto
+ * - header .carousel .carousel__elemento, .contenido .carousel .carousel1__elemento
+ * - .contenido .carousel .carousel1__elemento .producto (1638)
+ * - header .carousel__elemento .dropdown .compartir:hover, header .carousel__elemento .dropdown .compartir:focus
+ */
 
 
 .product-card {
@@ -7,7 +17,7 @@
     border-radius: 20px;
     overflow: hidden;
     position: relative;
-    margin-left: 62px;
+    margin-right: 50px;
 }
 
 .buttons-product-card {
@@ -25,12 +35,18 @@
     height: 40px;
     width: 40px;
     border-radius: 8px;
-    backdrop-filter: blur(4px);
+    backdrop-filter: blur(5px);
+    background: rgba(255, 255, 255, 0.7);
 }
 
 .share-button .compartir {
     color: #FE635B;
 }
+.menu-button{
+    position: absolute;
+    right: 0px;
+}
+
 
 .share-button .redes {
     position: relative;
@@ -152,10 +168,9 @@
     flex: none;
     order: 1;
     flex-grow: 0;
-    border-left: 1px solid #E4E4E4;
-    padding-left: 5px;
 
 }
+
 
 
 
@@ -173,13 +188,79 @@
     margin-bottom: 24px;
 
 }
-#boton-carousel-new{
-    color: orange;
-    border: none;
-    background: none;
+#boton-carousel-new-prev{
+    background: #FE635B;
+    width: 42px;
+    height: 42px;
+    left: -84px;
+    border-radius: 10px;
 }
-#icon-carousel {
-    color: #FE635B;
 
+#boton-carousel-new-next{
+    background: #FE635B;
+    width: 42px;
+    height: 42px;
+    border-radius: 10px;
+    right: -74px;
+}
+#icon-carousel{
+    position: absolute;
+    color: #FFFFFf;
+    right: 15px;
+    background-color: #FE635B;
+}
+
+
+
+
+.contact-card{
+    padding: 40px 40px 6px 40px;
+    max-width: 1040px;
+    max-height: 716px;
+    background: linear-gradient(90deg, #372CE6 0%, #0066FF 100%);
+    border-radius: 20px;
+}
+
+.contact-info-card{
+    max-width: 546px;
+    max-height: 600px;
+    padding: 40px 40px 6px 40px;
+    background: linear-gradient(104.66deg, #FF635D 0%, #FA722C 99.25%);
+    border-radius: 30px;
+}
+
+.contact-info-card h2{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 60px;
+    color: #FFFFFF;
+}
+.contact-info-card p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+.separator{
+    height: 25px;
+    border: 1px solid #E4E4E4;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.fa-share-alt{
+    position: absolute;
+    left: 5px;
+
+}
+
+.fa-ellipsis-v{
+    position: absolute;
+    left: 5px;
 
 }
