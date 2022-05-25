@@ -5486,7 +5486,7 @@ header .como-funciona .btn {
     box-sizing: border-box;
     padding: 20px 24px 24px 24px;
     width: 614px;
-    height: 614px;
+    height: 100%;
 
     background: #FFFFFF;
     border-bottom: 1px solid #E4E4E4;
