@@ -129,7 +129,7 @@
                                     <img class="img-product-card" src="../../assets/img/2.png" alt="">
                                     <div class="buttons-product-card">
 
-                                        <div class="share-product-card">
+                                        <div class="row share-product-card">
 
                                             <div class="share-button">
                                                 <div class="dropdown">
@@ -172,14 +172,17 @@
                                                 </div>
                                             </div>
 
-                                            <div class="share-button">
+                                            <div class="share-button menu-button">
                                                 <div class="dropdown">
                                                     <button class="btn compartir" type="button"
                                                             id="" data-bs-toggle="dropdown"
                                                             aria-expanded="false">
-                                                        <i class="fa-solid fa-ellipsis-vertical"></i>
+                                                        <i class="fas fa-ellipsis-v" aria-hidden="true"></i>
                                                         <span class="visually-hidden">Compartir ítem en redes sociales</span>
                                                     </button>
+                                                    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="product31780-actions-dropdown">
+                                                        <li><a class="dropdown-item goto-product" href="https://scart.cl/producto/31780-rack-murillo-cerezo">Ver más detalles</a></li>                            <li><a class="dropdown-item" href="https://scart.cl/buscar/Abcdin">Ver más productos de la tienda</a></li>
+                                                    </ul>
                                                 </div>
                                             </div>
 
@@ -225,7 +228,7 @@
                                     <img class="img-product-card" src="../../assets/img/3.png" alt="">
                                     <div class="buttons-product-card">
 
-                                        <div class="share-product-card">
+                                        <div class=" row share-product-card">
 
                                             <div class="share-button">
                                                 <div class="dropdown">
@@ -268,14 +271,17 @@
                                                 </div>
                                             </div>
 
-                                            <div class="share-button">
+                                            <div class="share-button menu-button">
                                                 <div class="dropdown">
                                                     <button class="btn compartir" type="button"
                                                             id="" data-bs-toggle="dropdown"
                                                             aria-expanded="false">
-                                                        <i class="fa-solid fa-ellipsis-vertical"></i>
+                                                        <i class="fas fa-ellipsis-v" aria-hidden="true"></i>
                                                         <span class="visually-hidden">Compartir ítem en redes sociales</span>
                                                     </button>
+                                                    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="product31780-actions-dropdown">
+                                                        <li><a class="dropdown-item goto-product" href="https://scart.cl/producto/31780-rack-murillo-cerezo">Ver más detalles</a></li>                            <li><a class="dropdown-item" href="https://scart.cl/buscar/Abcdin">Ver más productos de la tienda</a></li>
+                                                    </ul>
                                                 </div>
                                             </div>
 
@@ -321,7 +327,7 @@
                                     <img class="img-product-card" src="../../assets/img/4.png" alt="">
                                     <div class="buttons-product-card">
 
-                                        <div class="share-product-card">
+                                        <div class="row share-product-card">
 
                                             <div class="share-button">
                                                 <div class="dropdown">
@@ -364,14 +370,17 @@
                                                 </div>
                                             </div>
 
-                                            <div class="share-button">
+                                            <div class="share-button menu-button">
                                                 <div class="dropdown">
                                                     <button class="btn compartir" type="button"
                                                             id="" data-bs-toggle="dropdown"
                                                             aria-expanded="false">
-                                                        <i class="fa-solid fa-ellipsis-vertical"></i>
+                                                        <i class="fas fa-ellipsis-v" aria-hidden="true"></i>
                                                         <span class="visually-hidden">Compartir ítem en redes sociales</span>
                                                     </button>
+                                                    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="product31780-actions-dropdown">
+                                                        <li><a class="dropdown-item goto-product" href="https://scart.cl/producto/31780-rack-murillo-cerezo">Ver más detalles</a></li>                            <li><a class="dropdown-item" href="https://scart.cl/buscar/Abcdin">Ver más productos de la tienda</a></li>
+                                                    </ul>
                                                 </div>
                                             </div>
 
