@@ -67,6 +67,8 @@
         <?php include("../views/banners/banner9.php"); ?>
         <?php include("../views/products/categorias.php"); ?>
         <?php include("../views/products/extension.php"); ?>
+        <?php include("../views/products/carousel-new.php"); ?>
+        <?php include("../views/banners/banner10.php"); ?>
 
     </div>
 
