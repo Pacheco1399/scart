@@ -16,8 +16,8 @@
             <div class="carousel1__contenedor">
                 <div class="carousel position-relative carousel1__indicadores landing-carousel">
                     <button aria-label="Anterior"
-                            id="boton-carousel-new"
-                            class=" carousel1__anterior position-absolute  top-50 start-0 translate-middle-y"
+                            id="boton-carousel-new-prev"
+                            class=" carousel1__anterior position-absolute  top-50  translate-middle-y"
                             style="z-index: 2">
                         <i id="icon-carousel" class="fas fa-chevron-left fs-3"></i>
                     </button>
@@ -30,7 +30,7 @@
                                     <img class="img-product-card" src="../../assets/img/1.png" alt="">
                                     <div class="buttons-product-card">
 
-                                        <div class="share-product-card">
+                                        <div class="row share-product-card">
 
                                             <div class="share-button">
                                                 <div class="dropdown">
@@ -73,14 +73,17 @@
                                                 </div>
                                             </div>
 
-                                            <div class="share-button">
+                                            <div class="share-button menu-button">
                                                 <div class="dropdown">
                                                     <button class="btn compartir" type="button"
                                                             id="" data-bs-toggle="dropdown"
                                                             aria-expanded="false">
-                                                        <i class="fa-solid fa-ellipsis-vertical"></i>
+                                                        <i class="fas fa-ellipsis-v" aria-hidden="true"></i>
                                                         <span class="visually-hidden">Compartir ítem en redes sociales</span>
                                                     </button>
+                                                    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="product31780-actions-dropdown">
+                                                        <li><a class="dropdown-item goto-product" href="https://scart.cl/producto/31780-rack-murillo-cerezo">Ver más detalles</a></li>                            <li><a class="dropdown-item" href="https://scart.cl/buscar/Abcdin">Ver más productos de la tienda</a></li>
+                                                    </ul>
                                                 </div>
                                             </div>
 
@@ -411,7 +414,8 @@
 
                         </div>
                         <button aria-label="Siguiente"
-                                class="carousel1__siguiente position-absolute top-50 end-0 translate-middle-y"
+                                id="boton-carousel-new-next"
+                                class="carousel1__siguiente position-absolute top-50 translate-middle-y"
                                 style="z-index: 2">
                             <i id="icon-carousel" class="fas fa-chevron-right fs-3"></i>
                         </button>
