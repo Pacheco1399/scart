@@ -5720,7 +5720,7 @@ header .como-funciona .btn {
     border-radius: 20px;
     overflow: hidden;
     position: relative;
-    margin-left: 62px;
+    margin-right: 50px;
 }
 
 .buttons-product-card {
@@ -5895,7 +5895,7 @@ header .como-funciona .btn {
     background: #FE635B;
     width: 42px;
     height: 42px;
-    left: -20px;
+    left: -84px;
     border-radius: 10px;
 }
 
@@ -5904,7 +5904,7 @@ header .como-funciona .btn {
     width: 42px;
     height: 42px;
     border-radius: 10px;
-    right: -20px;
+    right: -84px;
 }
 #icon-carousel{
     position: absolute;
