@@ -5894,3 +5894,39 @@ header .como-funciona .btn {
 #icon-carousel{
     color: #FE635B;
 }
+
+
+
+
+.contact-card{
+    padding: 40px 40px 6px 40px;
+    max-width: 1040px;
+    max-height: 716px;
+    background: linear-gradient(90deg, #372CE6 0%, #0066FF 100%);
+    border-radius: 20px;
+}
+
+.contact-info-card{
+    max-width: 546px;
+    max-height: 600px;
+    padding: 40px 40px 6px 40px;
+    background: linear-gradient(104.66deg, #FF635D 0%, #FA722C 99.25%);
+    border-radius: 30px;
+}
+
+.contact-info-card h2{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 60px;
+    color: #FFFFFF;
+}
+.contact-info-card p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
