@@ -6212,7 +6212,7 @@ header .como-funciona .btn {
 .ex-title{
     width: 486px;
     height: 162px;
-    margin-top: 122px;
+    margin-top: 70px;
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
@@ -6226,7 +6226,7 @@ header .como-funciona .btn {
     flex-grow: 0;
 }
 .ex-subtitle{
-    width: 524px;
+    width: 100%;
     height: 81px;
     margin-top: 16px;
     font-family: 'Poppins';
@@ -6241,10 +6241,9 @@ header .como-funciona .btn {
     flex-grow: 0;
 }
 .ex-img{
-    width: 724px;
+    width: 100%;
     height: 406px;
-    margin-left: 19px;
-    margin-top: 48px;
+    margin-bottom: 19px;
 }
 /*FIN HOME NUEVO*/
 /*///////////////////////////////////////////FIN CUPÓN//////////////////////////////////////////////////////*/
@@ -6423,8 +6422,6 @@ header .como-funciona .btn {
 
 
 .carousel-brands{
-    max-width: 1290px;
-    max-height: 148px;
     border-radius: 20px;
 
 }
@@ -6440,6 +6437,7 @@ header .como-funciona .btn {
     height: 42px;
     left: -84px;
     border-radius: 10px;
+    border: none;
 }
 
 #boton-carousel-new-next{
@@ -6448,12 +6446,14 @@ header .como-funciona .btn {
     height: 42px;
     border-radius: 10px;
     right: -74px;
+    border: none;
 }
 #icon-carousel{
     position: absolute;
     color: #FFFFFf;
     right: 15px;
     background-color: #FE635B;
+    top: 10px;
 }
 
 
@@ -6510,3 +6510,111 @@ header .como-funciona .btn {
     left: 5px;
 
 }
+.banner8{
+    background-color: #FFFFFF;
+}
+
+
+.card-brand-section{
+    width: 100%;
+    height: 338px;
+    left: 315px;
+    top: 1540px;
+    background: #FE635B;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+    margin: 16px 16px 16px 16px;
+}
+.content-card-brand{
+    padding: 16px 16px 16px 16px;
+}
+
+.card-brand-section img{
+    border: 2px solid #FE635B;
+    border-radius: 10px;
+
+}
+.title-card-brand{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    margin-top: 30px;
+}
+
+.p-card-brand{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-top: 20px;
+
+}
+
+.card-brand-section:hover .p-card-brand{
+    color: #FE635B;
+}
+.card-brand-section:hover .title-card-brand{
+    color: #FE635B;
+}
+.card-brand-section:hover{
+    background: #FFFFFF;
+    color: #FE635B;
+
+}
+
+.banner8-rigth-section {
+    margin: 150px 16px 16px 65px;
+}
+.card-subtitle-rigth-section{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #0362FD;
+}
+.card-title-rigth-section{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 54px;
+    line-height: 81px;
+    color: #0362FD;
+}
+.card-p-rigth-section{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #6A6A6A;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+.title-banner9{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 60px;
+    text-align: center;
+    color: #FE635B;
+
+}
+.subtitle-banner9{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    color: #868382;
+}
+
