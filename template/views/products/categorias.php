@@ -6,7 +6,7 @@
 </div>
 
 <div class="row ms-1">
-    <div class="col-xl-6 col-md-6 cat-box">
+    <div class="col-xl-5 col-md-6 mt-4 cat-box">
         <label>Ofertas de bicicletas</label>
         <div class="row">
 
@@ -65,8 +65,8 @@
         </a>
     </div>
 
-
-    <div class="col-xl-6 col-md-6 cat-box" style="margin-left: 61px">
+    <div class="col-xl-1" style="width: 50px"></div>
+    <div class="col-xl-5 col-md-6  mt-4  cat-box" >
         <label>Ofertas de bicicletas</label>
         <div class="row">
 
