@@ -5341,7 +5341,7 @@ header .como-funciona .btn {
         display: none;
     }  */
 
-    /*  CAMBIAR EL PRINCIPAL */
+    /*  CAMBIAR AL PRINCIPAL */
     .c-box-desc {
 
         width: 68px;
@@ -5989,11 +5989,8 @@ header .como-funciona .btn {
 }
 
 .con-card{
-    width: 1040px;
+    width: 100%;
     height: 716px;
-    margin-left: 250px;
-    /* Degradado Azul */
-
     background: linear-gradient(90deg, #372CE6 0%, #0066FF 100%);
     border-radius: 30px;
 }
@@ -6081,7 +6078,6 @@ header .como-funciona .btn {
 }
 
 .con-card .content{
-    margin-left: 332px;
     margin-top: 81px;
 
 }
