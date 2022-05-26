@@ -11,7 +11,7 @@
         <div class="con-card  col align-self-end">
             <div class="row">
                 <div class="col-4 ">
-                    <div class="con-card-redes col-4 align-self-start ">
+                    <div class="con-card-redes col-6 align-self-start ">
                         <label class="title">Comunicate con el equipo de SCART</label>
                         <p class="subtitle">¿Tienes alguna consulta o sugerencia para nosotros?
                             Déjanos tu mensaje y nos pondremos en contacto.</p>
