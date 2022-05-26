@@ -1,52 +1,53 @@
 <div class="row  ">
-    <div class="col-12 col-xl-2 align-self-start">
+    <div class=" col-md-3 col-xl-3">
         <div class="row">
+            <div class="">
+                <div class="con-card-redes align-self-start  " >
+                    <label class="title">Comunicate con el equipo de SCART</label>
+                    <p class="subtitle">¿Tienes alguna consulta o sugerencia para nosotros?
+                        Déjanos tu mensaje y nos pondremos en contacto.</p>
+                    <div class="row">
+                        <div class="col-xl-2 mt-2">
+                            <img src="../../assets/img/new/redes-03.png" alt="">
+                        </div>
+                        <div class="col-xl-4">
+                            <label class="rs">Facebook</label>
+                            <p class="rs-s">@Scart</p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xl-2 mt-2">
+                            <img src="../../assets/img/new/redes-02.png" alt="">
+                        </div>
+                        <div class="col-xl-4">
+                            <label class="rs">Twitter</label>
+                            <p class="rs-s">@SCARTcl</p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xl-2 mt-2">
+                            <img src="../../assets/img/new/redes-01.png" alt="">
+                        </div>
+                        <div class="col-xl-4">
+                            <label class="rs">Instagram</label>
+                            <p class="rs-s">@scart.cl</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
-            <div class="col-8 "></div>
+
         </div>
     </div>
 
 
-    <div class="col-12 col-xl-10 align-self-end">
-        <div class="con-card  col align-self-end">
+    <div class=" col-md-9 col-xl-9  ">
+        <div class="con-card  col-12 col-md-9 col-xl-9 align-self-end">
             <div class="row">
 
-                <div class="col-xl-4">
-                    <div class="con-card-redes col-6 align-self-start ">
-                        <label class="title">Comunicate con el equipo de SCART</label>
-                        <p class="subtitle">¿Tienes alguna consulta o sugerencia para nosotros?
-                            Déjanos tu mensaje y nos pondremos en contacto.</p>
-                        <div class="row">
-                            <div class="col-xl-2 mt-2">
-                                <img src="../../assets/img/new/redes-03.png" alt="">
-                            </div>
-                            <div class="col-xl-4">
-                                <label class="rs">Facebook</label>
-                                <p class="rs-s">@Scart</p>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-xl-2 mt-2">
-                                <img src="../../assets/img/new/redes-02.png" alt="">
-                            </div>
-                            <div class="col-xl-4">
-                                <label class="rs">Twitter</label>
-                                <p class="rs-s">@SCARTcl</p>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-xl-2 mt-2">
-                                <img src="../../assets/img/new/redes-01.png" alt="">
-                            </div>
-                            <div class="col-xl-4">
-                                <label class="rs">Instagram</label>
-                                <p class="rs-s">@scart.cl</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
 
-                <div class="content col-8 offset-4 ">
+
+                <div class="content col-9 offset-3 ">
                     <div class="col-xl-12 col-12">
                         <p class="text">Your name
                             <input class="con-name form-control" type="text" placeholder="Full name here">

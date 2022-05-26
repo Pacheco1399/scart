@@ -5924,7 +5924,7 @@ header .como-funciona .btn {
     color: #FE635B;
 }
 .con-card-redes .title{
-    width: 404px;
+    width: 100%;
     height: 132px;
     margin-bottom: 24px;
     font-family: 'Poppins';
@@ -5938,13 +5938,13 @@ header .como-funciona .btn {
     color: #FFFFFF;
 }
 .con-card-redes .subtitle{
-    width: 451px;
+    width: 100%;
     height: 90px;
     margin-bottom: 40px;
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 500;
-    font-size: 18px;
+    font-size: 17px;
     line-height: 30px;
     /* or 167% */
 
@@ -6086,14 +6086,14 @@ header .como-funciona .btn {
 
 }
 .con-card-redes{
-    position: absolute;
+    position: relative;
+    width: 180%;
     padding: 48px 47px 48px 48px;
     height: 600px;
     margin-top: 58px;
-    /* Degradado Naranjo */
-    left: -193px;
     background: linear-gradient(104.66deg, #FF635D 0%, #FA722C 99.25%);
     border-radius: 30px;
+    z-index: 2;
 }
 .con-btn{
 
@@ -6210,7 +6210,7 @@ header .como-funciona .btn {
     color: #868382;
 }
 .ex-title{
-    width: 486px;
+    width: 100%;
     height: 162px;
     margin-top: 70px;
     font-family: 'Poppins';
