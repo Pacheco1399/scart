@@ -55,8 +55,9 @@
                         MIS CARPETAS
                     </a>
                 </div>
-                <div class="col-10 col-sm-7 col-lg-4 col-xl-5">
-                    <div class="h-100 busqueda buscar d-flex align-items-center overflow-hidden m-0">
+
+                <div class="col-10 col-sm-7 col-lg-5 col-xl-6">
+                    <div class="h-100 busqueda buscar  align-items-center overflow-hidden m-0">
                         <form class="w-100 h-100 mb-0" action="/buscar" method="get" id="scart-search-form">
                             <div class="d-flex align-items-center h-100">
 
@@ -71,22 +72,50 @@
                     </div>
                 </div>
 
-                <div class="login-button col-2">
-                    <div class="h-100  d-flex align-items-center overflow-hidden m-0">
-                        <form class="w-100 h-100 mb-0" action="/buscar" method="get" id="scart-search-form">
-                            <div class="d-flex align-items-center h-100">
+                <!--
+
+                     <div class="login-button col-2">
+                         <div class="h-100  d-flex align-items-center overflow-hidden m-0">
+                             <form class="w-100 h-100 mb-0" action="/buscar" method="get" id="scart-search-form">
+                                 <div class="d-flex align-items-center h-100">
 
 
-                                <button class=" login-icon-button me-2 ps-2" aria-label="Iniciar sesión"><i class="fas fa-user"
-                                                                                            aria-hidden="true"></i>
-                                </button>
 
-                            </div>
-                        </form>
-                    </div>
-                </div>
+                                     <button class=" login-icon-button me-2 ps-2" aria-label="Iniciar sesión"><i class="fas fa-user"
+                                                                                                 aria-hidden="true"></i>
+                                     </button>
 
-                <div class="cupones col-12 col-sm-2 col-lg-2 col-xl-2">
+
+
+                                 </div>
+
+                             </form>
+                         </div>
+                     </div>
+
+                     <div class="cupones col-12 col-sm-2 col-lg-2 col-xl-2">
+
+                         <a href="#" class="nav-link btn-cupones d-flex align-items-center justify-content-center flex-fill">
+                             <img alt="" style="width: 25px; height: 20px;" src="../../assets/img/new/icon-ticket.png">
+                             <label>CUPONES</label>
+                         </a>
+
+
+                     </div>
+
+
+
+                     <div class="register col-12 col-sm-3 col-lg-2 col-xl-2 d-md-flex">
+
+                         <a href="#" class="register-text nav-link d-flex align-items-center justify-content-center flex-fill">
+                             <label>REGISTRATE</label>
+                         </a>
+
+
+                     </div>
+
+                     -->
+                <div class="cupones col-12 col-sm-2 col-lg-1 col-xl-1">
 
                     <a href="#" class="nav-link btn-cupones d-flex align-items-center justify-content-center flex-fill">
                         <img alt="" style="width: 25px; height: 20px;" src="../../assets/img/new/icon-ticket.png">
@@ -96,23 +125,14 @@
 
                 </div>
 
-                <div class="register col-12 col-sm-3 col-lg-2 col-xl-2 d-md-flex">
-
-                    <a href="#" class="register-text nav-link d-flex align-items-center justify-content-center flex-fill">
-                        <label>REGISTRATE</label>
-                    </a>
-
-
-                </div>
-
-                <div class="offers  col-6 col-sm-6 col-lg-2 col-xl-2">
+                <div class="offers  col-6 col-sm-6 col-lg-1 col-xl-2    ">
                     <div class="h-100 ofertas">
                         <a class="ms-0 me-2" href="/notificaciones">OFERTAS</a>
                         <div class="numero">0</div>
                     </div>
                 </div>
-                <!--<div class="<? /*=isLoggedIn() ? 'col-6' : 'col-12 col-sm-3'*/ ?> col-lg-2 d-none d-md-block">-->
-                <div class=" user-panel col-6 col-sm-6 col-xl-1 col-lg-2">
+
+                <div class=" user-panel col-6 col-sm-6 col-lg-2 col-xl-1">
                     <div class="h-100 iconos">
                         <a href="/notificaciones" aria-label="Ver mis notificaciones"><img height="18"
                                                                                            src="../../assets/img/new/icon-campana.svg"
@@ -135,6 +155,8 @@
                                                                        aria-hidden="true"/></a>
                     </div>
                 </div>
+
+
             </div>
         </div>
         <!-- Termino barra de busqueda

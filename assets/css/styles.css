@@ -30,7 +30,12 @@
     --whatsapp: #27D46B;
     --twitter: #00ABF0;
 }
-
+.con-card-hide{
+    display: none;
+}
+.carousel-banner8-hide{
+    display: none;
+}
 
 /* Inicio estilos generales */
 * {
@@ -3817,7 +3822,6 @@ header .como-funciona .btn {
 
     width: 166px;
     height: 50px;
-    margin-left: 50px;
     background: linear-gradient(104.66deg, #FF635D 0%, #FA722C 99.25%);
     border-radius: 10px;
     text-decoration: none;
@@ -5323,9 +5327,7 @@ header .como-funciona .btn {
         border-radius: 10px;!important;
     }
 
-    .parte-1{
-        border-radius: 10px;
-    }
+
 
     .login-icon-button{
         width: 50px;
@@ -5365,10 +5367,22 @@ header .como-funciona .btn {
         display: block;
     }
 
+    .carousel-banner8-show{
+        display: none;
+    }
+
+    .carousel-banner8-hide{
+        display: block;
+    }
+
+    .label-sale-product {
+        width: 95px;
+        height: 25px;
+        top: 80px;
+    }
 
 
-
-    /*FIN SANTI*/
+        /*FIN SANTI*/
 }
 /* ICONO LOGIN*/
 
@@ -6279,7 +6293,7 @@ header .como-funciona .btn {
     margin-left: 16px;
     margin-right: 16px;
     position: absolute;
-    width: 244px;
+    width: 90%;
     height: 30px;
     z-index: 5;
     top: 0px;
@@ -6627,6 +6641,3 @@ header .como-funciona .btn {
 
 
 /******* DEJARLO EN EL PRINCIPAL */
-.con-card-hide{
-    display: none;
-}

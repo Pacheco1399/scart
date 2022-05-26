@@ -111,7 +111,7 @@ header {
 /* Inico barra de busqueda */
 .parte-1 .busqueda {
     border-radius: 100px;
-    width: 574px;
+    width: 100%;
     background: #ffff;
     padding-left: 0px;
 }

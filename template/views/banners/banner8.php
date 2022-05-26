@@ -1,8 +1,8 @@
 <div class="banner8 container-fluid col-12 ">
 
-    <!--
 
-    <div class="row">
+
+    <div class="row carousel-banner8-show">
         <div class="col-6">
             <div class="row">
                 <div class="col-6">
@@ -87,10 +87,9 @@
     </div>
 
 
-    -->
 
-    <div class="row">
-        <div class="carousel-scart relative">
+    <div class="row carousel-banner8-hide">
+        <div class="carousel-scart  relative">
             <div class="mb-5">
                 <div class="carousel1__contenedor">
                     <div class="carousel position-relative carousel1__indicadores landing-carousel">
