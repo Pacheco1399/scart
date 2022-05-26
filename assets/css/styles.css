@@ -5985,10 +5985,10 @@ header .como-funciona .btn {
 
     color: #FFFFFF;
 }
-.con-icon{
-}
+
 
 .con-card{
+
     position: relative;
     width: 100%;
     height: 716px;
@@ -6011,7 +6011,8 @@ header .como-funciona .btn {
 
 }
 .content .con-name{
-    width: 648px;
+    width: 100%;
+    max-width: 648px;
     height: 60px;
     margin-bottom: 24px;
     background: #FFFFFF;
@@ -6019,7 +6020,8 @@ header .como-funciona .btn {
     text-indent: 50px;
 }
 .content .con-mail{
-    width: 648px;
+    width: 100%;
+    max-width: 648px;
     height: 60px;
     margin-bottom: 24px;
     background: #FFFFFF;
@@ -6071,7 +6073,8 @@ header .como-funciona .btn {
 
 .content .con-message{
     margin-bottom: 32px;
-    width: 648px;
+    width: 100%;
+    max-width: 648px;
     height: 168px;
     resize: none;
     background: #FFFFFF;
