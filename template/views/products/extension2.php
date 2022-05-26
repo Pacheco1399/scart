@@ -1,6 +1,6 @@
 <div class="container">
     <div class="my-5 row">
-        <div class="col-xl-5 col-md-5 col-12">
+        <div class="col-xl-5 col-lg-5  col-12">
             <label class="ex-title">Risus turpis eget velit in mauris.</label>
             <p class="ex-subtitle">
                 Aliquam nibh sed mauris nulla augue tincidunt vitae cras.

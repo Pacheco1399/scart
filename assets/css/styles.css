@@ -5357,6 +5357,13 @@ header .como-funciona .btn {
 
 
 
+    .con-card-show{
+        display: none;
+    }
+
+    .con-card-hide{
+        display: block;
+    }
 
 
 
@@ -6242,7 +6249,7 @@ header .como-funciona .btn {
 }
 .ex-img{
     width: 100%;
-    height: 406px;
+    height: auto;
     margin-bottom: 19px;
 }
 /*FIN HOME NUEVO*/
@@ -6619,4 +6626,7 @@ header .como-funciona .btn {
 }
 
 
-
+/******* DEJARLO EN EL PRINCIPAL */
+.con-card-hide{
+    display: none;
+}
