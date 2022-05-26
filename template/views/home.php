@@ -63,12 +63,15 @@
 
         <?php include("../views/products/carousel-new.php"); ?>
         <?php include("../views/products/carousel-new2.php"); ?>
-        <?php include("../views/banners/banner3.php"); ?>
-        <hr>
-        <hr>
-        <?php include("../views/banners/banner9.php"); ?>
+    </div>
+
+    <?php include("../views/banners/bannerGrande.php"); ?>
+
+    <div class="container">
+
+
         <?php include("../views/products/categorias.php"); ?>
-        <?php include("../views/products/extension.php"); ?>
+        <?php include("../views/products/extension2.php"); ?>
 
         <?php include("../views/products/carousel-new3.php"); ?>
         <?php include("../views/products/carousel-new4.php"); ?>
