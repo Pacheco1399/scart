@@ -5341,6 +5341,24 @@ header .como-funciona .btn {
         display: none;
     }  */
 
+    /*  CAMBIAR EL PRINCIPAL */
+    .c-box-desc {
+
+        width: 68px;
+        height: 23px;
+        top: 70px;
+
+    }
+
+    .c-box-desc p {
+        color: #FFFFFF;
+        font-size: 12px;
+    }
+
+
+
+
+
 
 
     /*FIN SANTI*/
@@ -5712,11 +5730,16 @@ header .como-funciona .btn {
 
 .c-box {
     box-sizing: border-box;
-    width: 271px;
-    height: 200px;
+    width: 100%;
+    height: auto;
     position: relative;
     border: 1px solid #F0F0F0;
     border-radius: 10px;
+}
+
+.c-box img{
+    width: 100%;
+
 }
 .p-title{
     margin-top: 10px;
@@ -5731,11 +5754,9 @@ header .como-funciona .btn {
 }
 
 .c-box-desc {
-
-
     position: absolute;
-    width: 106px;
-    height: 34px;
+    max-width: 106px;
+    max-height: 34px;
     top: 150px;
     left: 16px;
     background: rgba(254, 99, 91, 0.9);

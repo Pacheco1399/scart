@@ -10,7 +10,7 @@
         <label>Ofertas de bicicletas</label>
         <div class="row">
 
-            <div class="col-xl-6 col-md-6 col-12">
+            <div class="col-xl-6 col-md-6 col-6">
                 <div class="c-box">
 
                     <img src="../../assets/img/new/bici1.png" alt="">
@@ -23,7 +23,7 @@
             </div>
 
 
-            <div class="col-xl-6 col-md-6 col-12">
+            <div class=" col-xl-6 col-md-6 col-6">
                 <div class="c-box">
 
                     <img src="../../assets/img/new/bici2.png" alt="">
@@ -37,7 +37,7 @@
         </div>
         <div class="row">
 
-            <div class="col-xl-6 col-md-6 col-12">
+            <div class="col-xl-6 col-md-6 col-6">
                 <div class="c-box">
 
                     <img src="../../assets/img/new/bici3.png" alt="">
@@ -48,7 +48,7 @@
                 </div>
                 <p class="p-title">Bicicleta MTB Rako Aro 29</p>
             </div>
-            <div class="col-xl-6 col-md-6 col-12">
+            <div class="col-xl-6 col-md-6 col-6">
                 <div class="c-box">
 
                     <img src="../../assets/img/new/bici4.png" alt="">
@@ -70,7 +70,7 @@
         <label>Ofertas de bicicletas</label>
         <div class="row">
 
-            <div class="col-xl-6 col-md-6 col-12">
+            <div class="col-xl-6 col-md-6 col-6">
                 <div class="c-box">
 
                     <img src="../../assets/img/new/bici1.png" alt="">
@@ -83,7 +83,7 @@
             </div>
 
 
-            <div class="col-xl-6 col-md-6 col-12">
+            <div class="col-xl-6 col-md-6 col-6">
                 <div class="c-box">
 
                     <img src="../../assets/img/new/bici2.png" alt="">
@@ -97,7 +97,7 @@
         </div>
         <div class="row">
 
-            <div class="col-xl-6 col-md-6 col-12">
+            <div class="col-xl-6 col-md-6 col-6">
                 <div class="c-box">
 
                     <img src="../../assets/img/new/bici3.png" alt="">
@@ -108,7 +108,7 @@
                 </div>
                 <p class="p-title">Bicicleta MTB Rako Aro 29</p>
             </div>
-            <div class="col-xl-6 col-md-6 col-12">
+            <div class="col-xl-6 col-md-6 col-6">
                 <div class="c-box">
 
                     <img src="../../assets/img/new/bici4.png" alt="">
