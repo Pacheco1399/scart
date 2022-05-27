@@ -19,18 +19,38 @@
                             <div class="carousel1__lista pt-2 pb-1" data-slides-per-page-md="3"
                                  data-slides-per-page-sm="2" data-slides-per-page-xl="6">
 
+                                <!-- Plantilla card -->
+                                <?php include("../views/products/cardBrand.php"); ?>
 
-                                <?php include("../views/products/cardBrand.php"); ?>
-                                <?php include("../views/products/cardBrand.php"); ?>
-                                <?php include("../views/products/cardBrand.php"); ?>
-                                <?php include("../views/products/cardBrand.php"); ?>
-                                <?php include("../views/products/cardBrand.php"); ?>
-                                <?php include("../views/products/cardBrand.php"); ?>
-                                <?php include("../views/products/cardBrand.php"); ?>
-                                <?php include("../views/products/cardBrand.php"); ?>
-                                <?php include("../views/products/cardBrand.php"); ?>
-                                <?php include("../views/products/cardBrand.php"); ?>
-                                <?php include("../views/products/cardBrand.php"); ?>
+                                <div class="carousel-brands-card">
+                                    <img class="img-brands-card" src="../../assets/img/b2.png" alt="">
+                                </div>
+                                <div class="carousel-brands-card">
+                                    <img class="img-brands-card" src="../../assets/img/b3.png" alt="">
+                                </div>
+                                <div class="carousel-brands-card">
+                                    <img class="img-brands-card" src="../../assets/img/b4.png" alt="">
+                                </div>
+                                <div class="carousel-brands-card">
+                                    <img class="img-brands-card" src="../../assets/img/b5.png" alt="">
+                                </div>
+                                <div class="carousel-brands-card">
+                                    <img class="img-brands-card" src="../../assets/img/b1.png" alt="">
+                                </div>
+
+                                <div class="carousel-brands-card">
+                                    <img class="img-brands-card" src="../../assets/img/b2.png" alt="">
+                                </div>
+                                <div class="carousel-brands-card">
+                                    <img class="img-brands-card" src="../../assets/img/b3.png" alt="">
+                                </div>
+                                <div class="carousel-brands-card">
+                                    <img class="img-brands-card" src="../../assets/img/b4.png" alt="">
+                                </div>
+                                <div class="carousel-brands-card">
+                                    <img class="img-brands-card" src="../../assets/img/b5.png" alt="">
+                                </div>
+
 
 
                             </div>

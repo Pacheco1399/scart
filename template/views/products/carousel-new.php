@@ -1,4 +1,5 @@
-<div class="contenido">
+
+<div class="container contenido">
     <div class="carousel-scart">
         <div class="my-5">
 
@@ -6,7 +7,7 @@
                 <div class="container-fluid">
                     <div class="row row-cols-auto row-cols-1 row-cols-md-auto mb-3">
                         <div class="col">
-                            <h2 class="text-primary-scart gradient-text lh-sm mb-0 landing-title sm">Mayores
+                            <h2 class="text-primary-scart lh-sm mb-0 landing-title sm">Mayores
                                 descuentos</h2>
                         </div>
                     </div>

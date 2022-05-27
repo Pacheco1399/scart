@@ -138,7 +138,7 @@ header {
 
 .parte-1 .buscar button {
     float: left;
-    background: linear-gradient(104.66deg, #FF635D 0%, #FA722C 99.25%);
+    background: linear-gradient(104.66deg, #EF7D00 0%, #FE4300 99.25%);
     border-radius: 6px;
     border-style: none;
     font-size: 17px;
@@ -410,7 +410,7 @@ p {
 
 .parte-1 .mis-carpetas {
     /*color: var(--color-naranja);*/
-    background: linear-gradient(104.66deg, #FF635D 0%, #FA722C 99.25%);
+    background: linear-gradient(104.66deg, #EF7D00 0%, #FE4300 99.25%);
 
     color: #fff;
     font-weight: 550;

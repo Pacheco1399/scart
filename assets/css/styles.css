@@ -3846,7 +3846,7 @@ header .como-funciona .btn {
 
     width: 100%;
     height: 50px;
-    background: linear-gradient(104.66deg, #FF635D 0%, #FA722C 99.25%);
+    background: linear-gradient(104.66deg, #EF7D00 0%, #FE4300 99.25%);
     border-radius: 10px;
     text-decoration: none;
     font-family: 'Poppins';
@@ -5760,7 +5760,7 @@ header .como-funciona .btn {
     line-height: 27px;
     /* identical to box height */
     /* Naranjo */
-    color: #FE635B;
+    color: #FD4400;
 }
 
 .c-box {
@@ -5794,7 +5794,9 @@ header .como-funciona .btn {
     max-height: 34px;
     top: 75%;
     left: 16px;
-    background: rgba(254, 99, 91, 0.9);
+    background: #FD4400;
+    opacity: 80%;
+
     backdrop-filter: blur(4px);
     /* Note: backdrop-filter has minimal browser support */
 
@@ -5815,13 +5817,13 @@ header .como-funciona .btn {
     flex: none;
     order: 0;
     flex-grow: 0;
-    padding: 10px;
+    padding: 6px;
     color: #FFFFFF;
 }
 .cat-btn{
     width: 194px;
     height: 34px;
-    background: #FA4F73;
+    background: linear-gradient(104.66deg, #EF7D00 0%, #FE4300 99.25%);
     border-radius: 10px;
 
     text-decoration: none;
@@ -6140,7 +6142,7 @@ header .como-funciona .btn {
     padding: 48px 47px 48px 48px;
     height: 600px;
     margin-top: 58px;
-    background: linear-gradient(104.66deg, #FF635D 0%, #FA722C 99.25%);
+    background: linear-gradient(104.66deg, #EF7D00 0%, #FE4300 99.25%);
     border-radius: 30px;
     z-index: 2;
 }
@@ -6148,10 +6150,7 @@ header .como-funciona .btn {
 
     width: 292px;
     height: 60px;
-
-    /* Degradado Naranjo */
-
-    background: linear-gradient(104.66deg, #FF635D 0%, #FA722C 99.25%);
+    background: linear-gradient(104.66deg, #EF7D00 0%, #FE4300 99.25%);
     border-radius: 16px;
     border: none;
 }
@@ -6336,7 +6335,7 @@ header .como-funciona .btn {
 }
 
 .share-button .compartir {
-    color: #FE635B;
+    color: #FF4000;
 }
 .menu-button{
     position: absolute;
@@ -6365,7 +6364,8 @@ header .como-funciona .btn {
     width: 131px;
     height: 42px;
     top: 164px;
-    background: rgba(254, 99, 91, 0.9);
+    background: #FD4400;
+    opacity: 80%;
     /* Note: backdrop-filter has minimal browser support */
     border-radius: 8px;
     z-index: 2;
@@ -6481,7 +6481,7 @@ header .como-funciona .btn {
 
 }
 #boton-carousel-new-prev{
-    background: #FE635B;
+    background: #FF4000;
     width: 42px;
     height: 42px;
     left: -84px;
@@ -6490,7 +6490,7 @@ header .como-funciona .btn {
 }
 
 #boton-carousel-new-next{
-    background: #FE635B;
+    background: #FF4000;
     width: 42px;
     height: 42px;
     border-radius: 10px;
@@ -6501,7 +6501,7 @@ header .como-funciona .btn {
     position: absolute;
     color: #FFFFFf;
     right: 15px;
-    background-color: #FE635B;
+    background-color: #FF4000;
     top: 10px;
 }
 
@@ -6569,7 +6569,7 @@ header .como-funciona .btn {
     height: 338px;
     left: 315px;
     top: 1540px;
-    background: #FE635B;
+    background: #FF4000;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.05);
     border-radius: 20px;
     margin: 16px 16px 16px 16px;
@@ -6578,11 +6578,27 @@ header .como-funciona .btn {
     padding: 16px 16px 16px 16px;
 }
 
-.card-brand-section img{
-    border: 2px solid #FE635B;
+
+
+
+.card-brand-icon{
+    width: 80px;
+    height: 80px;
+    border: 2px solid #FFFFFF;
     border-radius: 10px;
+    color: #FFFFFF;
 
 }
+
+.brand-icon{
+    position: absolute;
+    height: 30px;
+    font-size: 50px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+
 .title-card-brand{
     font-family: 'Poppins';
     font-style: normal;
@@ -6605,15 +6621,21 @@ header .como-funciona .btn {
 
 }
 
-.card-brand-section:hover .p-card-brand{
-    color: #FE635B;
+.card-brand-section:hover .card-brand-icon{
+    color: #FF4000;
+    border-color: #FF4000 ;
 }
+
+.card-brand-section:hover .p-card-brand{
+    color: #FF4000;
+}
+
 .card-brand-section:hover .title-card-brand{
-    color: #FE635B;
+    color: #FF4000;
 }
 .card-brand-section:hover{
     background: #FFFFFF;
-    color: #FE635B;
+    color: #FF4000;
 
 }
 
@@ -6654,7 +6676,7 @@ header .como-funciona .btn {
     font-size: 40px;
     line-height: 60px;
     text-align: center;
-    color: #FE635B;
+    color: #FF4000;
 
 }
 .subtitle-banner9{

@@ -1,4 +1,4 @@
-<div class="contenido">
+<div class="container contenido">
     <div class="carousel-scart">
         <div class="mb-5">
 
@@ -6,7 +6,7 @@
                 <div class="container-fluid">
                     <div class="row row-cols-auto row-cols-1 row-cols-md-auto mb-3">
                         <div class="col">
-                            <h2 class="text-primary-scart gradient-text lh-sm mb-0 landing-title sm">Mejores ofertas de audio</h2>
+                            <h2 class="text-primary-scart lh-sm mb-0 landing-title sm">Mejores ofertas de audio</h2>
                         </div>
                     </div>
                 </div>
@@ -45,22 +45,28 @@
                                                                href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fscart.cl%2Fproducto%2F7641-cartera-mujer-tote"
                                                                target="_blank"
                                                                onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=550,width=600');return false;"
-                                                               title="Compartir en Facebook" aria-label="Compartir en Facebook"><i
-                                                                        class="fab fa-facebook-square" aria-hidden="true"></i></a>
+                                                               title="Compartir en Facebook"
+                                                               aria-label="Compartir en Facebook"><i
+                                                                        class="fab fa-facebook-square"
+                                                                        aria-hidden="true"></i></a>
                                                         </li>
                                                         <li><a class="whatsapp"
                                                                href="https://api.whatsapp.com/send?text=https%3A%2F%2Fscart.cl%2Fproducto%2F7641-cartera-mujer-tote"
                                                                target="_blank"
                                                                onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=550,width=600');return false;"
-                                                               title="Compartir en WhatsApp" aria-label="Compartir en WhatsApp"><i
-                                                                        class="fab fa-whatsapp-square" aria-hidden="true"></i></a>
+                                                               title="Compartir en WhatsApp"
+                                                               aria-label="Compartir en WhatsApp"><i
+                                                                        class="fab fa-whatsapp-square"
+                                                                        aria-hidden="true"></i></a>
                                                         </li>
                                                         <li><a class="twitter"
                                                                href="https://twitter.com/share?url=https%3A%2F%2Fscart.cl%2Fproducto%2F7641-cartera-mujer-tote"
                                                                target="_blank"
                                                                onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=550,width=600');return false;"
-                                                               title="Compartir en Twitter" aria-label="Compartir en Twitter"><i
-                                                                        class="fab fa-twitter-square" aria-hidden="true"></i></a>
+                                                               title="Compartir en Twitter"
+                                                               aria-label="Compartir en Twitter"><i
+                                                                        class="fab fa-twitter-square"
+                                                                        aria-hidden="true"></i></a>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -74,8 +80,14 @@
                                                         <i class="fas fa-ellipsis-v" aria-hidden="true"></i>
                                                         <span class="visually-hidden">Compartir ítem en redes sociales</span>
                                                     </button>
-                                                    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="product31780-actions-dropdown">
-                                                        <li><a class="dropdown-item goto-product" href="https://scart.cl/producto/31780-rack-murillo-cerezo">Ver más detalles</a></li>                            <li><a class="dropdown-item" href="https://scart.cl/buscar/Abcdin">Ver más productos de la tienda</a></li>
+                                                    <ul class="dropdown-menu dropdown-menu-end"
+                                                        aria-labelledby="product31780-actions-dropdown">
+                                                        <li><a class="dropdown-item goto-product"
+                                                               href="https://scart.cl/producto/31780-rack-murillo-cerezo">Ver
+                                                                más detalles</a></li>
+                                                        <li><a class="dropdown-item"
+                                                               href="https://scart.cl/buscar/Abcdin">Ver más productos
+                                                                de la tienda</a></li>
                                                     </ul>
                                                 </div>
                                             </div>
@@ -105,10 +117,11 @@
 
                                     <div class=" price-product-card ">
                                         <img class="label-price-product-card" src="../../assets/img/abcdin.png" alt="">
-                                        <p class="separator">  </p>
+                                        <p class="separator"></p>
                                         <div class="price-product-card">
                                             <p class="price-product-card-text">$8.990</p>
-                                            <img class="label-price-product-card" src="../../assets/img/greenarrow.png" alt="">
+                                            <img class="label-price-product-card" src="../../assets/img/greenarrow.png"
+                                                 alt="">
                                         </div>
 
                                     </div>
@@ -137,22 +150,28 @@
                                                                href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fscart.cl%2Fproducto%2F7641-cartera-mujer-tote"
                                                                target="_blank"
                                                                onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=550,width=600');return false;"
-                                                               title="Compartir en Facebook" aria-label="Compartir en Facebook"><i
-                                                                        class="fab fa-facebook-square" aria-hidden="true"></i></a>
+                                                               title="Compartir en Facebook"
+                                                               aria-label="Compartir en Facebook"><i
+                                                                        class="fab fa-facebook-square"
+                                                                        aria-hidden="true"></i></a>
                                                         </li>
                                                         <li><a class="whatsapp"
                                                                href="https://api.whatsapp.com/send?text=https%3A%2F%2Fscart.cl%2Fproducto%2F7641-cartera-mujer-tote"
                                                                target="_blank"
                                                                onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=550,width=600');return false;"
-                                                               title="Compartir en WhatsApp" aria-label="Compartir en WhatsApp"><i
-                                                                        class="fab fa-whatsapp-square" aria-hidden="true"></i></a>
+                                                               title="Compartir en WhatsApp"
+                                                               aria-label="Compartir en WhatsApp"><i
+                                                                        class="fab fa-whatsapp-square"
+                                                                        aria-hidden="true"></i></a>
                                                         </li>
                                                         <li><a class="twitter"
                                                                href="https://twitter.com/share?url=https%3A%2F%2Fscart.cl%2Fproducto%2F7641-cartera-mujer-tote"
                                                                target="_blank"
                                                                onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=550,width=600');return false;"
-                                                               title="Compartir en Twitter" aria-label="Compartir en Twitter"><i
-                                                                        class="fab fa-twitter-square" aria-hidden="true"></i></a>
+                                                               title="Compartir en Twitter"
+                                                               aria-label="Compartir en Twitter"><i
+                                                                        class="fab fa-twitter-square"
+                                                                        aria-hidden="true"></i></a>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -166,8 +185,14 @@
                                                         <i class="fas fa-ellipsis-v" aria-hidden="true"></i>
                                                         <span class="visually-hidden">Compartir ítem en redes sociales</span>
                                                     </button>
-                                                    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="product31780-actions-dropdown">
-                                                        <li><a class="dropdown-item goto-product" href="https://scart.cl/producto/31780-rack-murillo-cerezo">Ver más detalles</a></li>                            <li><a class="dropdown-item" href="https://scart.cl/buscar/Abcdin">Ver más productos de la tienda</a></li>
+                                                    <ul class="dropdown-menu dropdown-menu-end"
+                                                        aria-labelledby="product31780-actions-dropdown">
+                                                        <li><a class="dropdown-item goto-product"
+                                                               href="https://scart.cl/producto/31780-rack-murillo-cerezo">Ver
+                                                                más detalles</a></li>
+                                                        <li><a class="dropdown-item"
+                                                               href="https://scart.cl/buscar/Abcdin">Ver más productos
+                                                                de la tienda</a></li>
                                                     </ul>
                                                 </div>
                                             </div>
@@ -197,10 +222,11 @@
 
                                     <div class=" price-product-card ">
                                         <img class="label-price-product-card" src="../../assets/img/abcdin.png" alt="">
-                                        <p class="separator">  </p>
+                                        <p class="separator"></p>
                                         <div class="price-product-card">
                                             <p class="price-product-card-text">$8.990</p>
-                                            <img class="label-price-product-card" src="../../assets/img/greenarrow.png" alt="">
+                                            <img class="label-price-product-card" src="../../assets/img/greenarrow.png"
+                                                 alt="">
                                         </div>
 
                                     </div>
@@ -229,22 +255,28 @@
                                                                href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fscart.cl%2Fproducto%2F7641-cartera-mujer-tote"
                                                                target="_blank"
                                                                onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=550,width=600');return false;"
-                                                               title="Compartir en Facebook" aria-label="Compartir en Facebook"><i
-                                                                        class="fab fa-facebook-square" aria-hidden="true"></i></a>
+                                                               title="Compartir en Facebook"
+                                                               aria-label="Compartir en Facebook"><i
+                                                                        class="fab fa-facebook-square"
+                                                                        aria-hidden="true"></i></a>
                                                         </li>
                                                         <li><a class="whatsapp"
                                                                href="https://api.whatsapp.com/send?text=https%3A%2F%2Fscart.cl%2Fproducto%2F7641-cartera-mujer-tote"
                                                                target="_blank"
                                                                onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=550,width=600');return false;"
-                                                               title="Compartir en WhatsApp" aria-label="Compartir en WhatsApp"><i
-                                                                        class="fab fa-whatsapp-square" aria-hidden="true"></i></a>
+                                                               title="Compartir en WhatsApp"
+                                                               aria-label="Compartir en WhatsApp"><i
+                                                                        class="fab fa-whatsapp-square"
+                                                                        aria-hidden="true"></i></a>
                                                         </li>
                                                         <li><a class="twitter"
                                                                href="https://twitter.com/share?url=https%3A%2F%2Fscart.cl%2Fproducto%2F7641-cartera-mujer-tote"
                                                                target="_blank"
                                                                onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=550,width=600');return false;"
-                                                               title="Compartir en Twitter" aria-label="Compartir en Twitter"><i
-                                                                        class="fab fa-twitter-square" aria-hidden="true"></i></a>
+                                                               title="Compartir en Twitter"
+                                                               aria-label="Compartir en Twitter"><i
+                                                                        class="fab fa-twitter-square"
+                                                                        aria-hidden="true"></i></a>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -258,8 +290,14 @@
                                                         <i class="fas fa-ellipsis-v" aria-hidden="true"></i>
                                                         <span class="visually-hidden">Compartir ítem en redes sociales</span>
                                                     </button>
-                                                    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="product31780-actions-dropdown">
-                                                        <li><a class="dropdown-item goto-product" href="https://scart.cl/producto/31780-rack-murillo-cerezo">Ver más detalles</a></li>                            <li><a class="dropdown-item" href="https://scart.cl/buscar/Abcdin">Ver más productos de la tienda</a></li>
+                                                    <ul class="dropdown-menu dropdown-menu-end"
+                                                        aria-labelledby="product31780-actions-dropdown">
+                                                        <li><a class="dropdown-item goto-product"
+                                                               href="https://scart.cl/producto/31780-rack-murillo-cerezo">Ver
+                                                                más detalles</a></li>
+                                                        <li><a class="dropdown-item"
+                                                               href="https://scart.cl/buscar/Abcdin">Ver más productos
+                                                                de la tienda</a></li>
                                                     </ul>
                                                 </div>
                                             </div>
@@ -289,10 +327,11 @@
 
                                     <div class=" price-product-card ">
                                         <img class="label-price-product-card" src="../../assets/img/abcdin.png" alt="">
-                                        <p class="separator">  </p>
+                                        <p class="separator"></p>
                                         <div class="price-product-card">
                                             <p class="price-product-card-text">$8.990</p>
-                                            <img class="label-price-product-card" src="../../assets/img/greenarrow.png" alt="">
+                                            <img class="label-price-product-card" src="../../assets/img/greenarrow.png"
+                                                 alt="">
                                         </div>
 
                                     </div>
@@ -321,22 +360,28 @@
                                                                href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fscart.cl%2Fproducto%2F7641-cartera-mujer-tote"
                                                                target="_blank"
                                                                onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=550,width=600');return false;"
-                                                               title="Compartir en Facebook" aria-label="Compartir en Facebook"><i
-                                                                        class="fab fa-facebook-square" aria-hidden="true"></i></a>
+                                                               title="Compartir en Facebook"
+                                                               aria-label="Compartir en Facebook"><i
+                                                                        class="fab fa-facebook-square"
+                                                                        aria-hidden="true"></i></a>
                                                         </li>
                                                         <li><a class="whatsapp"
                                                                href="https://api.whatsapp.com/send?text=https%3A%2F%2Fscart.cl%2Fproducto%2F7641-cartera-mujer-tote"
                                                                target="_blank"
                                                                onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=550,width=600');return false;"
-                                                               title="Compartir en WhatsApp" aria-label="Compartir en WhatsApp"><i
-                                                                        class="fab fa-whatsapp-square" aria-hidden="true"></i></a>
+                                                               title="Compartir en WhatsApp"
+                                                               aria-label="Compartir en WhatsApp"><i
+                                                                        class="fab fa-whatsapp-square"
+                                                                        aria-hidden="true"></i></a>
                                                         </li>
                                                         <li><a class="twitter"
                                                                href="https://twitter.com/share?url=https%3A%2F%2Fscart.cl%2Fproducto%2F7641-cartera-mujer-tote"
                                                                target="_blank"
                                                                onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=550,width=600');return false;"
-                                                               title="Compartir en Twitter" aria-label="Compartir en Twitter"><i
-                                                                        class="fab fa-twitter-square" aria-hidden="true"></i></a>
+                                                               title="Compartir en Twitter"
+                                                               aria-label="Compartir en Twitter"><i
+                                                                        class="fab fa-twitter-square"
+                                                                        aria-hidden="true"></i></a>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -350,8 +395,14 @@
                                                         <i class="fas fa-ellipsis-v" aria-hidden="true"></i>
                                                         <span class="visually-hidden">Compartir ítem en redes sociales</span>
                                                     </button>
-                                                    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="product31780-actions-dropdown">
-                                                        <li><a class="dropdown-item goto-product" href="https://scart.cl/producto/31780-rack-murillo-cerezo">Ver más detalles</a></li>                            <li><a class="dropdown-item" href="https://scart.cl/buscar/Abcdin">Ver más productos de la tienda</a></li>
+                                                    <ul class="dropdown-menu dropdown-menu-end"
+                                                        aria-labelledby="product31780-actions-dropdown">
+                                                        <li><a class="dropdown-item goto-product"
+                                                               href="https://scart.cl/producto/31780-rack-murillo-cerezo">Ver
+                                                                más detalles</a></li>
+                                                        <li><a class="dropdown-item"
+                                                               href="https://scart.cl/buscar/Abcdin">Ver más productos
+                                                                de la tienda</a></li>
                                                     </ul>
                                                 </div>
                                             </div>
@@ -374,17 +425,19 @@
 
                                     <div class=" description-product-card ">
                                         <p class="subtitle-product-card"> ABCDIN </p>
-                                        <p class="title-product-card"> Parlante Bluetooth Portatil LG XBOOM GO PL5 Meridian  </p>
+                                        <p class="title-product-card"> Parlante Bluetooth Portatil LG XBOOM GO PL5
+                                            Meridian </p>
 
                                     </div>
 
 
                                     <div class=" price-product-card ">
                                         <img class="label-price-product-card" src="../../assets/img/abcdin.png" alt="">
-                                        <p class="separator">  </p>
+                                        <p class="separator"></p>
                                         <div class="price-product-card">
                                             <p class="price-product-card-text">$8.990</p>
-                                            <img class="label-price-product-card" src="../../assets/img/greenarrow.png" alt="">
+                                            <img class="label-price-product-card" src="../../assets/img/greenarrow.png"
+                                                 alt="">
                                         </div>
 
                                     </div>
@@ -393,16 +446,17 @@
                             </div>
 
 
-                    </div>
+                        </div>
                         <button aria-label="Siguiente"
                                 id="boton-carousel-new-next"
                                 class="carousel1__siguiente position-absolute top-50 translate-middle-y"
                                 style="z-index: 2">
                             <i id="icon-carousel" class="fas fa-chevron-right fs-3"></i>
                         </button>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
 
+    </div>
 </div>
