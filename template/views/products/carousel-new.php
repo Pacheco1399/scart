@@ -1,6 +1,6 @@
 <div class="contenido">
     <div class="carousel-scart">
-        <div class="mb-5">
+        <div class="my-5">
 
             <div class="carousel1__contenedor">
                 <div class="container-fluid">
