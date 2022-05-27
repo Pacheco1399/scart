@@ -1,3 +1,32 @@
+/* DEJAR EN PRINCIPAL para cambiar de vista la card*/
+
+.con-card-hide{
+    display: none;
+}
+.carousel-banner8-hide{
+    display: none;
+}
+.login-button{
+    display: none;
+}
+
+.register-text{
+    display: block;
+    background: linear-gradient(104.66deg, #FF635D 0%, #FA722C 99.25%);
+    color: #fff;
+    font-weight: 550;
+    letter-spacing: 1.25px;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 10px;
+    padding: 5px;
+}
+.register{
+    display: none;
+}
+
+
+
 :root {
     --degradado-naranja: linear-gradient(to right, #FF6663, #F4367B);
     --degradado-azul: linear-gradient(to right, #4F37C2, #1EA6E3);
@@ -30,12 +59,7 @@
     --whatsapp: #27D46B;
     --twitter: #00ABF0;
 }
-.con-card-hide{
-    display: none;
-}
-.carousel-banner8-hide{
-    display: none;
-}
+
 
 /* Inicio estilos generales */
 * {
@@ -3820,12 +3844,13 @@ header .como-funciona .btn {
 .btn-register,
 .btn-cupones {
 
-    width: 166px;
+    width: 100%;
     height: 50px;
     background: linear-gradient(104.66deg, #FF635D 0%, #FA722C 99.25%);
     border-radius: 10px;
     text-decoration: none;
     font-family: 'Poppins';
+
 
 }
 
@@ -5309,18 +5334,13 @@ header .como-funciona .btn {
     display: none;
     }
 
-    .register-text{
-        display: block;
-        background: linear-gradient(104.66deg, #FF635D 0%, #FA722C 99.25%);
-        color: #fff;
-        font-weight: 550;
-        letter-spacing: 1.25px;
-        font-size: 16px;
-        text-align: center;
-        border-radius: 10px;
-        padding: 5px;
-    }
 
+    .register{
+        display: flex;
+    }
+    .login-button{
+        display: block;
+    }
 
     .busqueda,
     .buscar{
@@ -5338,12 +5358,7 @@ header .como-funciona .btn {
         border: none;
 
     }
-    /*  CAMBIAR AL PRINCIPAL */
-    /* .login-button{
-        display: none;
-    }  */
 
-    /*  CAMBIAR AL PRINCIPAL */
     .c-box-desc {
 
         width: 68px;

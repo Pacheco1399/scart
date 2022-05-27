@@ -87,7 +87,6 @@ header {
     text-decoration: none;
     color: #fff;
     font-weight: 500;
-    margin-left: 10px;
 }
 
 .parte-1 .iconos {
@@ -431,7 +430,7 @@ p {
 
 .parte-1 .ofertas {
     justify-content: start;
-    margin-left: 20px;
+
 }
 
 .parte-1 .ofertas .numero {
@@ -1425,7 +1424,7 @@ nav.edits-profile .boton-editar {
 
 @media (min-width: 320px) and (max-width: 767px) {
     .parte-1 .busqueda {
-        border-radius: 100px;
+        border-radius: 10px;
         width: 100%;
         background: #ffff;
         padding-left: 0px;

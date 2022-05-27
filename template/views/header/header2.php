@@ -1,6 +1,7 @@
-<div class="parte-1 menu-fixed">
-    <header>        <!-- Inicio barra de navegación -->
-        <nav class="navbar navbar-expand-md navbar-dark">
+<div class="parte-1 menu-fixed pt-2">
+    <header>
+        <!-- Inicio barra de navegación -->
+        <nav class="navbar navbar-expand-md navbar-dark ">
             <div class="container">
                 <a class="logo navbar-brand" href="/"><img src="../../assets/img/new/logo-blanco.svg"
                                                            alt="Logo de Scart"></a>
@@ -48,7 +49,8 @@
         <!-- Inicio barra de busqueda -->
         <div class="container">
             <div class="row gx-3 gx-md-4 gy-3">
-                <div class=" carpetas col-12 col-sm-3 col-lg-2 col-xl-2 d-md-flex">
+
+                <div class=" carpetas col-12 col-sm-2 col-lg-2 col-xl-2 d-md-flex">
                     <a class="nav-link mis-carpetas d-flex align-items-center justify-content-center flex-fill"
                        href="/mis-carpetas">
                         <i class="far fa-folder"></i>
@@ -56,7 +58,7 @@
                     </a>
                 </div>
 
-                <div class="col-10 col-sm-7 col-lg-5 col-xl-6">
+                <div class="col-10 col-sm-10 col-lg-5 col-xl-5">
                     <div class="h-100 busqueda buscar  align-items-center overflow-hidden m-0">
                         <form class="w-100 h-100 mb-0" action="/buscar" method="get" id="scart-search-form">
                             <div class="d-flex align-items-center h-100">
@@ -72,7 +74,6 @@
                     </div>
                 </div>
 
-                <!--
 
                      <div class="login-button col-2">
                          <div class="h-100  d-flex align-items-center overflow-hidden m-0">
@@ -93,19 +94,8 @@
                          </div>
                      </div>
 
-                     <div class="cupones col-12 col-sm-2 col-lg-2 col-xl-2">
 
-                         <a href="#" class="nav-link btn-cupones d-flex align-items-center justify-content-center flex-fill">
-                             <img alt="" style="width: 25px; height: 20px;" src="../../assets/img/new/icon-ticket.png">
-                             <label>CUPONES</label>
-                         </a>
-
-
-                     </div>
-
-
-
-                     <div class="register col-12 col-sm-3 col-lg-2 col-xl-2 d-md-flex">
+                     <div class="register col-12 col-sm-12 col-lg-2 col-xl-2 ">
 
                          <a href="#" class="register-text nav-link d-flex align-items-center justify-content-center flex-fill">
                              <label>REGISTRATE</label>
@@ -114,8 +104,7 @@
 
                      </div>
 
-                     -->
-                <div class="cupones col-12 col-sm-2 col-lg-1 col-xl-1">
+                <div class="cupones col-12 col-sm-2 col-lg-2 col-xl-2">
 
                     <a href="#" class="nav-link btn-cupones d-flex align-items-center justify-content-center flex-fill">
                         <img alt="" style="width: 25px; height: 20px;" src="../../assets/img/new/icon-ticket.png">
@@ -125,14 +114,14 @@
 
                 </div>
 
-                <div class="offers  col-6 col-sm-6 col-lg-1 col-xl-2    ">
+                <div class="offers  col-6 col-sm-1 col-lg-1 col-xl-1    ">
                     <div class="h-100 ofertas">
                         <a class="ms-0 me-2" href="/notificaciones">OFERTAS</a>
                         <div class="numero">0</div>
                     </div>
                 </div>
 
-                <div class=" user-panel col-6 col-sm-6 col-lg-2 col-xl-1">
+                <div class=" user-panel col-6 col-sm-2 col-lg-2 col-xl-2">
                     <div class="h-100 iconos">
                         <a href="/notificaciones" aria-label="Ver mis notificaciones"><img height="18"
                                                                                            src="../../assets/img/new/icon-campana.svg"
