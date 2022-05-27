@@ -22,7 +22,7 @@
                     </button>
                     <div class="glider-wrap px-4">
                         <div class="carousel1__lista pt-2 pb-1" data-slides-per-page="1"
-                             data-slides-per-page-sm="3" data-slides-per-page-xl="4">
+                             data-slides-per-page-sm="1" data-slides-per-page-xl="4">
                             <div class="product-card">
 
                                 <div class="header-product-card ">

@@ -66,6 +66,7 @@
     </div>
 
     <div class="col-xl-1" style="width: 50px"></div>
+
     <div class="col-xl-5 col-md-6  mt-4  cat-box" >
         <label>Ofertas de bicicletas</label>
         <div class="row">
