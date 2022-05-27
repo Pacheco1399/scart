@@ -1,0 +1,13 @@
+Las nuevas vistas están hechas con boostrap y CSS
+-Estan ubicadas en :
+	\scart\template\views\products
+	scart\template\views\banners
+-Abrir con localhost/scart/template/views/home.php
+
+-Los css que se integran al código de Scart están ubicados al principio y final de la hoja,
+(seguro que algún código nuevo quedo por ahí)
+-Se reutilizo el código de los carouseles
+26/05/22
+
+
+
